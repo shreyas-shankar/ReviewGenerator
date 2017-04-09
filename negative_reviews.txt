@@ -1,0 +1,876 @@
+was mir gefällt:
++ tolles Design + Verarbeitung
++ für mich perfekter Formfaktor (schließt die Lücke zwischen 7'' und 10''')
++ scharfes, kontrastreiches Display
++ gute Akkulaufzeit
++ guter Sound
++ Fingerprint-Reader
++ SD-Karten-Slot
++ gute Performance
+was mir leider nicht gefällt, warum ich nur 2 Sterne vergebe und aus welchem Grund ich es zurückschicken werde:
+- das Touchdisplay reagiert leider oft falsch - manchmal tut sich erst verzögert etwas und manchmal kommt es auch zu einer Überreaktion (es werden beispielsweise beim Scrollen einer Nachrichtenseite Links geöffnet obwohl auf diese nicht geklickt wurde).
+Vorerst dachte ich, dass es evtl. an der beigelegten Displayschutzfolie liegt, welche ich daraufhin wieder abgezogen habe - hat leider keine Verbesserung gebracht. Meiner Frau geht es übrigens genauso beim Benutzen des Tablets.
+Schade - für mich wäre es das perfekte Tablet gewesen!
+Ja, das S7 ist ein High-end Modell. Ja, alle in den Tests hervorgehobenen Features hat das Handy. es erkennt meine Fingerprints - toll. Die Slow-Motion-Aufnahmen sind beindruckend und Gear VR macht Spaß...
+Aber mal ehrlich: Fingerprinterkennung ist ein in meinen Augen unnötiges Feature - dafür geb ich kein Geld aus. Gear VR macht man einmal ausgiebig und dann ist auch wieder gut. Slow-Motion Aufnahmen brauche ich auch nicht jeden Tag. Aber ein Handy, dass ich täglich brauche, soll lange durchhalten. Und da ist casus knaktus:
+Ich habe ein Vergleichsprofil mit dem Samsung A5 2016 gefahren und erstaunliche Ergebnisse erzielt:
+* komplett ohne Nutzung nur im normalen Telefonmodus mit WLAN an im heimatlichen Netz ist der Akkuverbrauch nahezu gleich. Zu Beginn des Tests werden 50h erwartete Nutzungsdauer bei beiden Geräten angegeben.
+* Upday (die News-App von Samsung) haut ganz schön in die Performance rein. Nach einer Stunde Nutzung im Wlan ist der Akku bei beiden Geräten bereits auf 88% runter und nur noch 44h erwartete Nutzungsdauer sind übrig (6 Stunden weniger!).
+* Nur eine halbe Stunde Coindozer nimmt anschließend nochmal 10% Nutzungsdauer auf beiden Geräten gleichermassen weg. Aber das S7 wird auch ohne Hülle dabei heftig heiss in der Hand. Die Metallrückseite wird offensichtlich zur Wärmeabstrahlung verwendet. Beim A5 fällt die Wärmeentwicklung erheblich geringer aus.
+* Danach gehen beide Handys mit Empfang und Wlan in die Nacht und 9 Stunden später hat das A5 noch 76% und erwartete 38h Restnutzung. Das S7 aber ist nach der Nacht auf 43% und 21h abgestürzt. Damit würde ich bei normaler Nutzung am nächsten Tag nicht mal mehr bis zum Feierabend kommen.
+Bei diesem Test hatten beide Handys keine Silikonhülle drum. Noch schlimmer sah der Vergleich bei vergleichbarem Profil am Vortag aus. Da hatte ich aber noch eine Silikonhülle jeweils um beide Geräte als Schutz fürs Gehäuse. Dabei brach der Akku des S7 bereits während der Nutzung massiv ein und als ich es am Ende aus der Hülle nahm,, war das S7 brüllend heiß geworden. Daher ging ich von Akkueinbruch aufgrund Hitzestaus aus und habe deshalb den Test am Folgetag ohne die Hüllen wiederholt.
+Ein weiterer Fakt ist ebenfalls erstaunlich: Um vergleichbare Belastung zu haben, wurde in dem Test immer parallel auf beiden Geräten dasselbe gemacht. In Upday durch die Artikel blättern, Artikel aufrufen - danach parallel Coindozer starten und auf beiden Geräten zocken, was die Finger und die Münzen hergeben. Nicht einmal war das S7 dabei beim starten einer App oder Menüwechseln oder im Game schneller als das A5.
+Fazit:
+Ich kann bei meinem Nutzungsprofil, das wohl dem vieler Normalanwender entspricht, keinen Vorteil für das S7 in der reinen Nutzung feststellen. Die Kamera ist etwas besser (was die Features wie z.B. Slow-Motion angeht) als die Kamera des A5 (2016) - aber auch die Kamera des A5 ist mit einem optischen Stabilisator ausgestattet und macht hervorragende Bilder. Effektiv konnte ich für mich kaum einen Qualitäts-Unterschied bei den Bildern feststellen. Akkuleistung ist mir aber sehr wichtig, da mich ohnehin annervt, dass es nur noch Riesen-Phablets mit maximal 24h Nutzungsdauer gibt. Hier schlägt sich das S7 (nur ohne Silikonhülle!!!) einigermassen. Das A5 (2016) aber haut hier richtig rein. In durchschnittlicher Nutzung bei mir hält das S7 ca 1 bis maximal 1,5 Tage - das A5(2016) aber deutlich über 2 Tage. Auch das ist mir eigentlich noch zu kurz (mein altes Motorola Razr I brachte mich immer zuverlässig über drei bis vier Tage), aber es ist ok. Und der größere Screen mit mehr Auflösung braucht nunmal mehr Strom - schon klar.
+Insgesamt wünsche ich mir wieder ein Handy mit 4,5 Zoll (maximal 4,7 Zoll) Größe, normaler HD-Auflösung, guter Kamera und drei Tagen Akkulaufzeit bei normaler Nutzung. Klimbim wie Fingerprintsensor brauche ich dagegen nicht. Derzeit gibt es leider keinen solchen Hersteller. Auch Sony Xperia Z3 compact und Xperia X compact habe ich aufgrund ihrer kleineren Größe getestet- beide sind bestenfalls ok, werden aber ebenfalls vom A5(2016) geschlagen. Da lebe ich mit der eigentlich unhandlicheren aber noch vertretbaren Größe des A5 (2016).
+Ich habe viel Zeit in diesen Vergleichstest gesteckt - ein "hilfreich" würde mich daher sehr freuen ;-)
+Bewerten möchte ich den Kundenservice inkl. Servicepartner von Amazon - Samsung.
+Habe das S7 bereits zu einem frühen Zeitpunkt vorbestellt wo noch damit geworben wurde, dass für "Vorbesteller" nach Erhalt des Gerätes kostenlos eine VR-Brille direkt bei Samsung angefordert werden kann. Hier bereits die erste Enttäuschung -> Obwohl damit Werbung im großen Stil gemacht wurde (explizit nochmal neben den "Kaufen Button") war diese Aktion für mich NICHT gültig da dies für Kunden aus Österreich nicht gelte. Auch nach erneuter Anfrage bei Samsung und Amazon nicht!! Ich kann bis heute nicht verstehen warum mit etwas geworben wird das im Herkunftsland des Users gar keine Gültigkeit hat......
+Zu meinem Schadensfall:
+Während einer Wanderung hatte ich das Telefon in meiner Hosentasche. Auch als es wie aus Kübeln schüttete war es in meiner Hose. Mein Telefon war nach dem Regen noch voll funktionsfähig und ich schoss sogar noch ein Foto damit. Bereits wenig später viel mir auf, dass sich der Lautsprecher nicht mehr vernünftig anhörte und die SD-Karte nicht mehr erkannt wurde. Nur wenig später hat sich das Handy einfach ausgeschaltet und lies sich nicht mehr aktivieren. Erst einen Tag später konnte ich es wieder laden + starten. Jedoch funktionierte die Touch Eingabe des Displays nicht mehr.
+Schaden habe ich gemeldet und Amazon hat mir seinen Servicepartner genannt, wo ich anschließend mein Telefon hingesendet habe.
+Folgende Diagnose wurde mir bekannt gegeben (siehe Anhang)
+Mein Telefon wurde mit einem Korrosionsschaden unrepariert wieder an mich retourniert, mit der Aussage das ein Wasserschaden außerhalb der Gewährleistung des Herstellers ist. Nach Telefonaten mit Samsung und Amazon blieb mein Handy unrepariert und keiner der Beiden übernahm die Kosten und ich blieb auf meinem IP68 zertifizierten Handy sitzen das nach dem 1. Kontakt mit Wasser einen Wasserschaden hat.
+Vielen Dank dafür.
+Habe mir danach einen fähigen Reparaturdienstleister gesucht der nach einer Ultraschallreinigung mein Gerät reparieren konnte. Dieser hat mir auch noch versichert, dass das Gerät zuvor sicher noch nie geöffnet wurde.
+Eine echte Enttäuschung......
+Das Gerät funktionierte einwandfrei - ca. 1 Woche.
+Ich hatte das Gerät quasi mit Samthandschuhen behandelt.
+Auf einmal fror während der Bedienung (Blättern auf dem Startbildschirm) der Bildschirm ein. Nach Betätigen des Hauptschalters wurde der Bildschirm schwarz und dann rührte sich rein gar nichts mehr. Das Gerät ließ sich nicht mehr einschalten, und auch beim Anhängen ans Ladegerät gab es keine Reaktion.
+Später bemerkte ich dann auch, dass das Gerät sehr heiß wurde - ohne dass man irgendetwas damit machen bzw. irgendetwas dagegen machen konnte (unangenehme Assoziationen kamen auf...). Also legte ich es (es war Abend) über Nacht beiseite.
+Am nächsten Morgen war das Gerät wieder kühl, und nach dem Anstecken an das Ladegerät fand auf einmal auch wieder ein Ladevorgang statt (der Akkustand war auf 0 %), und das Gerät ließ sich darauf hin auch wieder ganz normal bedienen.
+Ich vermute, es liegt hier wohl ein Problem mit dem Akku vor, der sich offensichtlich schlagartig entlud. Ein Blick auf die Einstellungen/Akkuverbrauch, welcher die Akkuverwendung seit dem letzten vollständigen Aufladen zeigt, scheint diese Annahme zu unterstützen (siehe Foto): Man sieht den rapiden Abfall des Stromverbrauchs von ca. 60 % auf 0 % - die Phase des leeren Akkus - und den kurzen Ladevorgang auf ca. 20 % am Morgen danach zum Zeitpunkt des Screenshots (obwohl seltsamer Weise die Uhrzeiten nicht genau mit den tatsächlichen Ereignissen übereinzustimmen scheinen).
+Das Gerät lag vor dem Vorfall lange Zeit bei Raumtemperatur und die Entladung fand wenige Augenblicke nach der Wiederinbetriebnahme statt, d.h. die Gründe für das Problem können keine extremen Temperaturschwankungen oder Überhitzung aufgrund intensiver Nutzung o.ä. sein.
+Es steht außer Zweifel, dass es sich bei diesem Gerät prinzipiell technisch um ein Top-Smartphone handelt, davon kann man sich nicht zuletzt auch anhand der vielen "objektiven" Produkttests im Internet überzeugen. Was diese Tests im Labor gegenüber einer "subjektiven" Kundenerfahrung aber nicht berücksichtigen (können), ist die langfristige Benutzung im Alltag und die Qualität im Sinne von Nachhaltigkeit und Zuverlässigkeit. Genau das ist aber letztendlich das, was für mich als Kunden über allen technischen Dingen von Bedeutung ist. Denn was nützt mir das beste Smartphone im Alltag, wenn ich mich nicht darauf verlassen kann, und das Gerät in einer womöglich heiklen Situation den Geist aufgibt, wenn meine Daten verlorengehen, oder ich mich in langwierigen Reparaturdienstleistungen mit dem Support herumschlagen und womöglich noch die Kosten für die Reparatur übernehmen muss (siehe einschlägige andere Rezensionen)?
+Ich habe mich nun trotzt aller Widrigkeiten nochmals dazu entschlossen, nach Rücksendung des defekten Geräts eine neues zu erwerben, da ich von dem Smartphone an sich wirklich begeistert bin. Somit hoffe ich, dass ich das Gerät in meinem Erfahrungsbericht bald in einem besseren Licht präsentieren kann, als dies gegenwärtig möglich ist...
+UPDATE 25.3.2017:
+Ich habe nun mein neues Gerät drei Wochen in Betrieb. Leider gab es auch hier wieder ein neues Problem, das bis jetzt zwei Mal auftrat. Die Verbindung zum Mobilnetz ging verloren und konnte nicht mehr hergestellt werden. Auch eine manuelle Netzwerksuche endete in einem erfolglosen Suchlauf. Ich konnte das Problem nur durch einen Neustart des Geräts beheben.
+Ein Blick ins Internet ergab dann, dass dieses Problem bereits seit einem Jahr (!) bekannt ist, aber es scheint Samsung selbst nach dem Update auf Android 7.0 nicht gelungen zu sein, es in den Griff zu bekommen.
+Die Folgen des Problems in meinem Fall waren wirklich sehr unangenehm, da der Verbindungsabbruch nicht "nur" während eines Gesprächs auftrat, sondern während einer längeren Ruhephase des Geräts aufgetreten sein musste, womit ich für einen wichtigen Anruf einfach nicht erreichbar war - ohne es zu wissen.
+Soviel also wieder zum Thema der Zuverlässigkeit...
+Ich versuche nun anhand der Hinweise im Internet, die Ursache für das Auftreten des Problems nachzuvollziehen, um es in den Griff zu bekommen ("nach Ausschalten des WLAN" etc.). Ein scheinbar willkürliches und sporadisches Auftreten des Problems im Alltag wäre einfach nicht vertretbar.
+Mittlerweile bin ich nämlich gedanklich wirklich schon so weit zu sagen, "besser dieser Fehler, als womöglich wieder ein anderer kapitaler bei einem weiteren Neugerät". Es ist auch nicht so, dass ich meine Zeit mit ständigem Einrichten meines Smartphones verbringen möchte. Leider gibt es für meine persönlichen Anforderungen/Bedürfnisse am Markt zurzeit keine wirklichen Alternativen.
+Für den Preis ist das Handy ein absolutes Performance-Monster und ich habe mich auch sehr grefreut, als Samsung Android 6 noch zum Download bereit gestellt hat. Leider war nach 5 Monaten normalem Gebrauch die Ladebuchse total im Eimer. Schade. sonst jedoch ein super Handy, das mit seinem geringen Preis, und gleichzeitig tollen features perfekt Schüler zugeschnitten scheint. Scha(n)de nur, das meins wohl eine Fehlproduktion war.
+Nachdem ich jetzt lange ein s4 mini benutzt habe, mit dem ich zufrieden war, habe ich nun das A3 erworben (dieses mal nicht über Amazon). Eigentlich wollte ich kein größeres Gerät( und das A3 ist größer), aber ich habe dann doch zugeschlagen. Das Gerät kommt schon wertig daher, wobei ich auch mit dem Gehäuse des S4 mini leben konnte-ich finde sogar das A3 ist etwas arg filigran und verzeiht einen etwas arglosen Umgang garantiert nicht so leicht.Mitdem Gerät (Geschwindigkeit,Ausdauer...) als Hardware bin ich schon zufrieden. Allerdings ist es grade beim Handy so, dass man die Software mitkauft. Das ging schon damit los, dass ich um schnell "unzuziehen" dieses mal Smart Switch Mobile von Samsung verwendet habe und zwar über einen PC. Also schön altes Gerät gesichert - neues ran und die Sicherung übertragen. Das wäre jetzt schon der Punkt gewesen an dem nicht Technik affine Menschen ihre Probleme bekommen hätten. Ich musste feststellen, nach dem ich die Datenträger (intern+SD-Card) überprüft habe, dass das Programm auf den interen Speicher auch zum Teil Daten der damaligen SD-Karte kopiert hatte. Der interen Datenträger war quasi voll und die Hälfte hier und die andere auf der SD-Karte. Naja also alles wieder zurecht kopiert und verschoben. Da war der Wunsch vom "schnellen Umzug" schon dahin.
+Danach habe ich mir das System (Anroid 5) mal angesehen.... Leider ist es hier so, dass einige Sachen, die ich gewohnt war nun nicht mehr vorhanden sind:
+-Kein Memo-Programm das meine alten Memos vom 4er lesen/importieren kann (Aussage von
+Samsung: Gibt es für das A3 nicht). Was mach ich jetzt mit diesen Daten???
+-Um die (für mich sinnlose) Beleuchtung der Menütasten abzuschalten benötigt man eine extra
+App
+-Man kann das Startmenü nicht mehr endlos durchscrollen-geschenkt.
+-Es gibt kein Kalenderwidget mehr, das nur die nächsten Tage anzeigt, sondern nur eins das den
+ganzen Kalneder anzeigt. Finde ich witzlos, da kannich gleich den Kalender öffnen
+-Man kann keine Termine mehr kopieren, sondern muss sie jedes Mal neu erfassen
+-Durch die Umbelegung der linken Menütaste als "Taskmanager" wird jetzt nicht mehr das
+Extramenü mancher Apps gezeigt. Dadurch kann man diese nur noch teilweise bedienen solange
+der Programmierer hier nichts anpasst
+Das ist das, was mir in den ersten 3 Tagen auffiel und weshalb ich immer mal wieder dran dachte auf das S4 mini zurück zu wechseln-auch wenn die Hardware wirklich sehr flüssiges Arbeiten erlaubt. Ich bin jetzt aber beim A3 geblieben, da ich mir erhoffe, dass die Entwickler von Android vielleicht auch mal wieder an Leute denken, die nicht nur WhatsApp machen, sondern auch das ein oder andere produktive.
+Es ist für mich also hauptsächlich die Software die mich enttäuscht hat. Und da ich nicht rooten oder sonstwas machen will gehört die eben fest zum Gerät und damit zur Bewertung dazu. Das Gute....es könnte ja in Zukunft besser werden.
+Das Handy hat keine 4 Wochen gehalten.
+Es wurde einmalig unter klares Wasser gehalten und war unmittelbar defekt.
+Die Antwort vom Samsung Service: Wasserschaden, keine Garantie oder Gewährleistung , obwohl entsprechend der AGBs Sim/sd Slot vollständig geschlossen war, keine Seifenlauge, kein Salzwasser im Spiel war, 20cm Wassertiefe, 30sec Dauer unter Wasser.
+Die Angabe von Samsung, dass es sich entsprechend des Standards um wasserdichte Geräte handelt, ist sehr zweifelhaft und nicht glaubwürdig.
+Ich bin von der Samsung Qualität sehr enttäuscht. Ein neues Kapitel in Sachen Samsung Qualität. Ich vertraue diesem Herstellers nicht mehr über den Weg.
+Ich kann die guten Bewertungen leider nicht teilen. Bei meinem Gerät funktionierte die Kernfunktion des Smartphones - das Telefonieren - nur sehr schlecht. Der Empfang war schlecht und circa jeder dritte Anruf von mir wurde abgebrochen. Da es mit derselben Sim-Karte in meinem alten Smartphone keine Probleme gibt, muss es wohl an meinem neuen Handy liegen. Ich habe es zur Reparatur eingeschickt und hoffe, dass es danach funktioniert.
+Wir haben uns (nicht über Amazon) 20 Stück des Galaxy Xcover 3 für unseren Aussendienst gekauft. Zwei Drittel der Mitarbeiter (über ganz Österreich verteilt) klagte von Beginn weg über Empfangschwierigkeiten. Teilweise kamen Anrufer gar nicht durch, obwohl nebenan Mitarbeiter mit anderen Modellen und gleichem Provider keine Schwierigkeiten mit ihren Telefonen hatten.
+Die Gesprächsqualität war auch unter jeder Kritik. Zwar wurden die Geräte im Rahmen der Garantie 'repariert', geändert hat sich allerdings an den Problemen nichts. Auch der vom Provider vorgeschlagene Wechsel der SIM-Karten war zwecklos.
+WLan funktionierte einwandfrei. Datenempfang war auch sehr zufriedenstellend, als Hotspot für unsere Notebooks ideal. Nur für Gespräche ist es nicht zu gebrauchen.
+Sind dann auf Galaxy A3(2016) gewechselt, die ohne Anstand funktionieren.
+Unterm Strich möchte ich für das Xcover 3 keine Kaufempfehlung abgeben, eher Finger weg davon.
+Innerhalb der ersten Woche hat sich das Gerät vier Mal ohne Grund (ohne Belastung) herrunter gefahren und nür über den Boot-Modus wieder einschalten lassen. Normales Einscahlten über den Power-Button war nicht mehr möglich.
+Auch nach einer Zurückstellung auf Werkseinstellungen ist der Fehler wieder aufgetaucht. Ich habe das Gerät somit nach einer Woche wieder umgetauscht.
+Das Handy ist mir aus der Hand gefallen (Fallhöhe geschätzt 1 m), und das Display hat in der rechten, oberen Ecke zwei kleine Risse. Das hätte meiner Meinung nach nicht passieren dürfen - dafür kaufe ich mir eben ein "Outdoor-Handy".
+Ich habe das Gerät dann reklamiert und als Antwort von Amazon einen Kostenvoranschlag über eine Reparatur erhalten (90,--). Ein Anruf beim Hersteller ergab, dass die Garantie für Stürze aus "nicht größeren Höhen" so lange gilt, bis das Händy kaputt ist. Ein Schelm, wer Böses dabei denkt.
+Der Mitarbeiter der Hotline bei Samsung war übrigens ganz erstaunlich unfreundlich, liess mich nicht ausreden und reagierte patzig. Erstaunlich unprofessionell.
+Ich habe beide Vorgängermodelle (Xcover 1 und 2) gehabt und bin sicher, dass beide erheblich mehr verkraftet haben als das aktuelle.
+Was Gerätespeicher und Rechenleistung angeht, gefällt mir das Xcover 3 gut. Diese Punkte habe ich auf Grund der mangelhaften Stabilität des Displays nicht in meine Bewertung einfließen lassen.
+Ich hatte bereits das xcover 2 mit dem ich zufrieden war (bis auf den kleinen Speicher). Nun sollte das xcover 3 der Nachfolger werden. Von Anfang an hatte ich das Problem, dass der Akku übernacht leer wurde. Ausserdem liess sich das Gerät mehrmals am Tag ohne ersichtlichen Grund nicht mehr einschalten, erst nach Entfernen des Akkus funktonierte es wieder. Auch wurde ständig die SD-Karte nicht mehr erkannt, nach Neustart ging es dann plötzlich wieder. Ich dachte das Handy hat evtl. Kontaktprobleme und liess es umtauschen. Leider zeigt das Ersatzgerät trotz einer neuen SD-Karte die gleichen Probleme. Mit diesen Macken leider zu unzuverlässig und nicht zu gebrauchen.
+Ich habe ein Handy gesucht das bei ausritten mit dem Pferd im Regen keinen Schaden findet. Leider habe ich mit diesem Handy total ins Klo gegriffen. Ein 20 min. Ritt im Regen (Handy war in der Hosentasche) haben schon dafür gesorgt. Das das Handy 12 Stunden kein Mikrofon mehr hatte.
+Zudem hängt es sich andauernt auf und stürzt auch gerne mal ab. Der Akku ist auch nicht von langer Leistung.
+Ich hatte das Handy jetzt 10 Monate im Gebrauch und kann es jetzt entgültig vergessen. Bei 60 % akkuleistung stürzt es regelmäßig ab.
+An sich gefällt mir das Gerät gut. Leider fehlt zum optimalen Schutz die Abdeckung für die Aufladebuchse am Smartphone sowie Kopfhörerbuchse.
+Bedienung gut und wenn man Samsung kennt, auch einfach. Doch trotz externer Speichererweiterung sind die 1GB vom Gerät wirklich wenig. Viele Apps kann man nicht nutzen, da sie nicht auf die Speicherkarte verschoben werden können.
+Ich nutze das Gerät seit acht Monaten sehr viel! Die Hometaste klemmt bereits und das Display lässt sich ab und zu nicht bedienen. Auch das scharf stellen der Kamera funktioniert, wenn überhaupt, nur zögerlich und ist somit defekt.
+Ich weiß nicht, ob ich dieses Handy weiterempfehlen würde. Schade um die 170€
+Ich bin vollstens unzufrieden mit demstasche gefallen und leider dadurch unglücklich einen Displayschaden erlitten. Ich habe sofort über Amazon versucht das Handy zu reklamieren. In allen Beschreibungen wird ausdrücklich darauf hingewiesen, dass das Smartphone sehr robust ist und auch mal runterfallen darf ohne das es Schäden davon trägt. Ich durfte das Handy zum Reparatur zentrum von Amazon senden. Hier habe ich nach kurzer Zeit die Rückmeldung bekommen, dass Display wäre wegen Mechanischen Einwirkungen defekt und die Reparatur kostet 90€ da dies nicht unter die Garantiebedingungen fallen würde. Ich soll dem zustimmen oder das Handy entsorgen lassen oder zurück ordern ohne Reparatur. Das Smartphone ist wohl bemerkt als Robust und Stabil betitelt. Stürze von 1,5m wären kein Problem. Ich habe das Handy nun ohne Reparatur zurückerhalten bin sehr enttäuscht. Das Kaufargument für dieses Handy war die Stabilität und es gab definitiv nur einen Sturz und keine mechanischen Einwirkungen. Leider gibt es nicht die Möglichkeit diesen Feedback an anderer Stelle zu adressieren, deshalb landet es hier. Der Support bei Samsung ist nicht kundenfreundlich. Wir befinden uns innerhalb der Garantie wohlbemerkt. Schade sehr zu bedauern,
+Technisch ist das Handy gut und hält was es verspricht, aber die Outdoor-Tauglichkeit lässt zu wünschen übrig:
+- Nicht wasserdicht und Umtausch nur nach ewigem Gezeter
+- Abdeckung schließt nicht richtig ab --> "kein Umtauschgrund"
+- SIM-Karte wurde wiederholt nicht mehr erkannt, musste dann ein Workaround finden
+- schließlich ist das Display total zersprungen weil es nur auf Fliesen gefallen ist.
+Ich hatte jetzt genug und habe mir ein anderes Telefon gekauft.
+Für den Preis ist das Handy ein absolutes Performance-Monster und ich habe mich auch sehr grefreut, als Samsung Android 6 noch zum Download bereit gestellt hat. Leider war nach 5 Monaten normalem Gebrauch die Ladebuchse total im Eimer. Schade. sonst jedoch ein super Handy, das mit seinem geringen Preis, und gleichzeitig tollen features perfekt Schüler zugeschnitten scheint. Scha(n)de nur, das meins wohl eine Fehlproduktion war.
+Nachdem ich jetzt lange ein s4 mini benutzt habe, mit dem ich zufrieden war, habe ich nun das A3 erworben (dieses mal nicht über Amazon). Eigentlich wollte ich kein größeres Gerät( und das A3 ist größer), aber ich habe dann doch zugeschlagen. Das Gerät kommt schon wertig daher, wobei ich auch mit dem Gehäuse des S4 mini leben konnte-ich finde sogar das A3 ist etwas arg filigran und verzeiht einen etwas arglosen Umgang garantiert nicht so leicht.Mitdem Gerät (Geschwindigkeit,Ausdauer...) als Hardware bin ich schon zufrieden. Allerdings ist es grade beim Handy so, dass man die Software mitkauft. Das ging schon damit los, dass ich um schnell "unzuziehen" dieses mal Smart Switch Mobile von Samsung verwendet habe und zwar über einen PC. Also schön altes Gerät gesichert - neues ran und die Sicherung übertragen. Das wäre jetzt schon der Punkt gewesen an dem nicht Technik affine Menschen ihre Probleme bekommen hätten. Ich musste feststellen, nach dem ich die Datenträger (intern+SD-Card) überprüft habe, dass das Programm auf den interen Speicher auch zum Teil Daten der damaligen SD-Karte kopiert hatte. Der interen Datenträger war quasi voll und die Hälfte hier und die andere auf der SD-Karte. Naja also alles wieder zurecht kopiert und verschoben. Da war der Wunsch vom "schnellen Umzug" schon dahin.
+Danach habe ich mir das System (Anroid 5) mal angesehen.... Leider ist es hier so, dass einige Sachen, die ich gewohnt war nun nicht mehr vorhanden sind:
+-Kein Memo-Programm das meine alten Memos vom 4er lesen/importieren kann (Aussage von
+Samsung: Gibt es für das A3 nicht). Was mach ich jetzt mit diesen Daten???
+-Um die (für mich sinnlose) Beleuchtung der Menütasten abzuschalten benötigt man eine extra
+App
+-Man kann das Startmenü nicht mehr endlos durchscrollen-geschenkt.
+-Es gibt kein Kalenderwidget mehr, das nur die nächsten Tage anzeigt, sondern nur eins das den
+ganzen Kalneder anzeigt. Finde ich witzlos, da kannich gleich den Kalender öffnen
+-Man kann keine Termine mehr kopieren, sondern muss sie jedes Mal neu erfassen
+-Durch die Umbelegung der linken Menütaste als "Taskmanager" wird jetzt nicht mehr das
+Extramenü mancher Apps gezeigt. Dadurch kann man diese nur noch teilweise bedienen solange
+der Programmierer hier nichts anpasst
+Das ist das, was mir in den ersten 3 Tagen auffiel und weshalb ich immer mal wieder dran dachte auf das S4 mini zurück zu wechseln-auch wenn die Hardware wirklich sehr flüssiges Arbeiten erlaubt. Ich bin jetzt aber beim A3 geblieben, da ich mir erhoffe, dass die Entwickler von Android vielleicht auch mal wieder an Leute denken, die nicht nur WhatsApp machen, sondern auch das ein oder andere produktive.
+Es ist für mich also hauptsächlich die Software die mich enttäuscht hat. Und da ich nicht rooten oder sonstwas machen will gehört die eben fest zum Gerät und damit zur Bewertung dazu. Das Gute....es könnte ja in Zukunft besser werden.
+Das Preis-Leistungs-Verhältnis hatte mich vom dem J3 überzeugt. Ein Marken-Handy (hatte vorher schon Samsung Galaxy) mit duo-Sim und dazu genug Speicher, um mit der Gear S2 mitspielen zu können. Perfekt, also bestellt und - wie immer bei Amazon- schnell geliefert. Anfangs tolles, schnelles Gerät, aber nach exakt 4 Wochen zeigten sich morgens diverse Mikrorisse hinter dem Display und das Gerät blieb dunkel. Das Glas war einwandfrei, nichts war gebrochen. Also am 30.09.2016 an Samsung Service geschrieben. Kaum drei Wochen später kam sogar eine Antwort mit dem Vorgehen zur Garantieprüfung. Einsenden an einen Dienstleister (Fa. w-support.com GmbH). Außer Eingangsbestätigung tat sich vorerst nichts. Mitte Dezember 2016 noch mal an Samsung Service geschrieben und erinnert. Keine Reaktion, bzw. Verweis auf den Dienstleister.
+Und noch gerade eben im alten Jahr, am 28.12.2016 kam dann die Ablehnung der Garantie verbunden mit dem Kostenvoranschlag in etwa der Höhe des Neukaufpreises. Ich habe mir das Gerät dann unrepariert zurückschicken lassen und halte es seit dem 13.01.2017 wieder in Händen. Also kaum 4 !!!!!! Monate für die Feststellung eines Defektes (wobei hierzu das Gerät offensichtlich noch nicht einmal geöffnet wurde). Mit Reparatur hätte ich dann vielleicht Ostern wieder telefonieren können.
+Ich habe noch niemals einen schlechteren Service erlebt. Man kann derzeit nur jeden vor Geräten von Samsung warnen, es sei denn, man muss nicht irgendwann deren Service in Anspruch nehmen.
+Schade, war bisher mit so vielen Samsung-Geräte zufrieden.
+Das gelieferte Handy ist bereits nach einer einwöchigen Nutzungsdauer defekt. Das Display ist schwarz und reagiert nicht mehr. Sowohl ein Neustart und ein Entfernen des Akus brachte keinen Erfolg. Ein Sturz oder Schlag hat das Handy nicht abbekommen und wurde zudem nur mit Panzerglasfolie und einer Lederschutzhülle benutzt.
+Ich war bis dato gerne und überzeugter Samsungkunde. Leider ist mit dem Gerät das passiert, was schon so vielen anderen Samsungkunden passiert ist wenn man den Einträgen großer Suchmaschinen glauben darf. Ohne Fremdeinwirkung bekommt der TFT Risse und bleibt schwarz. Mein Gerät lag mit Panzerfolie und Silikonhülle neben mir. Folie OK, Displayglas OK - Display defekt. Schwer zu glauben, aber ich bin wohl nicht der einzige.
+Samsung lehnt Garantie hab - wie bei allen Betroffenen.
+Desweiteren hatte das Gerät keine Status LED und nur einen Wecker ohne Snooze. Aus Kostengründen sagt Samsung.
+Mein letztes Samsunggerät.
+Finger weg!!!
+Handy ist NICHT runtergefallen, war in der Hand, als das Display flackerte, und das Handy finster blieb!
+Plötzlich Risse am Display, nicht am Glas! Auf der Unterseite einfach gebrochen!!! Ohne Krafteinwirkung! Auch andere Kunden haben dieses Problem, bin gespannt wie hier gehandelt wird!
+Ansonsten zufriederner Kunde, aber ganz billig ist das Handy nicht, für 2 Monate Benützung nicht OK...
+Hoffe auf kulante Lösung!
+Ich liebe Samsung und habe bis zu diesem Telefon nur gute Erfahrungen gemacht. Der Empfang ist schlecht, am Anfang hatte ich bei sämtlichen Gesprächen starke Störgeräusche. Mittlerweile sind die Störgeräusche weg dafür ist der mega schlechte Empfang geblieben, das problem hatte ich mit meinen anderen Handys nicht.die Gespräche werden mittendrin einfach unterbrochen durch 10 Sekunden Ausfälle oder das Gespräch bricht ganz ab.
+Bei der Freisprecheinrichtung kann man nicht wählen, welche der beiden Sim Karten man möchte, beim vorigen Windows Phone hatte ich die 1. Sim Karte als bevorzugte Karte.
+Der Akku hält nicht lange, ich muss jeden Tag aufladen, obwohl ich keine großartigen Sachen drauf habe.
+Beim 1. Einschalten könnte es sich nicht mit dem WLAN verbinden. Recherchen im Netz haben das bestätigt. So war die Einrichtung des Telefons nicht möglich! Gleich zurück!
+Ich habe das P8 Lite nun 9 Monate. Anfangs war ich begeistert. Im August viel dann plötzlich das WLAN aus. Nach einem Anruf bei der Hotline begann eine 5 wöchige Wartezeit bis das Gerät repariert wurde. Die Platine wurde getauscht. Wenige Tage später trat der Fehler wieder auf.
+Laut Recherchen im Internet ist das WLAN Problem beim P8 Lite leider keine Ausnahme.
+Für mich ist die Konsequenz: Nie wieder Huawei
+Eigentlich ein schönes Smartphone, wenn nicht nach 3 Monaten W-Lan, Bluethoot und GPS defekt wären.
+Nach ein bisschen Google Recherche, ist das wohl ein sehr bekanntes Problem und nicht reparabel.
+Mitlerweile hängt sich das Telefon in Abständen auf und muss neu gestartet werden.
+Ein Anruf bei Huawei Deutschland brachte keinen Erfolg. Smartphone hätte keine deutsche, sondern eine skandinavische Kennung, so sei eine Reparatur in Deutschland nicht möglich.?? Beim Verkauf gab es keinen Hinweis darauf!
+Der Verkäufer reagiert nicht mal auf Anfragen!
+Null Service.... Finger weg!
+Schön, dass in der Beschreibung mit keinem Wort erwähnt wird, dass es sich um eine pakistanische Version handelt.
+Somit gibt es hierzulande keinerlei Updates. Schon mal gar nicht auf 6.0
+Finde das schon unverschämt.
+Handy geht somit wieder zurück.
+Das Handy ließ sich von Anfang an nicht mehr aus dem Ruhemodus aktivieren. Ich bin dann zum lokalen Servicebetrieb von Huawei, wo man es an Huawei einschickte. Ich musste für diesen Service 10 Euro bezahlen (da es, wie man sagte, mit der Garantie nichts zu tun hätte.). Obwohl es einen Vermerk über das Problem gab, kam das Handy weiterhin defekt zurück. Man hatte wohl nur die Software neu aufgespielt und sonst nichts. Also, nochmal zurückgeschickt - und wieder wurde das Problem nicht behoben.
+Ich habe dann bei Huawei in Düsseldorf angerufen. Man schlug mir vor, dass ich das Handy noch einmal dorthin schicke, womit ich aber nicht einverstanden war. Schließlich hatte die ganze Repariererei bereits über 3 Wochen gedauert und das Teil war immer noch kaputt. Ich sagte, dass ich gerne einfach ein neues Handy hätte.
+Der Hotlinemitarbeiter meinte daraufhin, dass müsste er mit seinem Chef besprechen und er würde sich wieder melden - was er aber nicht getan hat. Eine Nachfrage per E-Mail meinerseits wurde ignoriert.
+Ich habe daraufhin das Teil zurückgeschickt und mein Geld zurückverlangt.
+Natürlich hat eine Firma das Recht, 3x zu reparieren. Wenn es aber so viele Probleme gibt, wäre es definitiv kundenfreundlicher einfach ein neues zu geben. In einem ähnlichen Fall hat ein Bekannter von der Firma Samsung sogar nach 1x reparieren ein neues bekommen und sogar ein Upgrade. Das nenne ich guten Kundenservice.
+Schade, denn das Handy an sich war nicht schlecht. Habe jetzt das Honor 5x gekauft, zwar eine Tochter von Huawei, aber von Huawei selber möchte ich wegen dem schlechten Service schon aus Prinzip nichts mehr.
+Gekauft habe ich das S7 Edge 32GB im August 2016 zu einem stolzen Preis von 719,99€.
+Als Umsteiger von Apple zu Samsung hatte ich natürlich zunächst Schwierigkeiten mit der neuen Software klarzukommen, war aber alles in allem zufrieden, vorallem da mein Kauf durch den abgerundeten Bildschirm und die Kameraauflösung des S7 Edge begründet war (lediglich die Selfie-Kamera lässt die Bilder ziemlich unnatürlich wirken).
+Knapp zwei Monate nach der Investition war es das allerdings mit schönen Bildern, Videos und vorallem dem Telefonieren, denn das Smartphone ließ sich nicht mehr laden, zunächst mit etwas hin und her wackeln am Ladekabel noch, schließlich garnicht mehr.
+Selbst ein Dilettant erkennt, dass es sich hier wohl um einen Defekt des Ladeslots handelt.
+Zu diesem Zeitpunkt befand ich mich noch in Afrika wo gerade Hochsommer war (Niederschlag = null), was das mit der Rezension zu tun hat, dazu gleich mehr.
+Nach meiner Reise, sendete ich das Mobiltelefon also zur Reperatur ein. Zwei Wochen später dann die Antwort:
+Schaden: Feuchtigkeitsschaden
+Reperaturkosten: 319,99€
+Dies ist nicht von der Garantie gedeckt, teilen Sie uns bitte mit, ob wir die Reperatur durchführen sollen.
+Feuchtigkeitsschaden?
+Ja ne is klar, zum Glück ist das S7 Edge wie angepriesen ja wasserdicht und hat zu dem Zeitpunkt nichtmal einen Tropfen Flüssigkeit abbekommen.
+Also bat ich den Servicemitarbeiter, mir doch bitte mehr Details, wie beispielsweise auch Bilder zu dem Schaden vorzulegen.
+Dies sei nicht möglich, sie hätten lediglich ein Bild vom Äußeren des Smartphones bzw. vom Ladeslot, welcher von außen fotografiert wurde. Geöffnet wurde das S7 Edge dafür wohl nicht.
+Na hier wird Kundenbindung noch groß geschrieben!
+Der E-Mail-Verkehr mit Samsung direkt ist leider ebenso unnützlich, da der Kunden"dienst" lediglich betont, wie ausführlich Ihre Servicemitarbeiter das Smartphone doch überprüft hätten.
+Dazu kommt noch, dass bei Samsung die Ladebuchse mit dem Displayrahmen und -glas verklebt ist, was im Klartext bedeutet:
+Wenn man den Ladeslot austauschen möchte, kann man zwar versuchen diesen rauszubrechen (bzw. das von einer Handywerkstatt machen zu lassen), dies hat aber mit hoher Wahrscheinlichkeit ein Brechen des Displays zufolge und schon ist man wieder bei über 300€ Reperaturkosten.
+Wer also auf der Suche nach einem teuren Hobby mit laufenden Kosten oder einer andauernden Brieffreundschaft ohne Zielführung ist, der sollte sich unbedingt ein Samsung zulegen, ansonsten kann ich nach meinen persönlichen Erfahrungen leider nur vom Kauf abraten.
+Ich habe mir dieses Handy nach langer Recherche und meist positiver Bewertungen und Fachtest gekauft.
+Leider wurde das Display nach ca. 2 Monaten defekt (durchgehender und permanenter rosa Strich von oben nach unten).
+Der Kontakt mit Samsung ist höchst Aufwendung und kostet Nerven. Der erste Kontakt war per Mail, bis dato habe ich nur eine Mail zurück bekommen das es bedauert wird das der Schaden aufgetreten ist und mein Anliegen bearbeitet wird. Seitdem habe ich nichts mehr von der Fa. Samsung per Mail gehört. Der zweite Kontakt war telefonisch von mir an die Servicestelle, Kommentar des Servicemitarbeiters war das ich zur nächsten SamsungWorld fahren solle und das der Schaden innerhalb von einer Stunde behoben wird (Displayaustausch).
+Leider war dem nicht so.
+Das Austauschdisplay ist seit zwei Monaten nicht lieferbar. Jedes Mal wenn ich bei der SamsungWorld (SCS) anrufe (wenn abgehoben wird) und Nachfrage will ob den das Ersatzteil geliefert wurde, werde ich vertröstet.
+Fakt, ein Gerät um ca. 700€ das nach 2 Monaten defekt ist! Samsung ist nicht fähig den Schaden bis Stand heute zu beheben.
+Meiner Meinung nach eine Frechheit. NIE WIEDER kaufe ich ein Handy von Samsung!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Ich habe das Gerät ende April bestellt und bis jetzt nur Probleme gehabt....
+Die Sim-Karte wird manchmal nicht erkannt, die micro-SD wird nicht erkannt, Telefongespräche brechen ab - Internetverbindung bricht ab
+Die Lautsprecher werden immer schlechter, Im Auflade "Schacht" (USB-Verbindung) setzt sich irgend ein blaues Zeug ab, Der Bildschirm ist gesprungen als ich das Gerät auf den Tisch gelegt habe (Von Anfang war ein kleiner fast nicht sehbarer Kratzer im Display - an dieser stelle ist dieses jetzt gerissen!)
+Falls ich ein neues Gerät kaufe / erhalte werde ich dieses Review erneuern.
+Ich war bis jetzt immer Zufrieden mit Samsung aber sowas geht einfach nicht.
+Meine Frau hat bisher ein iPhone 3GS benutzt und war damit auch sehr zufrieden.
+Nachdem vor ein paar Tagen durch einen Sturz die Scheibe zersplittert ist, dachte ich, es wäre an der Zeit ihr ein neues Smartphone zu gönnen. Nach kurzer Diskussion über das Anforderungsprofil entschieden wir uns für das iPhone 7, da dieses laut diverser Tests und Usermeinungen einen besseren Empfang als das 5er oder 6er haben solle.(Wir können die vergleichsweise schlechte Empfangsleistung dieser Geräte recht gut beurteilen, da ich sowohl erst das 5er und jetzt das 6er nutze)
+Die Lieferung erfolgte Amazon-typisch schnell und problemlos, die Optik und Haptik des neuen iPhones ist perfekt, die Installation -wie von Apple gewohnt- unproblematisch und schnell.
+Aber dann kam leider die Ernüchterung.
+Wir leben auf dem Lande und haben uns daran gewöhnt, einen nicht so optimalen Netzempfang zu haben (egal ob D1, D2...). Mit dem 3GS konnte meine Frau überall im Haus und auf dem Grundstück problemlos telefonieren, mit dem neuen 7er war dies nicht mehr möglich. Entweder eine Position am Fenster suchen, dort dann möglichst nicht bewegen oder aufs telefonieren verzichten... beides keine wirklich sinnvolle Alternative, wenn man das Telefon berufsbedingt fast ununterbrochen nutzen muss. Da meine Frau zudem viel im ländlichen Raum unterwegs ist, somit eh schon oft mit schwacher Netzabdeckung zu kämpfen hat, ist das iPhone 7 für ihren Nutzungszweck leider absolut unbrauchbar. Was nützt die einfache Einrichtung, die problemlose Vernetzung mit Outlook, die Terminkoordination in der Firma oder andere Gimmeks, wenn die rudimentären Grundfunktionen nicht nutzbar sind?
+Für mich ist es unverständlich, dass Apple es über Gerätegenerationen nicht schafft, wieder eine akzeptabele Empfangsleistung hinzubekommen. Andere Hersteller haben das Thema besser im Griff und es nervt einfach, wenn alle um einen herum problemlos telefonieren oder Nachrichten verschicken können und man selber sitzt mit seinem Edel-Phone auf dem Trockenen...
+Da telefonieren meiner Meinung nach immer noch die wesentliche Grundfunktion eines Mobiltelefons ist, kann ich trotz aller anderen positiven Eigenschaften dieses Gerätes nicht mehr als einen Stern vergeben, insbesondere da Apple dieses Problem augenscheinlich seit Jahren nicht wirklich ernst nimmt!
+Das iPhone 7 geht zurück an Amazone und das alte 3er wird repariert.
+Das Originalitätssiegel war geöffnet und mit einem gefälschten Siegel überklebt. Die Folienverpackung des Handys und des Akkus waren gebraucht. Es ist also nicht nachzuvollziehen ob es sich tatsächlich um Neuware handelt. Handy geht zurück, Amazon kann leider keinen Ersatz liefern.
+So ein schlecht verarbeitetes Produkt habe ich lange nicht gekauft. Mousepad und Mauszeiger agierten völlig unkontrollierbar. Sie führten ein Eigenleben und reagierten nicht auf Steuerungsbefehle. Dem Netbook lag auch keine Registrierungskarte für Windows 10 bei, so dass ich es insgesamt zurückgeben musste.
+Konzept - ok
+10 zoll - ok
+Display - ok
+Leistung - nicht ausreichend
+Ein kleiner Atom CPU, 2 GB das ganze mit Win 10 - da heist es Geduldig sein
+reagierte einfach nicht mehr, tot.
+Am nächsten Gerät war der Stromstecker in der Buchse so fest, dass er nur mit übermäßiger Kraft gezogen werden konnte, d.h. das hält sicherlich auch nicht lange.
+Schade, um die ganzen Stunden bis sich das Gerät upgedated hatte.
+Das zweite was retour geht. Beim Zweiten lieg ich in Dauerstartschleife...es startet nicht Windows, sondern kommt in Warteschleife immer wieder zu Spracheeinstellung.....nee danke.
+Ausschauen tut es ja gut...aber Funktion nix für mich und meine Nerven
+Das Gerät ist nichtt sehr sonderlich empfehlenswert! meines schaltet sich ständig bei öffnen zB des Browsers bei 53% Akkuladung. ab. bin vom windows tablet und vom trackpad etwas enttäuscht.
+Ich war von dem Gerät anfangs begeistert. Sehr gute Verarbeitung, super Display, Keyboard mit einem guten Druckpunkt und keine hakenden Tasten. Das Tablet ließ sich prima von der Tastatur lösen. Klasse dachte ich - ein guter Kauf. Sehr gut fand ich, dass das Gerät sehr gut über mein Smartphone (Samsung Note4) in das Internet kam. Dann kam irgendwann ein Windows-Update der tatsächlich über 6 Stunden gedauert hat - obwohl ich sehr schnelles Internet und WLAN habe. Nach 2 Wochen begann das Display zu "spinnen". Streifen, manchmal keine Reaktion auf Eingaben. Na gut dachte ich, sowas passiert. Also Neustart. Eine Woche lief es dann. Ich nam dann das Geräte zu einem Kunden mit um etwas vorzuführen und das Gerät bootete überhaupt nicht mehr. Nach einigen Versuchen zeigte das Display dann Streifen - aber nicht was es sollte. Ich bin schwer enttäuscht, weil ich das kleine handliche Gerätchen eigentlich anfangs gut fand.
+Ich habe das Lenovo Mixx 310 nun einige Monate in Gebrauch. Am meisten vermisse ich den schnellen Zugriff auf Browser und Apps, den ich bei meinem alten iPad 1 hatte. Ein schneller Druck auf die Home-Taste und schon kann es losgehen. Da ich die volle Funktionionalität von Word haben wollte,habe ich mich durchgerungen, ein Windows-Tablet anzuschaffen. Inzwischen bereue ich das immer mehr.
+Ganz besonders nervig finde ich, dass man den Einschaltknopf gefühlt ewig halten muss, bis das Gerät startet. Aktuell habe ich das Problem, das Windows dann zwar irgendwann startet, aber wenn der Bildschirm kommt, wo man nach oben wischen muss, um sich anzumelden, darf ich genau das nicht machen, weil das Tablet dann sofort aus geht. Dann kann ich den Einschaltknopf wieder ewig halten, es wird "Bitte warten" angezeigt und es erscheint wieder der Wischbildschirm. Sowie ich wische, passiert das gleiche wieder.
+Weiterhin ist es nervig, dass die Touchbedienung sporadisch nicht funktioniert, wenn ich gleichzeitig mit zwei Benutzern angemeldet bin. Das würde ich aber nicht unbedingt aufs Tablet sondern evtl. auf das Betriebssystem der Firma "Winzigweich" schieben, da ich ein ähnliches Problem auch von einem anderen Windows-Tablet kenne.
+Alles in Allem kann man sagen, das die Verarbeitung ganz gut und die Tastatur wirklich brauchbar ist. Mein nächstes Tablet wird trotzdem wieder ein abgebissener Apfel, obwohl ich sonst eher der Windowswelt verschrieben bin.
+Der Preis ist tatsächlich absolut OK! Ich suchte aber kein Tab sondern ein Gerät was ich auch mit einer vollwertigen Tastatur verwenden kann.
+Hierzu war mir dieses Gerät zu filigran und unhandlich oder aber ich hab zu große Wurstfinger! Im Vergleich waren mir aber 10 Zoll Tabs genauso zu unhandlich. In dieser Größe sollte man vielleicht doch bei einem Tab bleiben oder man wechselt zu einem größeren Laptop.
+So gut wie ich das Tablet hier bewertet habe, so schlecht fällt nun die Entwertung aus. Das Gerät war 4 Tage bei mir. 09.03. Angekommen, 11.03. Abgeholt und 21.04. Zurück gebracht... Über ein Monat war das Gerät weg. Immer wieder anfragen per Mail, ich soll den Support anrufen über die 01805er Nummer, meistens hatten die keinen blassen Dunst warum ich anrufen sollte. Betrug auf ganzer Linie!!! Gerät ist nun wieder da. Kaputt, das Ersatzteil hat einen ähnlichen defekt. Dieses mal fallen die Karten nicht komplett aus, der Reader verliert einfach "nur" Daten. Daten werden auf die Karte gespeichert und sind dann weg. Karte ist übrigens ok, denn am Cardreader den ich für den OTG Port habe klappt alles wesentlich besser und schneller...
+Heißt jedoch für mich: noch etliche Anrufe die mich viel Geld kosten und wieder Monate in denen meine Garantie langsam abläuft bis mir gar nicht mehr geholfen werden kann. Teures Geld für ein Produkt was nur beim Service ist... Nein danke.
+Nie wieder Lenovo. Nie wieder.
+Ich war noch nie so sauer und enttäuscht zu gleichen Zeit.
+Nach einem Tag wirklichen benutzen ist das Lenovo Mix außerbetrieb gewesen.
+Der Bildschirm war schwarz und blinkte bei Versuch ihn anzumachen.
+Der Ideapad ist gute Idee und weniger eine gute Umsetzung.
+Man merkte beim benutzen, dass das Tablet auch viel zu schwer für die Tastatur ist.
+Was mich mehr ägert ist dass ich einpaar Daten auf den Laptop hatte und jetzt ist alles weg.
+Zum Glück kann man solche Sachen rückerstatten .
+Das tat ich auch.
+Das Risko war mir zu hoch ein neue davon wieder zu bestellen.
+Mein Geld habe ich auch zurück bekommen.
+Der 1/5 Stern ist für das Aussehen und die Lieferung.
+Das Gerät ist zum zweiten Mal in Reparatur, weil es sich an allen SD Karten "verschluckt", die ich getestet habe.
+Bei etwas intensiveren Nutzung zerschiesst das Miix die Karte und liest sie nicht mehr. An anderen Rechner jedoch laufen die Karten einwandfrei. Auch formatieren hilft nicht, sondern der übliche reset.
+Schade
+Ich habe das Laptop aufgrund der guten Bewertungen gekauft, jedoch umgehend wieder zurück geschickt. Über die sehr günstig aussehende Außenhülle hätte man hinweg sehen können (man sieht wirklich JEDEN Fingerabdruck), wenn der Laptop nur ein wenig LEISER und weniger langsam wäre. Bereits das Hochfahren dauert bis zu 10 Minuten, begleitet vom dröhnenden Lüftergeräusch. Klickt man einzelne Optionen im Desktop reagieren diese z.T. erst nach mehrfachem Klick - oder gar nicht. Das Lüftergeräusch ist konstant laut, und lässt sich auch nicht kleiner stellen. Insgesamt reagieren Anwendungen (obwohl lediglich ein Virenprogramm installiert wurde) sehr verzögert oder gar nicht. Gedacht war der Laoptop als Zweitgerät für Office-Anwendungen und gelegentliches Surfen im Internet. Ich habe große Zweifel ob der Laptop solche Anwendungen wie Office überhaupt in angemessener Zeit verarbeiten könnte. Wer das Laptop mit anspruchsvolleren Anwendungen (Bild- oder Videobearbeitung) benutzen möchte....greift lieber auf ein anderes Gerät zurück.
+This was the third Lenovo I have bought this year, all three have been returned.
+To be clear, the first two were from a local dealer, I bought this one from Amazon after swearing never to use said dealership again. For over €800 you would expect a laptop you can plug in, configure and keep using for a good few years, right? I mean they have been producing and developing them in their millions for years now, they must have some idea as to what is required to build one that works, right? Wrong on both counts. This particular model was grand for all of four weeks before dying peacefully in the middle of an email. It literally just died...I have no other way to explain it.
+Amazon were great and offered me a complete refund straight away, as always they are easily the best company to deal with on the entire web.
+Lenovo? I wouldn't buy a bottle of water from them if my teeth went on fire.
+Nichts für jemanden der mit 10 Finger-System schreibt. Finde es echt schade, denn sonst wäre das Notebook nicht schlecht gewesen. Hatte immer Lenovo Notebooks und war damit immer zufrieden. Diese waren sogar im unteren Preissegment bis 300€. Wieso man bei diesem 600€ Gerät die Shifttaste so weit nach rechts setzt ist mir ein Rätsel und ich komme leider damit überhaupt nicht klar. Schade!!!! Auch das Netzteil ist ein Rückschritt: Kabel zu kurz und Netzteil zu klobig. Warum man nicht beim USB Stecker geblieben ist verstehe ich auch nicht ganz. Aber ist halt so. Geht leider retour und wird wahrscheinlich kein Lenovo mehr.
+Toplaptop, es gibt nur einen Schwachpunkt, der Akku. 5h Laufzeit bei Videowiedergabe keine Chance. 3,5 -4 h ohne Videowiedergabe an guten Tagen ist max möglich. Da ich den Laptop nicht mobil nutze kann ich damit leben. Ansonsten ist der Laptop super. Trotzdem nur 2 Sterne. Der Akku Ost-Berlin Frechheit.
+Leider ein riesen Fehlkauf.
+-sehr langsam
+-schlechte Soundqualität
+-viel zu dunkles Display
+-Internet ständig weg
+-Akkulaufzeit ein Witz
+-hochfahren dauert viel zu lang
+Absolut nicht zu empfehlen .
+Der erste Eindruck ist durchaus 5 Sterne
+Aber der Lüfter surrt wie eine kleine Flugzeugturbine und ist nicht zum Runterregeln
+Schade, sonst sicherlich ein gutes Gerät
+PC defekt,stürzt immer wieder ab.Konnte auch im abgesicherten Modus nicht gestartet werden.Gleich zurück geschickt.Schade,Gerät machte eigentlich guten Eindruck.Kaufe mir was anderes.
+So erst mal zu den Eckdaten.
+Positive :
+3 USB Anschlüsse
+Ordentliche Grafik
+Das man sehr schnell und nur mit 2 Schrauben an die Festplatte und den Speicher kommt.
+Das ist auch der Einzige gute Punkt!
+Negative Seiten!
+Win 10 Home Zwang egal welche Version man nimmt es wird nur Home Installiert ! Pro geht nur mit einem Nervigen Upgrade und 2 Winschlüssel!
+Sehr Lauter DVD Player
+Festplatte S ATA 1 TB absoluter Müll !!! Noname Festpaltte Win 10 Startet erst nach ca 2 Min oder mehr!
+Nach dem ein Bau einer Günstigen SSD Platte war der Winstart unter 30 Sec da .
+Tastatur Reagiert echt Müde!
+Aber das Lenovo ein Betriebssystem Zwang macht führt dazu das Ich mir Nichts mehr von Lenovo mehr Kaufe!
+Könnte noch mehr Negatives Schreiben!
+Aber nimmt Lieber 1-200 Euro mehr in die Hand und geht zu ASUS oder ACER -APPLE oder was auch immer , da kann man noch Entscheiden ob man und welches System auf dem Laptop sein darf.
+Gerade die Servicehotline wird man auch nur Abgewimmelt oder für Dumm Verkauft!
+Daher Gezwungener Maßen nur 1 Stern Leider
+So nach einiger Nutzung kam der Nächste Lenovo Krankheitsbild zum Vorscheinen das Problem mit dem Powerknopf, nach einiger zeit scheint sich der Kontakt zu Verabschieden , nicht nur bei mir eine Verbreite Krankheit zu sein. Powerleuchte geht Lappi bleibt tot das bei so einer kurzen Nutzungszeit .
+SO was kann man machen außer ein Amazon Mitarbeiter kontaktieren , wo ist der Garantieanspruch Button nichts .
+Toll jetzt noch hoffen das man das Defekte Gerät hoffentlich zurück schicken kann.
+Die L-Taste war lose und ließ sich auch nicht mehr befestigen. Die restlichen Tasten machten nicht den Eindruck, nicht auch lose werden zu wollen. Daher ein Stern. Den Rest des Gerätes kann ich nicht bewerten, da ich das Gerät direkt wieder zurückgeschickt habe.
+08/15 Nichts Besonderes. Würde ich nicht nochmal kaufen. Für ein paar Euro mehr bekommt man was Besseres.Alles total billig gemacht!
+Wir haben den Laptop bestellt um ein bisschen im Netz zu surfen oder mal ein Video bei YouTube anzuschauen.
+Selbst bei ganz simplen Vorgängen hing der PC und die CPU Auslastung war immer bei 100%. Nach 2 Tagen testen haben wir den Laptop zurückgeschickt. Die Rückgabe funktionierte reibungslos.
+Bei diesem Computer funktioniert irgendwann die Tastatur und die Maus nicht mehr. Ich habe diesen dann eingeschickt und es wurde ein BIOS update gemacht. Danach funktionierte es wieder für 2 Monate bevor es wieder defekt war. Ich schicke den Computer nach noch nicht mal einem Jahr jetzt wieder zurück.
+DVD Laufwerk keins vorhanden, und Ruckelt sehr bzw. Ist sehr Langsam. Naja mehr kann man auch nichts für 300€ erwartwn
+Ein knappes Jahr war ich im Großen und Ganzen zufrieden. Dann kam die Ernüchterung. Das Gerät war ganz plötzlich defekt...nichts ging mehr. Die Festplatte war defekt! Dabei stellte sich heraus, dass eine andere Festplatte als die vom Hersteller durch shinobee eingebaut wurde. (ACHTUNG: Darauf wird in der Produktbeschreibung im Prinzip indirekt hingewiesen..."Das Gerät wurde von der Firma shinobee technisch verändert, z.B. liefern wir es entgegen des Herstellers lenovo mit installiertem Win10 Prof. aus").
+Durch den Festplattenaustausch übernimmt der Hersteller, welcher sich wirklich viel Mühe mit meinem technischen Problem gegeben hat, natürlich keine Garantie.
+Der Händler shinobee hingegen weist sofort auf die Gewährleistung hin. Eine kostenfreie Instandsetzung ist nur dann möglich, wenn man einen Anfangsdefekt rechtlich nachweisen kann. Auf weitere Einwände wird auch nicht kundenfreundlich reagiert. Nach dem Motto, dass man ja gewusst hätte, worauf man sich einlässt...Sorry, hatte ich nicht, denn dann hätte ich woanders gekauft.
+Komisch, dass auch in anderen Rezessionen Ähnliches berichtet wird.
+Im Fazit rate ich hier zur Vorsicht und genauem Lesen, was hinter den Zeilen steckt.
+... wenn unmittelbar nach Ablauf der "für den Käufer noch positiven" Gewährleistungszeit von 6 Monaten die Geräte einfach so ihren Dienst verweigern - bei mir ist es, wie bereits bei anderen Käufern, die Tastatur und das Touchpad ! Beides ging von heute auf Morgen ohne Einspielung irgendwelcher Updates oder Treiber einfach so nicht mehr - zwei Tage erfolglose Suche im Internet nach möglichen Fehlerursachen - und dann die lapidare Antwort des Supportes von Shinobee, dass leider zwei Jahre Gewährleistung nicht gleichzeitig auch zwei Jahre Support und Hilfe bedeuten - nein - die gibt es nur in den ersten sechs Monaten. Man fühlt sich als Verbraucher einfach nur betrogen und getäuscht !!
+Falls jemand mit dem Gedanken spielt, sich bei diesem Anbieter Waren zu bestellen - lest bitte die AGB VORHER durch - und seid euch klar über eventuelle Folgen im Schadensfall. Nie wieder - dann doch lieber im Fachhandel und ein paar Euro mehr auf den Tisch gelegt !
+Ich schließe mich allen an, die bereits geschrieben haben, dass das Gerät kurz nach Ablauf der nur 6 monatigen (!) Garantie kaputt ging. Habe den Rechner im März 2016 gekauft und seit Dezember große Probleme damit gehabt. Touchpad und Tastatur funktionieren abwechselnd nicht. Alle Bemühungen (Systemwiederherstellung, neue Treiber...) halfen nur kurzfristig und heute funktioniert weder die Maus noch die Tastatur - nun kann ich gar nichts mehr machen, zum Glück habe ich die wichtigsten Daten gesichert.
+Fazit:
+Schlechtes Produkt und sehr schlechter Service. Warnung vor dem Kauf!!!
+Das Notebook ist leider nicht zu empfehlen. Habe ein Notebook gesucht welches mir einfaches surfen im Internet ermöglichen sollte.
+Leider ist der Prozessor sehr schwach. Hochfahren dauert leider zu lange und auch das Laden der Websiten ist sehr zeitintensiv - und das liegt nicht an meinem Internet. Ich möchte das Notebook nicht nur schlecht reden aber leider -auch für diesen Preis- eher unterdurchschnittlich.
+Ich habe den Lenovo jetzt knapp über ein Jahr. und war bisher im großen und ganzen zufrieden. Ca. die letzten 6-Wochen stellte ich fest das das Scharnier zwischen Tastatur und Display locker wird.Auf meine Reperaturanfrage erhielt ich zur Antwort "Von der Gewährleistung wird der Schaden jedoch nicht abgedeckt da diese nicht von alleine entstanden ist". Woher wissen die das? Ich hatte bisher einen 6-Jahre alten DELL, da wurde nichts locker. Aber Fa. shinobee hat Recht, von alleine entstand dieser Schaden nicht. Der Laptop musste dazu schon x mal geöffnet und geschlossen werden.
+...nach 2 Monaten löste sich bei mir das Scharnier aus dem Gehäuse. Wenn man aufs Auf-und Zuklappen verzichten kann, mag das ok sein. Nach weiteren 6 Monaten wollte es plötzlich nicht mehr starten, stattdessen klapperte und schnatterte es (Festplatte?...ich weiß es nicht). Der Service hat den Namen nicht verdient. Nach wochenlangem Email-Verkehr, bei dem kaum auf mein Problem eingegangen oder aneinander vorbei geredet wurde, wurde mir das Teil irrtümlich unrepariert zurückgesendet.
+Habe jetzt keinen Bock mehr... Das Gerät hat sicher ne gute Leistung, die Verarbeitung ist aber einfach nur schlecht. Ein Fehlkauf, aus dem ich gelernt habe.
+Achtung bei diesem Verkäufer...
+Artikel gem. Beschreibung erworben. Nach ein paar Wochen gingen die ersten "Mängelchen" los. Bis dann am Ende der PC nicht mehr hochfuhr. Kontaktaufnahme zum Käufer ging fehl. Eine Reperatur über Medion/Lenovo ebenso, da hier wohl mit dem Betriebssystem was nicht stimmt.
+Bin mehr als enttäuscht
+Das Notebook sollte Windows 10 als Betriebssystem vorinstalliert enthalten. Es startete nicht, da kein Betriebssystem gefunden wurde. Es lag eine Windows 8 Recovery-CD bei. Diese ist aber nutzlos, da diese Version des Notebooks kein CD-Laufwerk hat. Es war also keine Inbetriebnahme des Notebooks möglich. Es wird laut beiliegender Information des Herstellers eine Reparatur angeboten, die laut Beschreibung ca. 14 Tage dauern soll. Daher habe ich das Gerät zur Erstattung des Kaufpreises an Amazon zurückgeschickt.
+Habe vor einem halben Jahr das Notebook Lenovo gekauft und es lief alles ok. nur etwas langsam.
+Leider wird er immer langsamer und ich kann seit neuesten nicht mehr ins Internet, da er sich mit keinem WLAN verbinden kann.
+Ich empfehle shinobee nicht weiter.
+Nachdem wir die Rechner erhalten haben, sind wir von der Verarbeitung der Hardware und Rechnerleistung überzeugt. Leider ist dieses Model von Lenovo nicht für Windows 7 gedacht und auch die installierte Version ist eine geänderte. Dadurch funktionieren die WLAN Treiber nicht bzw. sind vom Hersteller für Windows 7 nicht verfügbar. Dieses Model ist für Windows 8 gedacht.
+Aus diesem Grund raten wir vom Kauf dieses Rechners ab.
+Leider ist unser Notebook defekt nach 5 Monaten!
+Es zeigt immer den Fehler: "Computer wurde unerwartet neu gestartet, oder ein unerwarterter Fehler ist aufgetreten. Die Windows-Installation kann nicht fortgesetzt werden.
+Klicken Sie auf "OK", um den Computer neu zu starten, und füren Sie die Installation dann erneut aus." - Was aber leider nicht geht - der Text kommt immer wieder!
+Gerät geht jetzt zurück bzw. zur Reparatur. Mal sehen wie lange es dauert.....
+Für einen Preis von 399 €, sollte man schon davon ausgehen können, dass es sich um einen Bildschirm handelt, welcher eine angemesse Auflösung wiedergibt. Leider beschränkt sich hier der Hersteller nur auf den Prozessor,Arbeitsspeicher und die SSD Festplatte.
+Das verwirrende an diesem Angebot ist, dass die günstigeren HP Notebooks einen FullHD Bildschirm haben, das teurere Model aber nicht !!
+Ich hatte mir dieses Notebook zu Arbeitszwecken zugelegt und habe dabei wert auf eine schnelle Verarbeitung von Daten gelegt.
+Zum Spielen ist dieses Notebook keineswegs geeignet.
+Leider bekommt man nach längerem arbeiten Augenschmerzen, aufgrund des schlechten Bildschirms.
+Nach den vorliegenden Rezessionen bestellte ich das NN ...doch
+beim ersten Einschalten war derLüfter fast so laut wie mein Staubsauger, wenn hinter der Tür gesaugt wird und die Festlatte rattert ...
+wieso diese rattert ? Keine Ahnung, ich hatte noch NIE einen PC oder ein Notebook (ausser vor 20 Jahren) bei dem man das Laufwerk hört. Meine Partnerin meinte: woher kommt dieses unerträgliche Geräusch ? ..... NICHT zu gebrauchen. Fehlkauf ....Leider werden keine Audiodateien unterstützt,ansonsten hätte ich sie hochgeladen ....
+Ich hatte mir den Laptop für die Uni gekauft, also für Hausarbeiten, Präsentationen etc.
+leider ist er völlig umgeeignet, da er sehr sehr langsam ist, schon beim Hochfahren braucht er bestimmt 1-2 Minuten. Umd auch ansonsten beim verschieben von Daten zum Beispiel vom stick auf den desktop braucht er total langsam. Dies geht sogar bei meinem 8 jahre alten Laptop mit vista schneller.
+Das Design ist jedoch sehr edel und der Laptop ist handlich. Desweiteren ist es gut, dass er nicht heißläuft.
+Aufgrund der Geschwindigkeit habe ich ihn wieder zurück geschickt.
+++ Nicht über Warehousdeals kaufen ++
+Habe mir diesen Laptop über Amazons Warehousedeal gekauft. Die Euphorie war groß, die Qualität und dass äussere Erscheinungsbild ist zwar nicht perfekt aber für den Preis ganz in Ordnung.
+Leider lies sich das System nicht richtig einrichten, die Windows Partition war Fehlerhaft. Man kann den Einrichtungsprozess nicht beenden, das Notebook ist in einem s.g. "Bootloop". Selbst ich als Informatiker konnte da nicht viel ausrichten und hätte das komplette System neu aufsetzten müssen und dass ohne mitgelieferte Windows CD/DVD. Für mich viel zu umständlich, man kann nicht mal ins Boot Menü oder ins BIOS booten.
+Nach Rücksprache mit einem Amazon Techniker werden die WHD-Notebooks alle neu aufgesetzt bei Rücksendung. Da muss wohl das Problem liegen, weil die Rücksendung meistens äusserlich echt gut aussehen, genau wie meines. Weil wie gesagt, rein optisch war mein Gerät trotz WHD in Top Zustand.
+Laut andere Rezensionen scheine ich ja nicht der einzige zu sein der Probleme mit den WHD-Notebooks hat.
+Das Gerät ist gut verarbeitet. Das Gehäuse macht den Eindruck nicht sehr robust zu sein. Der Lüfter ist gleich nach dem ersten Einschalten verhältnismässig laut. Die Erstkonfiguration funktioniert nicht, denn nach den Reboots werden immer wieder dieselben Eingaben verlangt.
+Das Gehäuse ist aus Hartplastik, das Display selbst ist gut (zumindest ist es mir nicht negativ aufgefallen), die Arbeitsgeschwindigkeit lässt doch arg zu wünschen übrig, die Tastatur ist auch ok. Das Touchpad ist in das Gehäuse eingelassen und nicht gerade sehr berührungsempfindlich. Programmstarts dauern ihre Zeit.
+Ich hatte mir mehr versprochen. Deswegen geht das Notebook leider zurück. Möglicherweise ist das Notebook geeignet für Anfänger, die sich ihr erstes Notebook zulegen. Für alle, die bereits Erfahrungen mit Notebooks mittlerer Preisklasse gemacht haben, ist dieses Modell m. E. nach leider nichts.
+PC konnte nicht booten. Bei der Sprachauswahl hat sich das System aufgehängt. Neuinstallation über DVD nicht möglich, da Laufwerk nicht erkannt wurde. Ich habe mehrere Stunden versucht den Laptop zu starten, auch der Kundenservice von Amazon konnte nicht helfen.
+Der einen Stern kann ich nur dafür geben, das auch am Samstag ein technischer Support von Amazon erreichbar war.
+Die Oberfläche ist sehr empfindlich gegen Fingerabdrücke.
+Ich hatte mich sehr auf den Laptop gefreut, da die Beschreibung sehr vielversprechend war. Jedoch konnte ich direkt nach dem ersten Hochfahren ein sehr störendes knisterndes Geräusch aus der Lüftung fest stellen, welches auch nicht wieder weg ging. Selbst der kleinste Vorgang hat den Laptop total überfordert und alles ging nur im Schneckentempo. Ich bin von dem Produkt sehr enttäuscht und schicke es deshalb zurück.
+Naja hab mir das Edle Ding vor Weihnachten zugeleg mit schön viel Arbeitsspeicher ... Sorry aber die Möhre ist nicht mal in der Lage Youtube Viedeo's ruckelfrei abzuspielen ... das ist mal der Abstand schlechteste Computer den ich je hatte !!!!!!
+Das Tablet ist von den Daten her gut. Der Speicher ist ausreichend und auch sonst rennt es - wenn man den Prozessor im Hinterkopf behält - recht gut. Der Akku hält ebenfalls sehr lange.
+Was mich aber total nervt ist das Touchpad. Die Gestensteuerungen sind für mich der absolute Horror. Man bewegt den Finger auf dem Touchpad und zack sind alle Fenster minimiert, obwohl man nur die Maus auf ein anderes Feld im Browser steuern wollte. Oder auf einmal hat man alle Fenster in der Wechselansicht.
+Alle Hilfen dazu im Internet funktionieren nicht, da das Touchpad nicht als Touchpad in Windows bekannt ist, sondern als "normale" Maus und daher lassen sich die Gestensteuerungen nicht abschalten.
+Ich bin echt noch am zögern, ob ich das Gerät wieder zurück schicke, da es mich wirklich nervt.
+Würde es eine Möglichkeit geben das abzuschalten, wäre die Bewertung auf 4-5 Sterne!
+Ich bin etwas enttäuscht vom Gerät. Die Ausstattung und der Preis sind verlockend, jedoch nervt es etwas, wenn die Tastatur und das Touchpad Aussetzer haben. Auch entlädt sich der Akku sehr schnell, obwohl es heruntergefahren ist. Kann evtl. an W10 liegen. Die Touchempfindlichkeit des Displays ist auch komisch...es wird gezoomt obwohl ich nur mit einem Finger im Edge scrollen will...nervt.
+Ich habe mir das Gerät zur Unterstützung für die Arbeit und die FH besorgt. Die Lieferung war von Amazon wie gewohnt schnell und zuverlässig.
+Vorweg möchte ich auf die positiven Eigenschaften eingehen. Ich hatte davor kurzfristig ein MEDION AKOYA E2218T in Verwendung, welches aber leider eine sehr schlechte Tastatur hatte. Die ist beim TrekStor SurfTab twin 11.6 4/64 im Vergleich außerordentlich gut verarbeitet und auch vom Layout vorbildich. Auch funktioniert die Trennung und Anschluss des Tablets an das Tastatur-Dock einwandfrei und problemlos. Das äußere des Geräts wirkt hochwertig und gut verarbeitet. Der Kundensupport war freundlich und reagierte schnell auf meine Anfrage.
+Der Preis wäre grundsätzlich sehr gut, leider mangelt es massiv an der Qualität des Touchscreens und des Touchpads. Ich habe das vom Kundensupport empfohlenen Firmwareupgrade vom 19.01.2017 aufgespielt, was aber kaum bis keine Verbesserung brachte. Der erste Teil des Videos wurde von mir vor, der zweite Teil, nach dem Aufspielen der neuen Software gemacht.
+Der Touchscreen reagiert manchmal kaum bis garnicht auf die Eingaben und ist sehr unpräzise. Das interagieren fühlt sich sehr sperrig an, als müsste man ständig „ziehende“ Gesten ausführen, was sehr ermüdend ist. Eine weitere Schwäche ist wie schon erwähnt das Touchpad. Auch hier werden viele gesten erkannt, wo keine sind. Das Bedienfeld für die linke bzw. rechte Maustaste ist mehr in der Mitte als am unterem Rand angesiedelt und oft wird die Eingabe auch hier nur verzögert oder garnicht vom Gerät umgesetzt, bzw. hüpft über das Ziel hinaus weiter. Das Arbeiten ohne einer separaten Maus ist somit kaum möglich.
+Anfangs freute ich mich darüber, dass man das Gerät per Micro-USB Kabel aufladen kann. Ein entsprechendes Kabel und Netzteil mit 2,0 Ampere liegen der Verpackung ebenfalls bei. Leider ist der Stromverbrauch bei gleichzeitiger Nutzung leicht höher als die Ladegeschwindigkeit, sodass man immer wieder Pausen einlegen, oder die Bildschirmhelligkeit stark reduzieren muss.
+Voll aufgeladen beträgt die Akulaufzeit je nach Art der Nutzung um die 7 Stunden. Das Tablet wirkt samt Tastaturdock ist recht schwer, ist aber noch gut transportabel. Auch ist recht viel an extra Werbe-Software enthalten, die es gilt zu deinstallieren um den wenigen, kostbaren Speicherplatz nicht zu verschwenden. Das war zwar etwas nervig, aber auch nicht weiter schlimm.
+Mein erster Eindruck war ein sehr guter und ich hatte wirklich gehofft mit dem TrekStor SurfTab twin ein brauchbares Gerät für unterwegs gefunden zu haben. Leider wurde aber bei der Qualität an den wesentlichsten Komponenten gespart.
+Ich wollte ein 2 in 1 Tablet welches mein betagtes Acer W510 ersetzen sollte und nun ja der Preis ist natürlich eine kauf Entscheidung gewesen...
+Zuerst einmal:
+* Es funktioniert, die Leistung ist gering aber ausreichend für das Aufgabengebiet. (Office, Internet, RemoteDesktop)
+* Kleiner Spiele sind auch möglich jedoch aufgrund der Eingabemöglichkeiten kaum spielbar. (siehe Negativ)
+Negativ:
+* Touchpad reagiert zu sensibel, dauernd minimieren alle Fenster oder man kommt in die Taskansicht
+Und man kann die Touchgesten nicht abschalten! *nervt*
+* Display ist zwar FullHD, aber ich hab keine Ahnung warum ich bei Schwarz lauter "Rasterlinien" sehe. (Siehe Bild)
+* Tastatur ist zwar schön verarbeitet aber die hälfte der Tastendrücke kommen nicht an, man muss schon hart drücken.
+* TastaturLayout: F1-F12 sind nur benutzbar wenn man die FN-Taste drückt oder Fn+ESC umschaltet, Tasten: ><| sind auch nur über Fn-Taste erreichbar
+Für Software-Entwickler sozusagen eigentlich ungeeignet
+Alles in allem bin ich mir nicht sicher, ob die Produktdesigner von diesem Produkt, jemals damit gearbeitet haben....
+Trotzdem werde ich es wohl behalten, denn mit externer Maus und für die Aufgabe (2. Gerät) reicht es halt aus.
+Ich habe das Windows-Tablet in der LTE 32GB Version gekauft. Es sollte nur im Büroeinsatz sein, sprich Office Anwendungen, Bilder von einer Kamera übertragen und mobil auf das Internet zugreifen.
+Meine Pros/Contras zum Gerät:
++ sehr genialer HDPi Widescreenbildschirm, echt ein Genuss, besonders für Filme
++ rutschfestes Tablet, leise, kaum Wärmeentwicklung, sehr Reisefreundlich
++ Laufzeit ist OK, es hält schon einige Stunden aus, das Laden dauert aber
++ MikroSD Slot ohne Limit, USB 3.0 flott und MikroHDMI arbeitet perfekt an TV/Beamer/Display
++ Leistungsfähig genug um H.265 Kodierungen (rechenintensives Videoformat) wiederzugeben
+- 2GB und 32bit sind veraltet - viele moderne Anwendungen setzen 64bit voraus
+- kein Aufspielen von Linux möglich, Schade!
+- Touchfunktion des Bildschirms sehr unpräzise, bis hin zu nervig; Bildschirm spiegelt prima, ein echtes Feature
+- die Tastatur ist furchtbar, die Tastenreaktionen derartig derart schlecht, dass eine Bürofunktion nicht erledigt werden kann!
+- das Trackpad ist der Tiefpunk, Sensibilität in Bewegung und verfrühte Klickwahrnehmung:
+Fenster verschieben sich permanent; Textmarkierung erfolgt bei Klick in einen Text, da zu sensibel; absoluter Mist! -> Maus benutzen bei einem Touch und Trackpad Gerät, das ist die beste, schlechteste Lösung.
+- Multitasking? Fehlanzeige! Ein einziges Programm reicht zur Vollast komplett aus, da Arbeitsspeicher nicht erweiterbar.
+Für 299 Euro kauft man die Katze im Sack. Beim Elektrohändler machte das Gerät einen echt guten Eindruck, erst in der Anwendung stellte ich fest, dass dieses Gerät für die einfachsten Office-Anwendungen unnutzbar ist. Mehr als Filme gucken macht hier keine Freude. Browser, Office, Lightroom usw. - hier sterben Träume.
+Hallo
+Bewertung in Stichworten
+Positiv:
+- Gutes Display
+- für die Größe gute Tastatur
+- Macht einen robusten Eindruck
+- Größe und Gewicht
+Neutral:
+- Akkulaufzeit
+Negativ:
+- Abstürze von Programmen vor dem zurücksetzen von Windows.
+- öfter nicht flüssiges Surfen, vor allem wenn mehre Tabs offen sind, Besserung nach zurücksetzen von Windows und nutzen von Edge
+- Akku entleert sich weiter trotz angestecktem Netzteil.
+- Touchpad ungenau
+Fazit:
+Gekauft wurde das SurfTab als Ersatz für ein altes Android Tablet und das das Notebook mal aus bleiben kann.
+Leider kann das SurfTab dieses nur sehr bedingt erfüllen, da die Leistung für Windows 10 recht mager ist. Häufig muss man warten. wenn man beim surfen im Internet neue Seiten aufruft oder nur am scrollen ist, gerade mit Firefox. Zudem traten Grafikfehler und Abstüze von Programmen auf, was mich dazu bewegte Windows zurück zu setzen. Danach war surfen mit Edge besser, aber nicht wirklich gut aber ein Belastungstest mit 3Dmark11 erfolgte ohne Abstürze.
+Ein Grund für die schlechte Performanz ist sicherlich auch das Windows 10 in der aktuellen Form, das braucht nun mal 4 GB Ram Arbeitsspeicher.
+Wenn TrekStor dieses SurfTab mit Android ausliefern würde, wäre es von der Performanz sicher deutlich besser.
+Das SurfTab wurde zurück gesendet.
+Grüße M.H.
+Das Trekstor Surftab Twin 11.6 ist beim ersten Auspacken ein Hingucker, es fühlt sich ziemlich gut an (trotz des Kunststoffs) und hat eine tolle Verarbeitung.
+Der Stand bzw. das Scharnier ist fest und die Tastatur ist in dieser Preiskategorie top, es ist angenehm darauf zu tippen und auch längere Texte sind kein Problem, es reagiert schnell und die Tasten haben einen guten "druckweg", außerdem bietet sie viele Funktionstasten im F1-12 Bereich, wodurch man viele Einstellunge fix vornehmen kann.
+Das Display des Geräts ist toll, die Full-HD Auflösung auf 11.6 Zoll sieht klasse aus, im ausgeschalteten Zustand sieht man auf dem Bildschirm Streifen, diese sind bei der Nutzung aber unerheblich, da sie sofort verschwinden und nicht mehr sichtbar sind, wenn das Gerät bzw. das Display an ist.
+Der Touchscreen hingegen ist leider eine herbe Enttäuschung, oftmals spinnt der Touch herum, verlässt den Finger oder Ähnliches. Es ist kein einfaches leichtes wischen möglich, ich muss oft feste mit dem Finger ziehen, denn sonst löst sich der Touch und es werden oftmals funktionen ausgeführt die man nicht wollte, man wischt z.B. auf einer Nachrichtenseite herunter und plötzlich öffnet sich ein Artikel auf der Seite, den man nicht wollte. Beim Tippen auf der Touchscreen Tastatur, werden öfters Eingaben von Buchstaben nicht erkannt und man muss noch ein mal zurück. Mir vorwerfen, dass ich falsch tippe oder so kann man eher nicht, da ich andere Windows Devices hab bei denen alles grandios läuft (auch bei den Video vergleichen unten ersichtlich), nur dieses Gerät besitzt das Problem. Ich weiß nicht, ob es an Software Problemen liegt oder was es genau ist, sobald eine Maus angeschlossen ist, kann man öfter Ghost-Touches erkennen, immer im Gegenüberliegenden Bereich des Bildschirms, flimmert kurz immer wieder eine Maus auf.
+Wenn man ziemlich feste drückt, kann man dieses Problem zumindest minimieren, angenehme Benutzung geht aber anders.
+Das Trackpad in der Tastatur hingegen ist okay, auch dort muss man manchmal öfters tippen aber hier weniger als beim Bildschirm. Es hat eingebaute Tasten, welche das klicken, ziehen usw. einfacher machen und oft benutze ich auch dieses um Sachen zu verschieben und zu kopieren (wenn es angeschlossen ist), statt des Touchscreens. Leider gibt es aber auch hier ab und an Probleme mit dem Touch und es wird auf Dauer nervig. Vielleicht könnte Trekstor das Problem mit einem Treiberupdate oder Ähnlichem lösen, der Touch ist auf jeden Fall nicht ganz korrekt, es verhält sich wie beim Review über das Surftab Twin von TabletBlog auf YouTube.
+Die Anschlüsse am Gerät sind super, man hat gleich drei (wenn man die Tastatur angeschlossen hat) USB-Anschlüsse, alles wird direkt erkannt und man kann einfach einen USB-Stick eine Maus etc. Problemlos anschließen, super angenehm und auch schön, dass der USB 3.0 Steckplatz direkt am Display ist, der mikro-SD Karten Platz ist direkt darunter, meine Karte wurde auch problemlos erkannt, ein mini-HDMI Anschluss und das Laden per Mikro-USB machen den Bereich komplett, spitze.
+Die Performance des Gerätes ist gut, sobald man mal Software wie McAfee oder das ganze andere vorinstallierte Zeug runter gehauen hat, ich benutze zum Surfen Firefox sowie Opera und letzterer ist oftmals schneller. Zum Arbeiten an Dokumenten und E-Mails ist das Gerät top, auch zum Surfen und alltäglichen Arbeiten ist es angenehm, auch wenn es hier und da mal eine Gedenksekunde braucht aber mehr kann man von der Hardware auch nicht erwarten, an sich also voll zufriedenstellend.
+Ich hätte gerade noch Multimedia erwähnt, dort gibt es aber einen sehr großen Mangel, wo Trekstor beim verbauten Teil echt den Vogel abgeschossen hat. Denn auf dem Display Videos anschauen ist sehr schön aber den dazugehörigen Ton zu hören ist ein Graus. Die Lautsprecher sind echt sehr schlecht, sie besitzen keine tiefe, keinen Bass, bestehen komplett aus hohen Tönen und kratzen sobald die Lautstärke etwas höher ist, das ist wirklich eine Enttäuschung und da macht das Medien konsumieren keinen spaß, ich würde sogar sagen Musik hören kann sich keiner an tun bei den Lautsprechern.
+Natürlich muss man auch den Preis berücksichtigen aber man hätte erstens Kosten sparen und zweitens dem Benutzer einen Gefallen tun können, wenn man die Lautsprecher abgeändert hätte. Trekstor hat Stereo-Lautsprecher verbaut aber die sind echt unfassbar schlecht, stattdessen lieber ein Mono-Lautsprecher hinten oder irgendwas vergleichbares, das sich einfach annehmbar anhört. Da wurde leider an der falschen Ecke gespart/falsch gewählt.
+Mein Fazit ist zumindest, dass es für den Preis durchaus ein nettes Arbeitsgerät mit vielen Anwendungsbereichen ist, schreiben, kurz was drucken, E-Mails, surfen etc. alles kein Problem.
+Leider wird der Gesamteindruck durch den Touchscreen bzw. die Bedienung an sich und den Ton geschmälert. Trekstor hätte in dem Preisbereich einen Knüller raus hauen können, welches alle anderen Geräte in der Kategorie überschattet. Schade.
+Daher nur bedingt empfehlenswert, wenn man mit diesen Probleme zurechtkommen kann.
+/edit: Nach etwas längerer Nutzung fallen mir immer mehr starke W-Lan Probleme auf, Abbrüche bzw. laden Seiten erst ewig nicht und dann kurz doch und dann ist der Empfang wieder weg etc. ich weiß nicht genau woran es liegt aber bei einer Google Suche findet man mehrere Leute mit diesem Problem, bei verschiedenen Geräten. Kann an Windows Updates liegen, der verbaute "Realtek RTL8723BS" W-Lan Empfänger hat wohl Treiber Probleme. Ist also kein direktes Problem von Trekstor, sondern Realtek.
+/edit 2: Ich habe aus Zufall heute noch ein Medion E2216T gefunden und das war von 249€ auf 195€ heruntergesetzt, also habe ich es mir spontan gekauft. Die Unterschiede zu diesem Gerät sind gigantisch. Sowohl Performance als auch Touchscreen, Touchpad und Soundqualität ist bei diesem Gerät um ein vielfaches besser.
+Das Verhalten beim Trekstor war auf jeden Fall nicht normal und im direkten Vergleich hat man das noch ein mal gesehen. Die beiden Geräte besitzen fast identische Spezifikationen, die einzigen Unterschiede beim Medion Notebook sind, dass es nicht abnehmbar ist, sondern "360° drehbar", was mir ziemlich egal ist. Es hat einen USB-Anschluss weniger, besitzt ebenfalls HDMI Anschluss und 64GB Speicher. Die Lautsprecher sind auch nicht das gelbe vom Ei aber um einiges besser als hier.
+Das hat mir einiges an Kopfschmerzen erspart, deswegen musste ich das Surftab Twin zurück senden, da im Review auf YouTube diese Probleme auch auftraten, handelt es sich wohl eher um ein Herstellungsproblem, bzw. war meins schlimmer als das anderer Nutzer hier oder defekter? 5-Sterne kann man dem Gerät auch mit dem größten Wohlwollen niemals geben. Denn alle Probleme von denen ich sprach, habe ich beim Medion Gerät nicht und die Performance ist um einiges besser, sowie Touch, keine Streifen sichtbar am Bildschirm, W-Lan Empfang und Mauspad top, kein Flimmern in Eingabefeldern etc. oben habe ich noch mal ein Video im Vergleich zum Touchscreen eingefügt und das mit aufgeklebter Folie und sehr leichtem Drücken. Das sind Welten. Demjenigen, der das Gerät auch im Angebot erwischen kann, kann ich es nur wärmstens empfehlen. Das E2216T ist das, was ich mir hier gewünscht hatte.
+Danke an Trekstor für das Anbieten der Hilfe aber ich kann momentan nicht auf ein Gerät verzichten und die Probleme wären wohl ohne hin und her schicken und zeitverlust nicht lösbar gewesen, trotzdem schätze ich das zuvorkommen sehr.
+//Nachtrag für die, die vllt. mit dem E2216T liebäugeln, man kann kein Linux installieren bzw. soll wohl nur mit viel Arbeit und Kopfschmerzen verbunden sein, hab's probiert und nach einer Weile aufgegeben - das Bios ist ziemlich kastriert, nur als kleine Info!
+im Januar 2017 gekauft und im März (genau 3 Monate) kann ich ihn nicht mehr anmachen.... ich versuche ihn umzutauschen was im moment anscheined unmöglich ist.. werde es weiter versuchen. Schade das Tablet hat mir zugesagt...
+Nach 3 Monate lässt es sich nicht mehr einschalten. Würde ich nie wieder kaufen. Bin sehr sehr sauer. So ein Dreck
+Ich habe zwei dieser Tablets als Geschenk bestellt. Eins der beiden zeigte nach der Einrichtung von Windows sofort einen Bluescreen an. Windows bot eine Reperatur an... Nur leider fehlt die Recovery Version... Nach Rücksprache mit Trekstor wird diese aus Lizenzrechtlichen Gründen nicht mitgeliefert und ich hätte das Gerät zum Service schicken sollen... Alleine das fehlen einer Recovery Partition bzw Datenträger ist eigentlich in meinen Augen nen NoGo, damit ist jede spätere Neuinstallation von Win oder Systemreperatur selber nicht möglich...
+Also, Gerät 1 zurück zu Amazon.
+Das Austauschgerät funtionierte zuerst, fiel dann aber beim booten in irgend eine EFIShell so dass Windows nicht mehr startete und nun nur noch Befehlszeilen angezeigt wurden.
+Gerät 2 zurück zu Amazon.
+Nun traf das dritte Gerät ein.. Hier gibts es nun Kontaktprobleme zwischen Tablet und der Tastatur so das beides nicht, bzw nur bei Bewegung des Gelenkes kurz erkannt wird...
+Gerät 3 zurück zu Amazon... Nun bin ich gespannt wie es weiter geht...
+Loben möchte ich den Service von Amazon, die Rückgaben und Neusendungen liefen glücklicherweise Problemlos...
+Ich frage mich nur ob bei Trekstor keine Qualitätskontrolle stattfindet.... Anscheinend wird das Gerät irgendwo in China gelabelt, verpackt und geht so in den Handel...
+Wirklich schade weil es eigentlich ein tolles Konzept zu einem günstigen Preis ist, ideal zum surfen und um mal was zu schreiben..
+Trotzdem nur ein Punkt da 3 Ausfälle von vier Geräten einfach zu viel sind und aufgrund der fehlenden Recovery Partition bzw Datenträger.
+Ich habe mich schon riesig auf das Auspacken gefreut.
+Ein wirklich schönes Gerät. Sieht gut aus, fasst sich gut an.
+Also aufgeladen und eingeschaltet.
+Leider musste ich sofort nach dem ersten Einschalten feststellen, dass das Display flackert.
+Ich hatte dann gehofft, dass das vielleicht nur so lange der Fall ist, bis das Gerät komplett eingerichtet ist und die Treiber 100%ig laufen.
+Also habe ich das Gerät vollständig eingerichtet. Leider hat das an dem Flackern nichts geändert.
+Vermutlich ein Wackelkontakt in der Hintergrundbeleutung.
+Also Gerät wieder auf Werkseinstellung zurückgesetzt und eingepackt.
+Da ich das Gerät ansonsten sehr ansprechend finde, warte ich nun geduldig auf die Ersatzlieferung und hoffe, dass das ein Einzelfall war.
+Zurückgeschickt, weil:
+-Die Ersteinrichtung schon ein Gräuel war
+-Tastatur nur selten erkannt wurde
+-Touchscreen vollkommen gesponnen hat
+-Touchpad nicht wirklich funktionierte
+-Speicherkarte nur sporadisch erkannt wurde
+-Office und MacAffee nur mit Spezialtools entfernt werden konnten
+-Neuinstallation über USB nicht möglich ist, nur Wiederherstellung über Recoverypartition
+-Das Gerät subjektiv empfunden dtl. zäher läuft als der Vorgänger
+Nun, optisch und haptisch weiß das Gerät zu gefallen, das Display ist ordentlich, aber was nutzt mir außen Hui, wenn innen Pfui?
+Nix, genau deswegen ging es zurück, vielleicht besser beim nächsten Gerät :-)
+Ich habe mir mehr erwartet ich habe folgende Probleme wenn ich das Gerät normal benutze fängt auf einmal der Bildschirm an zu Flackern und der Akku hatte ich am Abend geladen und wollte es am nächsten Tag wieder benutzen und obwohl das Gerät ausgeschaltet war war der Akku komplett leer wenn es gehen würde am liebsten 0 sterne
+abe das Tablet nach 20 Minuten wieder eingepackt.
+Leider ist das Touchpad unbenutzbar. Oft reagiert es gar nicht (z.B. beim Klicken). Oder der Mauszeiger bewegt sich ruckelig und im Schneckentempo. Dann geht es wieder gut. Teilweise werden bei Nutzung des Touchpads auch die Fenster einfach in der Taskleiste abgelegt (wie wenn man oben rechts auf das minus Symbol klickt).
+Auch fehlen echte Maustaten. Ich weiß nicht wie man mit dem Touchpad einen rechts klick machen soll. Der Touch wird im Gerätemanager auch nur als Maus angezeigt, d.h. es gibt keine Einstellungen dazu wie man es von anderen Notebooks her kennt.
+An sich ein nettes Gerät wäre das Touchpad in Ordnung.
+Falls jemand weiß wie man das richtig ans laufen bekommt wäre ich für Infos dankbar.
+So ein schlecht verarbeitetes Produkt habe ich lange nicht gekauft. Mousepad und Mauszeiger agierten völlig unkontrollierbar. Sie führten ein Eigenleben und reagierten nicht auf Steuerungsbefehle. Dem Netbook lag auch keine Registrierungskarte für Windows 10 bei, so dass ich es insgesamt zurückgeben musste.
+Konzept - ok
+10 zoll - ok
+Display - ok
+Leistung - nicht ausreichend
+Ein kleiner Atom CPU, 2 GB das ganze mit Win 10 - da heist es Geduldig sein
+reagierte einfach nicht mehr, tot.
+Am nächsten Gerät war der Stromstecker in der Buchse so fest, dass er nur mit übermäßiger Kraft gezogen werden konnte, d.h. das hält sicherlich auch nicht lange.
+Schade, um die ganzen Stunden bis sich das Gerät upgedated hatte.
+Das zweite was retour geht. Beim Zweiten lieg ich in Dauerstartschleife...es startet nicht Windows, sondern kommt in Warteschleife immer wieder zu Spracheeinstellung.....nee danke.
+Ausschauen tut es ja gut...aber Funktion nix für mich und meine Nerven
+Das Gerät ist nichtt sehr sonderlich empfehlenswert! meines schaltet sich ständig bei öffnen zB des Browsers bei 53% Akkuladung. ab. bin vom windows tablet und vom trackpad etwas enttäuscht.
+Ich war von dem Gerät anfangs begeistert. Sehr gute Verarbeitung, super Display, Keyboard mit einem guten Druckpunkt und keine hakenden Tasten. Das Tablet ließ sich prima von der Tastatur lösen. Klasse dachte ich - ein guter Kauf. Sehr gut fand ich, dass das Gerät sehr gut über mein Smartphone (Samsung Note4) in das Internet kam. Dann kam irgendwann ein Windows-Update der tatsächlich über 6 Stunden gedauert hat - obwohl ich sehr schnelles Internet und WLAN habe. Nach 2 Wochen begann das Display zu "spinnen". Streifen, manchmal keine Reaktion auf Eingaben. Na gut dachte ich, sowas passiert. Also Neustart. Eine Woche lief es dann. Ich nam dann das Geräte zu einem Kunden mit um etwas vorzuführen und das Gerät bootete überhaupt nicht mehr. Nach einigen Versuchen zeigte das Display dann Streifen - aber nicht was es sollte. Ich bin schwer enttäuscht, weil ich das kleine handliche Gerätchen eigentlich anfangs gut fand.
+Ich habe das Lenovo Mixx 310 nun einige Monate in Gebrauch. Am meisten vermisse ich den schnellen Zugriff auf Browser und Apps, den ich bei meinem alten iPad 1 hatte. Ein schneller Druck auf die Home-Taste und schon kann es losgehen. Da ich die volle Funktionionalität von Word haben wollte,habe ich mich durchgerungen, ein Windows-Tablet anzuschaffen. Inzwischen bereue ich das immer mehr.
+Ganz besonders nervig finde ich, dass man den Einschaltknopf gefühlt ewig halten muss, bis das Gerät startet. Aktuell habe ich das Problem, das Windows dann zwar irgendwann startet, aber wenn der Bildschirm kommt, wo man nach oben wischen muss, um sich anzumelden, darf ich genau das nicht machen, weil das Tablet dann sofort aus geht. Dann kann ich den Einschaltknopf wieder ewig halten, es wird "Bitte warten" angezeigt und es erscheint wieder der Wischbildschirm. Sowie ich wische, passiert das gleiche wieder.
+Weiterhin ist es nervig, dass die Touchbedienung sporadisch nicht funktioniert, wenn ich gleichzeitig mit zwei Benutzern angemeldet bin. Das würde ich aber nicht unbedingt aufs Tablet sondern evtl. auf das Betriebssystem der Firma "Winzigweich" schieben, da ich ein ähnliches Problem auch von einem anderen Windows-Tablet kenne.
+Alles in Allem kann man sagen, das die Verarbeitung ganz gut und die Tastatur wirklich brauchbar ist. Mein nächstes Tablet wird trotzdem wieder ein abgebissener Apfel, obwohl ich sonst eher der Windowswelt verschrieben bin.
+Der Preis ist tatsächlich absolut OK! Ich suchte aber kein Tab sondern ein Gerät was ich auch mit einer vollwertigen Tastatur verwenden kann.
+Hierzu war mir dieses Gerät zu filigran und unhandlich oder aber ich hab zu große Wurstfinger! Im Vergleich waren mir aber 10 Zoll Tabs genauso zu unhandlich. In dieser Größe sollte man vielleicht doch bei einem Tab bleiben oder man wechselt zu einem größeren Laptop.
+So gut wie ich das Tablet hier bewertet habe, so schlecht fällt nun die Entwertung aus. Das Gerät war 4 Tage bei mir. 09.03. Angekommen, 11.03. Abgeholt und 21.04. Zurück gebracht... Über ein Monat war das Gerät weg. Immer wieder anfragen per Mail, ich soll den Support anrufen über die 01805er Nummer, meistens hatten die keinen blassen Dunst warum ich anrufen sollte. Betrug auf ganzer Linie!!! Gerät ist nun wieder da. Kaputt, das Ersatzteil hat einen ähnlichen defekt. Dieses mal fallen die Karten nicht komplett aus, der Reader verliert einfach "nur" Daten. Daten werden auf die Karte gespeichert und sind dann weg. Karte ist übrigens ok, denn am Cardreader den ich für den OTG Port habe klappt alles wesentlich besser und schneller...
+Heißt jedoch für mich: noch etliche Anrufe die mich viel Geld kosten und wieder Monate in denen meine Garantie langsam abläuft bis mir gar nicht mehr geholfen werden kann. Teures Geld für ein Produkt was nur beim Service ist... Nein danke.
+Nie wieder Lenovo. Nie wieder.
+Ich war noch nie so sauer und enttäuscht zu gleichen Zeit.
+Nach einem Tag wirklichen benutzen ist das Lenovo Mix außerbetrieb gewesen.
+Der Bildschirm war schwarz und blinkte bei Versuch ihn anzumachen.
+Der Ideapad ist gute Idee und weniger eine gute Umsetzung.
+Man merkte beim benutzen, dass das Tablet auch viel zu schwer für die Tastatur ist.
+Was mich mehr ägert ist dass ich einpaar Daten auf den Laptop hatte und jetzt ist alles weg.
+Zum Glück kann man solche Sachen rückerstatten .
+Das tat ich auch.
+Das Risko war mir zu hoch ein neue davon wieder zu bestellen.
+Mein Geld habe ich auch zurück bekommen.
+Der 1/5 Stern ist für das Aussehen und die Lieferung.
+Das Gerät ist zum zweiten Mal in Reparatur, weil es sich an allen SD Karten "verschluckt", die ich getestet habe.
+Bei etwas intensiveren Nutzung zerschiesst das Miix die Karte und liest sie nicht mehr. An anderen Rechner jedoch laufen die Karten einwandfrei. Auch formatieren hilft nicht, sondern der übliche reset.
+Schade
+Dieser Laptop hat mich gnadenlos enttäuscht !
+Hin und wieder ist es vorgekommen das sich der Rechner bei einfachen Officeanwendungen, aber auch im Internet, aufgehangen hat. Und das ab den ersten Tag. Ein Druckauftrag (18 Seiten) dauerte locker 15 Minuten !!!
+Ich behaupte sehr stark das dieser Rechner nicht für Win 10 ausgelegt ist.
+Zudem finde ich das Display eines der schlechtesten die ich je gesehen habe. Viele Displays haben Probleme bei Horizontalen Blickwinkeln, aber dieser schafft es sogar bei Vertikalen Kopfbewegungen völlig aus dem Rahmen zu fallen. Das ist besonders bitter wenn man Bilder und Videos auf dem Rechner schaut. Von Bildbearbeiten ganz zu schweigen.
+Das der Rechner bei dieser "Ausstattung" (TN Display der billigsten Sorte) so günstig ist kann ich jetzt verstehen.
+Gekauft habe ich den Rechner bei Amazon (Versand und Verkauf durch Amazon) und die Rücknahme dieses Rechners hat tadellos und anstandslos geklappt. Nach nur einem Tag wurde die Rückerstattung veranlasst ........ dafür 5 Sterne.
+Mein neues Notebook hat die gleiche Rechenleistung jedoch ein anderes Panel verbaut (IPS Display) zudem noch eine stärkere Grafikkarte und das bei einem Mehrpreis von 120 Euro.
+Keine Aufhänger mehr und ein super Display.
+Das ist es mir aber allemal Wert.
+Erst einmal muss ich sagen, da ich von diesem Produkt anfangs viel gehalten habe und alles meinen wünschen entsprach. Bin ich jetzt umso entäuschter, der Prozessor des Laptops schwankt seit der ersten Minute von 10 auf 70% wenn nichts an ist und manchmal sogar bis 90% ich muss sagen das sowas schon garnicht geht. Ich weiß nicht was da los ist aber der gute wird seinen weg wieder zurück finden.
+Kauft Euch bloß nie einen Acer. Nach wenigen Minuten geht der Lüfter an und bleibt auch an. Und er ist laut !!! Weil die Temperatur extrem niedrig eingestellt ist. Der ist ist BIOS auch gesperrt und das ist auch so gewollt. Man wird also entmündigt. Ein Kontakt zum Support hat das so ergeben. Echt ärgerlich
+Ein Betrieb am Stromnetz ist so gar nicht möglich. Es sei denn einen stört der laute Lüfter nicht.
+Hallo zusammen,
+ich hab dieses Notebook vor einem Monat auf Notebookbilliger gekauft, hier meine Konfiguration:
+Windows 8.1 Pro 64-Bit
+8 GB DDR4 RAM
+i5-7200u Prozessor
+Nvidia GeForce GTX 950M Grafikkarte
+rest ist unwichtig.
+Nach dem hochinstallieren habe ich noch die Treiber von den Herstellern runtergeladen und im Geräte-Manager wurde alles perfekt erkannt. Office-Produkte laufen einwandfrei, das Surfen im Internet ist auch flüßig möglich, doch Gaming (Counter Strike Source, Black Ops 1, Modern Warfare 1) ist selbst auf low-settings nur mit 10-15 FPS möglich. Dies sollte eig. besser laufen, da die Grafikkarte und der Prozessor relativ stark sind.
+Daher für mich leider nur zwei Sterne! Ich bin für Tipps und Lösungsvorschläge offen, wodurch ich dann natürlich auch meine Rezession gegebenfalls verbessern würde.
+Grüße
+Es ist ja eigentlich super, dass Acer viel Leistung für wenig Geld bietet, doch genau hinsehen darf man nicht. Ich öffne die Verpackung und begutachte das Gerät Mal optisch, da fallen mir sofort 3 Dinge ins Auge:
+- Ein Macker am Displayrahmen (Hätte ich noch hingenommen).
+- Zwei Kratzer auf der Alu-Platte der Base-Unit.
+- Zwei kleine Dellen in der Alu-Platte.
+Mehr brauche ich nicht zu sehen. Das kann ich bei einem günstigen gebrauchten Gerät akzeptieren aber nicht bei einem Neuen!
+Ich habe den Lenovo heute erhalten.
+Die letzte Jahre hatte ich einen Lenovo L440 ohne SSD. Seltsam finde ich, dass mein alter Lenovo (heute noch!) wesentlich ruhiger und kühler ist als der neue Lenovo mit SSD. Auch die Geschwindigkeit find ich nicht überragend.
+Das Design ist gut gelungen. Die Tastatur finde ich sehr angenehm und fühlt sich total gut an. Win10 muss ich erst durchtesten.
+Ich werde wieder updaten, doch bin etwas enttäuscht, da ich ehrlich gesagt ohne etwas zu tun (nur Internet) hier doch die Arbeit des Notebooks hören kann und die Wärme auf der Tastatur spüre. Wie der wohl glüht wenn er mal richtig arbeiten soll/muss?
+Sehr schlechtes Produkt! Ich habe es in einem Saturn Markt erworben. Das Notebook ist total langsam, hat viel zu wenig Speicherplatz und ist auch technisch nicht gut ausgestattet. Für den Preis ist es auch kein Wunder!
+Einige Wochen lang hat es sich nicht mal mehr herunterfahren lassen! Da musste ich es zuklappen damit es aus geht...
+Mein Tip: Lieber mehr Geld ausgeben für bessere Qualität als etwas kaufen über das man sich nur ärgert.
+Ein toller Tablet-PC, der super funktioniert hat - genau 3 Wochen lang, dann ließ er sich nicht mehr einschalten.
+Das zweite Produkt von Asus, bei dem mir das passiert ist. Beim ersten Mal dachte ich noch, es lag an mir, aber jetzt....?
+Kann ich leider nicht empfehlen.
+Aber: Rücksendung und Rückerstattung des Kaufpreises war problemlos!
+Habe den ASUS nach 2 Wochen zurück geschickt weil er sich immer wieder einfach so während normaler Tätigkeit einfach ausgeschalten hat.
+Es fühlt sich zuerst gut an, gute Gehäusequalität (Tastaturgefühl, der Aufsteller hinter dem Tablet...) usw. Ich war echt aufgeregt muss ich sagen...
+ABER ich bin überhaupt nicht damit zufrieden. Surfen im Internet ist ein echter Albtraum (mit der vorinstallierte Microsoft Edge und noch schlimmer mit Google Chrome). Lädt alles super langsam und die Reaktion nach Befehl ist schlecht bzw super langsam. Selbst mein Ipad 2 von 2012 immernoch viel besser als dieses Asus ist, echt unglaublich.
+Die Vorfreude war gross, aber ich wurde sehr entauscht.... :-(
+Microsoft/Asus müssen noch sehr viel Arbeiten mit die Apple und Google Geräte vergleichbar zu sein... auch mit die Apps müssen sie ein Schritt nach vorne machen, weil die Store ist überhaupt nicht vergleichbar mit dem Apple Store oder Google Play, echt schade.
+Und noch ein Fazit, bei mir im Zimmer, habe ich Wifi Empfang mit alle meine Geräte Ipad 2 (2012), Laptop (HP und Macbook Pro), Händys (Samsung, LG und Honor) AUSSER mit dieses ASUS!!!
+Ich bin absolut kein Profi in Sachen Computer.Aber das Teil ist absolut schrott.... es hängt die ganze Zeit sogar bei einfachen Excel arbeiten.Lasst euch nicht von den rezensionen verwirren .Absolut keine Kaufempfehlung! Zum zurück schicken ist es leider zu spät also 400 fürn Müll!!!
+It arrived without the Pen, apparently from other reviews I have seen this is a common thing, other than that the tablet is correctly functioning so far.
+I really cannot understand how could they forget to add the stylus when there is a clear spot on the box just for it, I am quite dissappointed.
+Leider wird hier, im Gegensatz zu den USA, kein Stylus mitgeliefert. Asus selbst wirbt dennoch damit auf der eigenen Produktseite. Sei das noch nicht genug, entspricht der hiesige Preise dem US-Dollar-Preis, bei dem jedoch der Stylus inkludiert ist, während man in Europa mit nochmals 50 Euro für den Stift zur Kasse gebeten wird. In meinen Augen saubere Abzocke.
+Zur Leistung kann ich nichts sagen, Gerät ließ sich weder aufladen noch einschalten. Das Transformer Mini fühlt sich auf den ersten Blick wertig an, aber ab ca. 100 Grad klemmt der billig anmutende Kickstand aus ziemlich dünnem Blech. Beim überwinden des Widerstandes hat man das Gefühl diesen zu verbiegen oder die extrem schlechten Plastikscharniere zu brechen. Auch braucht es beide Hände den Kickstand zu schließen. Mal eben schnell aufstellen oder verstauen ist hier nicht drinne, wenn man etwas von seinem Gerät über längere Zeit haben will.
+Die Tastatur fühlt sich außen gut an, innen ist es aber das genaue Gegenteil. Das Plastik wirkt wie jenes der Verpackung, zudem stinkt das Cover furchtbar nach Chemie.
+Preis-Leistungstechnisch passt hier absolut nichts zusammen, insbesondere, wenn der Stylus fehlt ist man bei 370€ bei einem mäßig verarbeiteten Gerät, mit billigen Materialien. Da empfiehlt sich eher ein Einsteigermodell der Surface Geräte von Microsoft, für etwasehr Geld, da gibt es wenigstens noch sehr gute Qualität. Das Transformer Mini ist hingegen eher ein schwachbrüstiges Geldgrab. Und fürs Studium eher ungeeignet, denn ich will nicht wissen, wie schnell das Teil auseinanderfällt, wenn es oft transportiert wird.
+Daher: Finger weg und lieber etwas mehr Geld auf den Tisch legen oder ein gebrauchtes Business-Gerät kaufen.
+Für einen Preis von 399 €, sollte man schon davon ausgehen können, dass es sich um einen Bildschirm handelt, welcher eine angemesse Auflösung wiedergibt. Leider beschränkt sich hier der Hersteller nur auf den Prozessor,Arbeitsspeicher und die SSD Festplatte.
+Das verwirrende an diesem Angebot ist, dass die günstigeren HP Notebooks einen FullHD Bildschirm haben, das teurere Model aber nicht !!
+Ich hatte mir dieses Notebook zu Arbeitszwecken zugelegt und habe dabei wert auf eine schnelle Verarbeitung von Daten gelegt.
+Zum Spielen ist dieses Notebook keineswegs geeignet.
+Leider bekommt man nach längerem arbeiten Augenschmerzen, aufgrund des schlechten Bildschirms.
+Nach den vorliegenden Rezessionen bestellte ich das NN ...doch
+beim ersten Einschalten war derLüfter fast so laut wie mein Staubsauger, wenn hinter der Tür gesaugt wird und die Festlatte rattert ...
+wieso diese rattert ? Keine Ahnung, ich hatte noch NIE einen PC oder ein Notebook (ausser vor 20 Jahren) bei dem man das Laufwerk hört. Meine Partnerin meinte: woher kommt dieses unerträgliche Geräusch ? ..... NICHT zu gebrauchen. Fehlkauf ....Leider werden keine Audiodateien unterstützt,ansonsten hätte ich sie hochgeladen ....
+Ich hatte mir den Laptop für die Uni gekauft, also für Hausarbeiten, Präsentationen etc.
+leider ist er völlig umgeeignet, da er sehr sehr langsam ist, schon beim Hochfahren braucht er bestimmt 1-2 Minuten. Umd auch ansonsten beim verschieben von Daten zum Beispiel vom stick auf den desktop braucht er total langsam. Dies geht sogar bei meinem 8 jahre alten Laptop mit vista schneller.
+Das Design ist jedoch sehr edel und der Laptop ist handlich. Desweiteren ist es gut, dass er nicht heißläuft.
+Aufgrund der Geschwindigkeit habe ich ihn wieder zurück geschickt.
+++ Nicht über Warehousdeals kaufen ++
+Habe mir diesen Laptop über Amazons Warehousedeal gekauft. Die Euphorie war groß, die Qualität und dass äussere Erscheinungsbild ist zwar nicht perfekt aber für den Preis ganz in Ordnung.
+Leider lies sich das System nicht richtig einrichten, die Windows Partition war Fehlerhaft. Man kann den Einrichtungsprozess nicht beenden, das Notebook ist in einem s.g. "Bootloop". Selbst ich als Informatiker konnte da nicht viel ausrichten und hätte das komplette System neu aufsetzten müssen und dass ohne mitgelieferte Windows CD/DVD. Für mich viel zu umständlich, man kann nicht mal ins Boot Menü oder ins BIOS booten.
+Nach Rücksprache mit einem Amazon Techniker werden die WHD-Notebooks alle neu aufgesetzt bei Rücksendung. Da muss wohl das Problem liegen, weil die Rücksendung meistens äusserlich echt gut aussehen, genau wie meines. Weil wie gesagt, rein optisch war mein Gerät trotz WHD in Top Zustand.
+Laut andere Rezensionen scheine ich ja nicht der einzige zu sein der Probleme mit den WHD-Notebooks hat.
+Das Gerät ist gut verarbeitet. Das Gehäuse macht den Eindruck nicht sehr robust zu sein. Der Lüfter ist gleich nach dem ersten Einschalten verhältnismässig laut. Die Erstkonfiguration funktioniert nicht, denn nach den Reboots werden immer wieder dieselben Eingaben verlangt.
+Das Gehäuse ist aus Hartplastik, das Display selbst ist gut (zumindest ist es mir nicht negativ aufgefallen), die Arbeitsgeschwindigkeit lässt doch arg zu wünschen übrig, die Tastatur ist auch ok. Das Touchpad ist in das Gehäuse eingelassen und nicht gerade sehr berührungsempfindlich. Programmstarts dauern ihre Zeit.
+Ich hatte mir mehr versprochen. Deswegen geht das Notebook leider zurück. Möglicherweise ist das Notebook geeignet für Anfänger, die sich ihr erstes Notebook zulegen. Für alle, die bereits Erfahrungen mit Notebooks mittlerer Preisklasse gemacht haben, ist dieses Modell m. E. nach leider nichts.
+PC konnte nicht booten. Bei der Sprachauswahl hat sich das System aufgehängt. Neuinstallation über DVD nicht möglich, da Laufwerk nicht erkannt wurde. Ich habe mehrere Stunden versucht den Laptop zu starten, auch der Kundenservice von Amazon konnte nicht helfen.
+Der einen Stern kann ich nur dafür geben, das auch am Samstag ein technischer Support von Amazon erreichbar war.
+Die Oberfläche ist sehr empfindlich gegen Fingerabdrücke.
+Ich hatte mich sehr auf den Laptop gefreut, da die Beschreibung sehr vielversprechend war. Jedoch konnte ich direkt nach dem ersten Hochfahren ein sehr störendes knisterndes Geräusch aus der Lüftung fest stellen, welches auch nicht wieder weg ging. Selbst der kleinste Vorgang hat den Laptop total überfordert und alles ging nur im Schneckentempo. Ich bin von dem Produkt sehr enttäuscht und schicke es deshalb zurück.
+Naja hab mir das Edle Ding vor Weihnachten zugeleg mit schön viel Arbeitsspeicher ... Sorry aber die Möhre ist nicht mal in der Lage Youtube Viedeo's ruckelfrei abzuspielen ... das ist mal der Abstand schlechteste Computer den ich je hatte !!!!!!
+Dieser Laptop hat mich gnadenlos enttäuscht !
+Hin und wieder ist es vorgekommen das sich der Rechner bei einfachen Officeanwendungen, aber auch im Internet, aufgehangen hat. Und das ab den ersten Tag. Ein Druckauftrag (18 Seiten) dauerte locker 15 Minuten !!!
+Ich behaupte sehr stark das dieser Rechner nicht für Win 10 ausgelegt ist.
+Zudem finde ich das Display eines der schlechtesten die ich je gesehen habe. Viele Displays haben Probleme bei Horizontalen Blickwinkeln, aber dieser schafft es sogar bei Vertikalen Kopfbewegungen völlig aus dem Rahmen zu fallen. Das ist besonders bitter wenn man Bilder und Videos auf dem Rechner schaut. Von Bildbearbeiten ganz zu schweigen.
+Das der Rechner bei dieser "Ausstattung" (TN Display der billigsten Sorte) so günstig ist kann ich jetzt verstehen.
+Gekauft habe ich den Rechner bei Amazon (Versand und Verkauf durch Amazon) und die Rücknahme dieses Rechners hat tadellos und anstandslos geklappt. Nach nur einem Tag wurde die Rückerstattung veranlasst ........ dafür 5 Sterne.
+Mein neues Notebook hat die gleiche Rechenleistung jedoch ein anderes Panel verbaut (IPS Display) zudem noch eine stärkere Grafikkarte und das bei einem Mehrpreis von 120 Euro.
+Keine Aufhänger mehr und ein super Display.
+Das ist es mir aber allemal Wert.
+Erst einmal muss ich sagen, da ich von diesem Produkt anfangs viel gehalten habe und alles meinen wünschen entsprach. Bin ich jetzt umso entäuschter, der Prozessor des Laptops schwankt seit der ersten Minute von 10 auf 70% wenn nichts an ist und manchmal sogar bis 90% ich muss sagen das sowas schon garnicht geht. Ich weiß nicht was da los ist aber der gute wird seinen weg wieder zurück finden.
+Kauft Euch bloß nie einen Acer. Nach wenigen Minuten geht der Lüfter an und bleibt auch an. Und er ist laut !!! Weil die Temperatur extrem niedrig eingestellt ist. Der ist ist BIOS auch gesperrt und das ist auch so gewollt. Man wird also entmündigt. Ein Kontakt zum Support hat das so ergeben. Echt ärgerlich
+Ein Betrieb am Stromnetz ist so gar nicht möglich. Es sei denn einen stört der laute Lüfter nicht.
+Hallo zusammen,
+ich hab dieses Notebook vor einem Monat auf Notebookbilliger gekauft, hier meine Konfiguration:
+Windows 8.1 Pro 64-Bit
+8 GB DDR4 RAM
+i5-7200u Prozessor
+Nvidia GeForce GTX 950M Grafikkarte
+rest ist unwichtig.
+Nach dem hochinstallieren habe ich noch die Treiber von den Herstellern runtergeladen und im Geräte-Manager wurde alles perfekt erkannt. Office-Produkte laufen einwandfrei, das Surfen im Internet ist auch flüßig möglich, doch Gaming (Counter Strike Source, Black Ops 1, Modern Warfare 1) ist selbst auf low-settings nur mit 10-15 FPS möglich. Dies sollte eig. besser laufen, da die Grafikkarte und der Prozessor relativ stark sind.
+Daher für mich leider nur zwei Sterne! Ich bin für Tipps und Lösungsvorschläge offen, wodurch ich dann natürlich auch meine Rezession gegebenfalls verbessern würde.
+Grüße
+Es ist ja eigentlich super, dass Acer viel Leistung für wenig Geld bietet, doch genau hinsehen darf man nicht. Ich öffne die Verpackung und begutachte das Gerät Mal optisch, da fallen mir sofort 3 Dinge ins Auge:
+- Ein Macker am Displayrahmen (Hätte ich noch hingenommen).
+- Zwei Kratzer auf der Alu-Platte der Base-Unit.
+- Zwei kleine Dellen in der Alu-Platte.
+Mehr brauche ich nicht zu sehen. Das kann ich bei einem günstigen gebrauchten Gerät akzeptieren aber nicht bei einem Neuen!
+Leider ist bei mir bei der Hello-Tastatur, die ca. 0,7 mm Schutzfolie gebrochen - die über den virtuellen Tasten liegt.
+Ich habe das Gerät im geöffneten Zustand, vorne rechtes mit dem Daumen und Zeigefinger gehalten und bin so ein Stück gegangen (ich denke mir, dass der Bruch bzw. ein Haarbruch so aufgetreten ist)
+Der Bruch der Folie auf der Tastatur erstreckt sich von vorne rechts (Kamera) bis hinten links. Ab ca. der Mitte bis nach links funktionieren noch alle Tasten - auf der rechten Seite funktionieren die Tasten nicht mehr.
+Ich möchte euch nur davor warnen, dass Gerät so nicht in die Hand zu nehmen und beim Öffnen, sehr vorsichtig zu sein, damit sich nicht zu viel verbiegt - ist alles sehr dünn.
+Auch wenn ihr keinen Bruch feststellt, kann es sein, dass durch das leichte Biegen die Hello-Tastatur nicht mehr ordentlich funktioniert oder der Bruch dann irgendwann kommt.
+Ich habe das Gerät zur Reparatur eingeschickt - zur Info für Euch wegen Garantie. :-(
+Oliver Stark: Hallo, mein Name ist Oliver Stark. Wie kann ich Ihnen helfen?
+. Oliver: Guten Tag, ich habe mir erst vor kurzem das Yoga Book gekauft. Heute in der Straßenbahn habe ich es aus meiner Tasche genommen und festgestellt, dass die Hello-Tastatur nicht ordentlich funktioniert. Habe dann festgestellt, dass diese einen Sprung über die ganzen Tastatur hat. Jetzt funktioniert auf der rechten Seite die Eingabe nicht mehr - auf der linken Seite kann ich tippen.
+Oliver Stark: Dazu kann ich Ihnen gerne einen Retourenschein zusenden, wir schauen uns das Gerät an und erstellen Ihnen dann kostenlos einen Kostenvoranschlag. Sie haben dann die Wahl, das Gerät entweder zum genannten Preis reparieren zu lassen oder wir senden Ihnen den Rechner unrepariert kostenlos zurück oder entsorgen das Gerät auf Wunsch kostenfrei
+. Oliver: Ich habe auf das Gerät noch Garantie. Bitte senden sie mir einen Retourenschein.
+Oliver Stark: Bruchschäden werden nicht von der Garantie abgedeckt
+War/bin auf der Suche nach einem Gerät, das sich gut für die Erfassung von handschriftlichen Notizen eignet.
+positiv
+- technisch einwandfrei und hochwertig
+- bootet schnell und ist daher schnell einsatzbereit
+- Display ausreichend hell und keine Reflexionen (matte Oberfläche)
+- Touch gut
+- Pen/Digitizer exakt
+negativ
+- den Stift kann man nirgends verstauen (Verlustgefahr)
+- will man den Stift als Digitizer am Display und als "normalen" Kugelschreiber für die Erfassung auf der Notizfeld verwenden, muss man die Mini wechseln, das hätte man auch mit 1 Stift mit 2 Spitzen lösen können
+- Lenovo-Support sagt dazu: die meisten Kunden kaufen 2 Stifte (Hallo ?!?!)
+- klappt man das Notebook komplett um/zu und verwendet es im Tabletmodus,berührt man dabei das touch-sensible Feld (Button) auf der Rückseite: das Tablet vibriert und oder weist auf nutzbare Anwendungen für Touch (z.b. OneNote) hin.
+- Notizen auf Papier: klapp grundsätzlich gut, nur falls das Papier nur minimal verrutscht findet man den "Anschluss" nicht mehr.
+Es stellt sich für mich einfach die Frage ob man soetwas braucht bzw. ob es ein Fortschritt ist Notizen vom Papier zu digitalisieren.
+Es ist so schade: das YogaBook schaut super aus, aber leider bringts mich langsam zur Verzweiflung. Sicher mehr als ein Dutzend PC's und Laptops habe ich im Laufe der Jahre genutzt und bin immer klar gekommen. Das Yoga Book sieht super aus und die Idee mit der Tastatur finde ich super, kann auch brauchbar darauf schreiben. Bin kein Gamer, die Leistung reicht aus. Zwei Beispiele, mit denen ich einfach nicht klarkomme: jedes Mobiltelefon und jeder Laptop oder auch Mac kommt bei mir problemlos ins WLAN. Das Yoga findet die entsprechenden Netzwerke, verbindet sich aber nicht mit dem Internet - keine Ahnung, warum. Jedes vierte, fünfte Mal klappt es, im Abstand von ein paar Stunden - da drehst mit der Zeit am Radl ... und dann kommt dazu, dass sich das Ding manchmal einfach nicht einschalten lässt. Den Einschaltknopf kurz drücken, lang drücken - nichts hilft, und eine Minute später lässt es sich dann einschalten, als ob gar nichts gewesen wäre! Das erste Mal, dass ich drüber nachdenke, ein nach langer Überlegung gekauftes Coomputer-Teil wieder zurückzugeben. Nochmal probieren, es ist einfach zu cool, vor allem das Scharnier ...
+Sehr schlechtes Produkt! Ich habe es in einem Saturn Markt erworben. Das Notebook ist total langsam, hat viel zu wenig Speicherplatz und ist auch technisch nicht gut ausgestattet. Für den Preis ist es auch kein Wunder!
+Einige Wochen lang hat es sich nicht mal mehr herunterfahren lassen! Da musste ich es zuklappen damit es aus geht...
+Mein Tip: Lieber mehr Geld ausgeben für bessere Qualität als etwas kaufen über das man sich nur ärgert.
+Gestern mit großer Freude das Gerät erhalten und getestet.
+Was eine Enttäuschung war jedoch der Stylus. Ich hatte zwar schon Rezessionen gesehen, in denen der Stylus kritisiert wurde, jedoch die Berichte auf Youtube spiegelten das nicht wieder. Diese zeigen den Stylus beim Malen und nicht beim Schreiben ! Denn schreiben kann man vollständig vergessen. Und dies ist das K.O.-Kriterium für meine Rücksendung des Gerätes!
+Ich muss sagen, dass ich als Vergleich, sowohl ein Wacom Bamboo und ein Acer Switch 10 mit Dell Stylus in Benutzung habe. Wacom ist natürlich eine andere Liga, aber das Switch 10 mit dem Dell Stylus, das ich ersetzen wollte, funktioniert bei weitem besser. Beim Alpha 12 kann man diese Funktion einfach nicht nutzen.
+Wem es reicht den Stylus nur als Mausersatz zu nutzen, wird jedoch damit leben können.
+Ein weiterer Kritikpunkt ist der Kick-Stand. Mir ist er nicht stabil genug, um mit dem Stylus darauf zu arbeiten. Wenn der Stand mit ca. 90° zum Tablet steht, rutscht das Tablet weg und der Stand rutscht in die Maximalstellung. Denn nur der Stand hat ein Gummiüberzug, dass ein Rutschen verhindert, aber icht die Unterkante des Tablets.
+Dann noch eine Kleinigkeit. Wie kann man einem solchen flachem Leichtgewicht nur ein so riesiges Kaltgerätekabel am Ladegerät verpassen ? Das gleiche Kabel hat mein Tischgrill. Es ist einfach viel zu groß.
+Beim Ansehen von PDFs, z.B. DigitalPhoto, hatte ich den Eindruck, dass die Schriftdarstellung nicht in allen Fallen völlig schattenfrei und scharf waren. Das kenne ich von meinem Desktop, dem Switch 10 und meinem Sony Xperia Tablet nicht. Ich habe es aber nicht genauer getestet, weil vorher schon klar war, dass ich das Gerät zurücksende.
+Als Fazit muss ich sagen, dass es eigentlich keine riesigen Sachen sind, die mir nicht gefallen haben, aber dennoch sind sie für mich nicht hinnehmbar bei einem Gerät über 1.100 Euro.
+Leider ein riesen Fehlkauf.
+-sehr langsam
+-schlechte Soundqualität
+-viel zu dunkles Display
+-Internet ständig weg
+-Akkulaufzeit ein Witz
+-hochfahren dauert viel zu lang
+Absolut nicht zu empfehlen .
+Der erste Eindruck ist durchaus 5 Sterne
+Aber der Lüfter surrt wie eine kleine Flugzeugturbine und ist nicht zum Runterregeln
+Schade, sonst sicherlich ein gutes Gerät
+PC defekt,stürzt immer wieder ab.Konnte auch im abgesicherten Modus nicht gestartet werden.Gleich zurück geschickt.Schade,Gerät machte eigentlich guten Eindruck.Kaufe mir was anderes.
+Gestern mit großer Freude das Gerät erhalten und getestet.
+Was eine Enttäuschung war jedoch der Stylus. Ich hatte zwar schon Rezessionen gesehen, in denen der Stylus kritisiert wurde, jedoch die Berichte auf Youtube spiegelten das nicht wieder. Diese zeigen den Stylus beim Malen und nicht beim Schreiben ! Denn schreiben kann man vollständig vergessen. Und dies ist das K.O.-Kriterium für meine Rücksendung des Gerätes!
+Ich muss sagen, dass ich als Vergleich, sowohl ein Wacom Bamboo und ein Acer Switch 10 mit Dell Stylus in Benutzung habe. Wacom ist natürlich eine andere Liga, aber das Switch 10 mit dem Dell Stylus, das ich ersetzen wollte, funktioniert bei weitem besser. Beim Alpha 12 kann man diese Funktion einfach nicht nutzen.
+Wem es reicht den Stylus nur als Mausersatz zu nutzen, wird jedoch damit leben können.
+Ein weiterer Kritikpunkt ist der Kick-Stand. Mir ist er nicht stabil genug, um mit dem Stylus darauf zu arbeiten. Wenn der Stand mit ca. 90° zum Tablet steht, rutscht das Tablet weg und der Stand rutscht in die Maximalstellung. Denn nur der Stand hat ein Gummiüberzug, dass ein Rutschen verhindert, aber icht die Unterkante des Tablets.
+Dann noch eine Kleinigkeit. Wie kann man einem solchen flachem Leichtgewicht nur ein so riesiges Kaltgerätekabel am Ladegerät verpassen ? Das gleiche Kabel hat mein Tischgrill. Es ist einfach viel zu groß.
+Beim Ansehen von PDFs, z.B. DigitalPhoto, hatte ich den Eindruck, dass die Schriftdarstellung nicht in allen Fallen völlig schattenfrei und scharf waren. Das kenne ich von meinem Desktop, dem Switch 10 und meinem Sony Xperia Tablet nicht. Ich habe es aber nicht genauer getestet, weil vorher schon klar war, dass ich das Gerät zurücksende.
+Als Fazit muss ich sagen, dass es eigentlich keine riesigen Sachen sind, die mir nicht gefallen haben, aber dennoch sind sie für mich nicht hinnehmbar bei einem Gerät über 1.100 Euro.
+Die Daten/Komponenten sollten auf ein halbwegs vernünftiges Gerät schließen, wobei ich mehr als enttäuscht bin. Klingt alles sehr gut, ist es aber nicht. Der Computer ist sehr träge und langsam. Alles arbeitet mit Verzögerung in Zeitlupe. Ich hatte gedacht, wenn alles ordentlich eingerichtet ist wird er schon seine, für mich bescheidene Zwecke erfüllen, aber weit gefehlt. Sehr schlechtes Gerät und daß obwohl es noch neu ist. Jetzt wo ich schon ein paar Tage damit arbeite wird eine Rücknahme sehr schwer werden, somal ja nichts kaputt, sondern nur sehr mies ist. Ich rate daher Finger weg.
+Der Computer machte zuerst einen guten Eindruck. Wir haben ihn vor einem Monat ! gekauft und jetzt läßt er sich absolut nicht mehr hochfahren ! Alles ist still, der Bildschirm ist schwarz ... Das Gerät senden wir jetzt sofort zurück. Dank der großzügigen Rücksenderegelung kein Problem bei Amazon. Amazon bekommt - wie immer 5 Sterne. Das Gerät jedoch nur einen Stern :-(
+Angekommen, eingeschaltet, Kein Start, Fehlermeldung und innen drin hat was gerappelt.
+Nach Kontakt des Service erfolgte die Rücksendung - leider war kein paralleles Zusenden eines Austauschgerät möglich, d.h. trotz mehrfacher Nachfrage wurde mir vom Service klar und deutlich gesagt: Das Gerät muss zurück gesendet sein, im System gelistet und diese Liste wird "abgearbeitet". Nun ja und dann wartet man halt mal 14Tage bis man sein bestelltes Gerät nutzen kann.
+Nicht zeitgemäßer Service = 0 Sterne
+Gerät läuft jetzt zufriedenstellend, bis evtl auf die Akkulaufzeit = 4 Sterne
+ergibt 2 Sterne im Total !!
+Für den Preis ist der Rechner ganz ok, allerdings fehlts am Drumherum.
+Ich hab nicht erwartet das ein Betriebssystem drauf ist, aber warum macht man FreeDos drauf, damit kann doch niemand was anfangen, da doch lieber ganz ohne System. Leider lag dem Ganzen auch keine Treiber CD bei und auf der deutschen HP Seite gibt's den lapidaren Kommentar "keine Treiber vorhanden", zum Glück gabs welche auf der englischen Seite.
+Als Fazit kann man sagen das dieses Angebot nichts für Laien ist. Jeder der was anderes als Windows 10 drauf machen will sollte sich die entsprechenden Treiber vorher besorgen. Mehr als 2 Sterne sind bei mir deswegen nicht drin, da bin ich, selbst in dem Preissegment, besseres gewohnt.
+Leider ein riesen Fehlkauf.
+-sehr langsam
+-schlechte Soundqualität
+-viel zu dunkles Display
+-Internet ständig weg
+-Akkulaufzeit ein Witz
+-hochfahren dauert viel zu lang
+Absolut nicht zu empfehlen .
+Der erste Eindruck ist durchaus 5 Sterne
+Aber der Lüfter surrt wie eine kleine Flugzeugturbine und ist nicht zum Runterregeln
+Schade, sonst sicherlich ein gutes Gerät
+PC defekt,stürzt immer wieder ab.Konnte auch im abgesicherten Modus nicht gestartet werden.Gleich zurück geschickt.Schade,Gerät machte eigentlich guten Eindruck.Kaufe mir was anderes.
+Mein erster Eindruck war begeistert. Für den Preis ein Tablet, da kann man nichts sagen.
+Jetzt nach einiger Zeit muß ich sagen , so toll ist es doch nicht.
+Die Akkuzeit ist mehr als dürftig. Immer wenn mal was damit machen will, ist der Akku leer.
+Außerdem gibt es keinen Google Store und man kann ihn nicht intallieren.
+Dadurch fehlen die beliebteseten Apps.
+Ich würde ihn mir nicht mehr kaufen.
+Sieht toll aus. Hat aber leider nur 4 Wochen funktioniert. Nachdem ich auf Hinweis von Amazon den Kundendienst von Samsung angerufen habe, musste ich auf eigene Rechnung das Tablet zu Samsung schicken trotz Garantie.
+Das Tablet selbst ist einwandfrei und das Preis/Leistungs-Verhältnis überrascht hier positiv.
+Dennoch habe ich einen Grund zur Beschwerde: Ich habe ein Gerät mit spanischem Android-Betriebssystem erhalten.
+"Wo ist das Problem? Stell doch einfach auf Deutsch!" werden sich jetzt einige Leute denken - und natürlich habe ich das auch getan. Das Problem ist, dass einige Apps auf der spanischen Version nicht laufen wollen, weil sie quasi "region locked" sind. Da nutzt auch ein deutscher Standort und eine deutsche IP nichts. Amazon Video und Amazon Underground sind beispielsweise solche Apps, die partout nicht auf der spanischen Android Version laufen.
+SM-T580NZWADBT ist die Artikelnr. des deutschen Gerätes, SM-T580NZWAPHE die spanische.
+Die aktuelle Version der deutschen Firmware lautet: T580XXU2APL4 / T580OXA2APL4, die spanische: T580XXU2AQA2 / T580PHE2APL2.
+Letztere ist auf dem Gerät installiert. Auch die Bedienungsanleitung war spanisch, sowie die Grundeinstellungen des Gerätes.
+Zudem ist in der Artikelbeschreibung von einer deutschen Version die Rede, weshalb es sich hier ganz klar um Täuschung handelt.
+Zitat aus der Produktbeschreibung: Modellnummer SM-T580NZWADBT
+Der Verkäufer war "Southwall", Versand erfolgte über Amazon (prime). Ich habe versucht, in den Händler-Bewertungen auf den Umstand, dass hier falsch beschriebene Tablets ausgeliefert werden, hinzuweisen, doch leider löschte Amazon meine Händler-Bewertung mit dem Hinweis, dass Amazon die Verantwortung für den Versand übernehmen würde. Das würde bedeuten, dass Amazon einräumt, diese Geräte mit spanischer Firmware so aus ihrem Lager zu verkaufen.
+Daher komme ich nicht umhin, diese Bewertung stattdessen hier zu hinterlassen, um andere Interessenten davor zu warnen.
+Das Gerät gebe ich schweren Herzens zurück. Schweren Herzens nicht nur, weil das Gerät selbst wirklich sehr gut ist, sondern auch weil Amazons Rückgabepolitik in letzter Zeit recht kundenunfreundlich geworden ist und man mit mehreren Rückgaben eine Accountsperre zu befürchten hat, wobei Amazon selbst nicht preisgibt, ab welchem Rückgabewert oder ab welcher Rückgabefrequenz in welchem Zeitraum diese Sperrung in Kraft tritt.
+Doch wenn ich ein Gerät kaufe, das auf den deutschen Markt zugeschnitten ist und auf dem die deutschen Applikationen problemlos funktionieren sollen, dann möchte ich auch genau dieses erhalten und keine spanische Reseller-Ware.
+Sieht toll aus. Hat aber leider nur 4 Wochen funktioniert. Nachdem ich auf Hinweis von Amazon den Kundendienst von Samsung angerufen habe, musste ich auf eigene Rechnung das Tablet zu Samsung schicken trotz Garantie.
+Das Tablet selbst ist einwandfrei und das Preis/Leistungs-Verhältnis überrascht hier positiv.
+Dennoch habe ich einen Grund zur Beschwerde: Ich habe ein Gerät mit spanischem Android-Betriebssystem erhalten.
+"Wo ist das Problem? Stell doch einfach auf Deutsch!" werden sich jetzt einige Leute denken - und natürlich habe ich das auch getan. Das Problem ist, dass einige Apps auf der spanischen Version nicht laufen wollen, weil sie quasi "region locked" sind. Da nutzt auch ein deutscher Standort und eine deutsche IP nichts. Amazon Video und Amazon Underground sind beispielsweise solche Apps, die partout nicht auf der spanischen Android Version laufen.
+SM-T580NZWADBT ist die Artikelnr. des deutschen Gerätes, SM-T580NZWAPHE die spanische.
+Die aktuelle Version der deutschen Firmware lautet: T580XXU2APL4 / T580OXA2APL4, die spanische: T580XXU2AQA2 / T580PHE2APL2.
+Letztere ist auf dem Gerät installiert. Auch die Bedienungsanleitung war spanisch, sowie die Grundeinstellungen des Gerätes.
+Zudem ist in der Artikelbeschreibung von einer deutschen Version die Rede, weshalb es sich hier ganz klar um Täuschung handelt.
+Zitat aus der Produktbeschreibung: Modellnummer SM-T580NZWADBT
+Der Verkäufer war "Southwall", Versand erfolgte über Amazon (prime). Ich habe versucht, in den Händler-Bewertungen auf den Umstand, dass hier falsch beschriebene Tablets ausgeliefert werden, hinzuweisen, doch leider löschte Amazon meine Händler-Bewertung mit dem Hinweis, dass Amazon die Verantwortung für den Versand übernehmen würde. Das würde bedeuten, dass Amazon einräumt, diese Geräte mit spanischer Firmware so aus ihrem Lager zu verkaufen.
+Daher komme ich nicht umhin, diese Bewertung stattdessen hier zu hinterlassen, um andere Interessenten davor zu warnen.
+Das Gerät gebe ich schweren Herzens zurück. Schweren Herzens nicht nur, weil das Gerät selbst wirklich sehr gut ist, sondern auch weil Amazons Rückgabepolitik in letzter Zeit recht kundenunfreundlich geworden ist und man mit mehreren Rückgaben eine Accountsperre zu befürchten hat, wobei Amazon selbst nicht preisgibt, ab welchem Rückgabewert oder ab welcher Rückgabefrequenz in welchem Zeitraum diese Sperrung in Kraft tritt.
+Doch wenn ich ein Gerät kaufe, das auf den deutschen Markt zugeschnitten ist und auf dem die deutschen Applikationen problemlos funktionieren sollen, dann möchte ich auch genau dieses erhalten und keine spanische Reseller-Ware.
+Sieht toll aus. Hat aber leider nur 4 Wochen funktioniert. Nachdem ich auf Hinweis von Amazon den Kundendienst von Samsung angerufen habe, musste ich auf eigene Rechnung das Tablet zu Samsung schicken trotz Garantie.
+Das Tablet selbst ist einwandfrei und das Preis/Leistungs-Verhältnis überrascht hier positiv.
+Dennoch habe ich einen Grund zur Beschwerde: Ich habe ein Gerät mit spanischem Android-Betriebssystem erhalten.
+"Wo ist das Problem? Stell doch einfach auf Deutsch!" werden sich jetzt einige Leute denken - und natürlich habe ich das auch getan. Das Problem ist, dass einige Apps auf der spanischen Version nicht laufen wollen, weil sie quasi "region locked" sind. Da nutzt auch ein deutscher Standort und eine deutsche IP nichts. Amazon Video und Amazon Underground sind beispielsweise solche Apps, die partout nicht auf der spanischen Android Version laufen.
+SM-T580NZWADBT ist die Artikelnr. des deutschen Gerätes, SM-T580NZWAPHE die spanische.
+Die aktuelle Version der deutschen Firmware lautet: T580XXU2APL4 / T580OXA2APL4, die spanische: T580XXU2AQA2 / T580PHE2APL2.
+Letztere ist auf dem Gerät installiert. Auch die Bedienungsanleitung war spanisch, sowie die Grundeinstellungen des Gerätes.
+Zudem ist in der Artikelbeschreibung von einer deutschen Version die Rede, weshalb es sich hier ganz klar um Täuschung handelt.
+Zitat aus der Produktbeschreibung: Modellnummer SM-T580NZWADBT
+Der Verkäufer war "Southwall", Versand erfolgte über Amazon (prime). Ich habe versucht, in den Händler-Bewertungen auf den Umstand, dass hier falsch beschriebene Tablets ausgeliefert werden, hinzuweisen, doch leider löschte Amazon meine Händler-Bewertung mit dem Hinweis, dass Amazon die Verantwortung für den Versand übernehmen würde. Das würde bedeuten, dass Amazon einräumt, diese Geräte mit spanischer Firmware so aus ihrem Lager zu verkaufen.
+Daher komme ich nicht umhin, diese Bewertung stattdessen hier zu hinterlassen, um andere Interessenten davor zu warnen.
+Das Gerät gebe ich schweren Herzens zurück. Schweren Herzens nicht nur, weil das Gerät selbst wirklich sehr gut ist, sondern auch weil Amazons Rückgabepolitik in letzter Zeit recht kundenunfreundlich geworden ist und man mit mehreren Rückgaben eine Accountsperre zu befürchten hat, wobei Amazon selbst nicht preisgibt, ab welchem Rückgabewert oder ab welcher Rückgabefrequenz in welchem Zeitraum diese Sperrung in Kraft tritt.
+Doch wenn ich ein Gerät kaufe, das auf den deutschen Markt zugeschnitten ist und auf dem die deutschen Applikationen problemlos funktionieren sollen, dann möchte ich auch genau dieses erhalten und keine spanische Reseller-Ware.
+Das Gerät funktioniert technisch einwandfrei, läuft schnell und stabil, die grafische Darstellung ist sehr gut und flüssig. Insoweit stimmt auch das Preis-/ Leistungsverhältnis.
+Allerdings ist das Gerät klar auf die Nutzung der Amazon Angebote ausgerichtet. Und da liegen klare Grenzen. Ich bin nicht traurig darüber, dass unser Sohn mit dem Gerät populäre Spiele Apps wie Fifa 16 oder Clash of Clans nicht spielen kann, aber insgesamt ist das App Angebot zu dünn.
+Mein erster Eindruck war begeistert. Für den Preis ein Tablet, da kann man nichts sagen.
+Jetzt nach einiger Zeit muß ich sagen , so toll ist es doch nicht.
+Die Akkuzeit ist mehr als dürftig. Immer wenn mal was damit machen will, ist der Akku leer.
+Außerdem gibt es keinen Google Store und man kann ihn nicht intallieren.
+Dadurch fehlen die beliebteseten Apps.
+Ich würde ihn mir nicht mehr kaufen.
+Mein erster Eindruck war begeistert. Für den Preis ein Tablet, da kann man nichts sagen.
+Jetzt nach einiger Zeit muß ich sagen , so toll ist es doch nicht.
+Die Akkuzeit ist mehr als dürftig. Immer wenn mal was damit machen will, ist der Akku leer.
+Außerdem gibt es keinen Google Store und man kann ihn nicht intallieren.
+Dadurch fehlen die beliebteseten Apps.
+Ich würde ihn mir nicht mehr kaufen.
+Mein erster Eindruck war begeistert. Für den Preis ein Tablet, da kann man nichts sagen.
+Jetzt nach einiger Zeit muß ich sagen , so toll ist es doch nicht.
+Die Akkuzeit ist mehr als dürftig. Immer wenn mal was damit machen will, ist der Akku leer.
+Außerdem gibt es keinen Google Store und man kann ihn nicht intallieren.
+Dadurch fehlen die beliebteseten Apps.
+Ich würde ihn mir nicht mehr kaufen.
+Sieht toll aus. Hat aber leider nur 4 Wochen funktioniert. Nachdem ich auf Hinweis von Amazon den Kundendienst von Samsung angerufen habe, musste ich auf eigene Rechnung das Tablet zu Samsung schicken trotz Garantie.
+Das Tablet selbst ist einwandfrei und das Preis/Leistungs-Verhältnis überrascht hier positiv.
+Dennoch habe ich einen Grund zur Beschwerde: Ich habe ein Gerät mit spanischem Android-Betriebssystem erhalten.
+"Wo ist das Problem? Stell doch einfach auf Deutsch!" werden sich jetzt einige Leute denken - und natürlich habe ich das auch getan. Das Problem ist, dass einige Apps auf der spanischen Version nicht laufen wollen, weil sie quasi "region locked" sind. Da nutzt auch ein deutscher Standort und eine deutsche IP nichts. Amazon Video und Amazon Underground sind beispielsweise solche Apps, die partout nicht auf der spanischen Android Version laufen.
+SM-T580NZWADBT ist die Artikelnr. des deutschen Gerätes, SM-T580NZWAPHE die spanische.
+Die aktuelle Version der deutschen Firmware lautet: T580XXU2APL4 / T580OXA2APL4, die spanische: T580XXU2AQA2 / T580PHE2APL2.
+Letztere ist auf dem Gerät installiert. Auch die Bedienungsanleitung war spanisch, sowie die Grundeinstellungen des Gerätes.
+Zudem ist in der Artikelbeschreibung von einer deutschen Version die Rede, weshalb es sich hier ganz klar um Täuschung handelt.
+Zitat aus der Produktbeschreibung: Modellnummer SM-T580NZWADBT
+Der Verkäufer war "Southwall", Versand erfolgte über Amazon (prime). Ich habe versucht, in den Händler-Bewertungen auf den Umstand, dass hier falsch beschriebene Tablets ausgeliefert werden, hinzuweisen, doch leider löschte Amazon meine Händler-Bewertung mit dem Hinweis, dass Amazon die Verantwortung für den Versand übernehmen würde. Das würde bedeuten, dass Amazon einräumt, diese Geräte mit spanischer Firmware so aus ihrem Lager zu verkaufen.
+Daher komme ich nicht umhin, diese Bewertung stattdessen hier zu hinterlassen, um andere Interessenten davor zu warnen.
+Das Gerät gebe ich schweren Herzens zurück. Schweren Herzens nicht nur, weil das Gerät selbst wirklich sehr gut ist, sondern auch weil Amazons Rückgabepolitik in letzter Zeit recht kundenunfreundlich geworden ist und man mit mehreren Rückgaben eine Accountsperre zu befürchten hat, wobei Amazon selbst nicht preisgibt, ab welchem Rückgabewert oder ab welcher Rückgabefrequenz in welchem Zeitraum diese Sperrung in Kraft tritt.
+Doch wenn ich ein Gerät kaufe, das auf den deutschen Markt zugeschnitten ist und auf dem die deutschen Applikationen problemlos funktionieren sollen, dann möchte ich auch genau dieses erhalten und keine spanische Reseller-Ware.
+Sieht toll aus. Hat aber leider nur 4 Wochen funktioniert. Nachdem ich auf Hinweis von Amazon den Kundendienst von Samsung angerufen habe, musste ich auf eigene Rechnung das Tablet zu Samsung schicken trotz Garantie.
+Das Tablet selbst ist einwandfrei und das Preis/Leistungs-Verhältnis überrascht hier positiv.
+Dennoch habe ich einen Grund zur Beschwerde: Ich habe ein Gerät mit spanischem Android-Betriebssystem erhalten.
+"Wo ist das Problem? Stell doch einfach auf Deutsch!" werden sich jetzt einige Leute denken - und natürlich habe ich das auch getan. Das Problem ist, dass einige Apps auf der spanischen Version nicht laufen wollen, weil sie quasi "region locked" sind. Da nutzt auch ein deutscher Standort und eine deutsche IP nichts. Amazon Video und Amazon Underground sind beispielsweise solche Apps, die partout nicht auf der spanischen Android Version laufen.
+SM-T580NZWADBT ist die Artikelnr. des deutschen Gerätes, SM-T580NZWAPHE die spanische.
+Die aktuelle Version der deutschen Firmware lautet: T580XXU2APL4 / T580OXA2APL4, die spanische: T580XXU2AQA2 / T580PHE2APL2.
+Letztere ist auf dem Gerät installiert. Auch die Bedienungsanleitung war spanisch, sowie die Grundeinstellungen des Gerätes.
+Zudem ist in der Artikelbeschreibung von einer deutschen Version die Rede, weshalb es sich hier ganz klar um Täuschung handelt.
+Zitat aus der Produktbeschreibung: Modellnummer SM-T580NZWADBT
+Der Verkäufer war "Southwall", Versand erfolgte über Amazon (prime). Ich habe versucht, in den Händler-Bewertungen auf den Umstand, dass hier falsch beschriebene Tablets ausgeliefert werden, hinzuweisen, doch leider löschte Amazon meine Händler-Bewertung mit dem Hinweis, dass Amazon die Verantwortung für den Versand übernehmen würde. Das würde bedeuten, dass Amazon einräumt, diese Geräte mit spanischer Firmware so aus ihrem Lager zu verkaufen.
+Daher komme ich nicht umhin, diese Bewertung stattdessen hier zu hinterlassen, um andere Interessenten davor zu warnen.
+Das Gerät gebe ich schweren Herzens zurück. Schweren Herzens nicht nur, weil das Gerät selbst wirklich sehr gut ist, sondern auch weil Amazons Rückgabepolitik in letzter Zeit recht kundenunfreundlich geworden ist und man mit mehreren Rückgaben eine Accountsperre zu befürchten hat, wobei Amazon selbst nicht preisgibt, ab welchem Rückgabewert oder ab welcher Rückgabefrequenz in welchem Zeitraum diese Sperrung in Kraft tritt.
+Doch wenn ich ein Gerät kaufe, das auf den deutschen Markt zugeschnitten ist und auf dem die deutschen Applikationen problemlos funktionieren sollen, dann möchte ich auch genau dieses erhalten und keine spanische Reseller-Ware.
+Das Gerät funktioniert technisch einwandfrei, läuft schnell und stabil, die grafische Darstellung ist sehr gut und flüssig. Insoweit stimmt auch das Preis-/ Leistungsverhältnis.
+Allerdings ist das Gerät klar auf die Nutzung der Amazon Angebote ausgerichtet. Und da liegen klare Grenzen. Ich bin nicht traurig darüber, dass unser Sohn mit dem Gerät populäre Spiele Apps wie Fifa 16 oder Clash of Clans nicht spielen kann, aber insgesamt ist das App Angebot zu dünn.
+Wir haben diesen Fire für unser Kind gekauft. Es ist schon toll, dass man nicht ständig schauen muss, wohin das Kind nun wechselt etc. Die angebotenen Inhalte sind meiner Meinung nach ok. Es könnte noch etwas mehr auf das Alter des Kindes eingegangen werden.
+Doch der Abzug in der Bewertung erfolgt bei uns aus einem anderen Grund. Wir mussten feststellen, dass keine Videos mit einem öffentlichen WLAN anzuschauen waren. Obwohl dies bei allen anderen Geräten, die wir mit hatten der Fall war - YouTube lief überall einwandfrei. Also war dies keine schlechte Verbindung. Leider wurde uns dies bei der Hotline so bestätigt, dass der Fire in öffentlichen Netzwerken nicht funktioniert. Doch so ein Gerät kaufe ich doch nicht für zu Hause, sondern wenn wir unterwegs sind - in Hotels oder Restaurants etc. Und dort läuft das jetzt nicht. Ziemlicher Frust bei Kind und Eltern.
+Eine absolute Verwunderung trat dann auf, dass wir (bzw. unser Kind) trotz keiner Internet-Verbindung einen Kauf bei Amazon (Film) tätigen konnten. Dieser Kauf wurde zwar anstandslos storniert, aber warum hat das funktioniert, wo nichts anderes in dem Hotel-Wlan funktioniert hat?
+Das Gerät ist robust. Akku ist gefühlt schnell leer.
+- Apps unter Freetime unlimited sind sehr spärlich
+- mann kann nicht festlegen, was eine lern app oder eine spiel app ist; meine kinder SPIELEN dann die als LERN app eingestufte app. löschen will ich sie auch nicht, da sie die app sehr gerne SPIELEN.
+- es gbit Probleme bei der SD card erkennung, siehe gefüllte Foren, trotz mehrerer SD cards wird diese dann im Verlauf nicht mehr erkannt, Reboot des Tablets helfen nur temporär - SEHR NERVIG, bis jetzt immer noch kein software update trotz bekanntem Problem
+- im erwachsenenmmodus sind nicht alle apps verfügbar, wie bei Google oder apple store...
+- wenn es die kinder nicht geschenkt bekommen hätten, wäre ein anderes produkt wahrscheinlich besser...
+schade amazon!
+Ich hatte das Kids-Tab in der Hoffnung bestellt eine einfache und vor allem kindgerechte Lösung zu finden, mit der der 4-jährige selbstständig in der Lage ist die gesammelten und bereits vorhandenen Hörspiele wiederzugeben. Leider wurde ich von der Software arg enttäuscht. Der vorhandene Player ließ eigene Inhalte im Eltern-Profil zu, im Kinder-Profil jedoch nicht. Des können nur gekaufte Inhalte freigeben werden. Amazon bot mir jedoch zB die Möglichkeit meine gesehenen Game of Thrones Staffeln für das Kind freizugeben - großartige Idee. Alternative Player schieden ebenfalls aus, da Amazon keinen Google-Play-Store an Bord hat. Installiert man diesen manuell, kann man die App wiederum nicht im Profil der Kinder freigeben.
+Ich war anfangs sehr von diesem Tablet begeistert, jedoch sind nach und nach die Nachteile hochgekommen. Es ist zu 100% gebrandet auf Amazon, alles was man sich schon bei Google Play angeschafft hat, kann man nicht mehr nutzen und bei Amazon ist alles, wie bei Apple kostenpflichtig. Deshalb doch ein normales Android und diverse Kinderschutzapps drauf.
+Meine Kinder haben zwei Wochen gespielt, dann konnte man kein WLAN mehr einstellen und man konnte nichts mehr runterladen. Dann habe ich mich im Amazon Chat angemeldet und verschiedene Infos erhalten. War nicht zufriedenstellend. Im Gegenteil ich sollte auf die Werkseinstellung zurücksetzen und alles war weg. Sinnlos. Ist also nicht zu empfehlen. Jetzt geht gar nichts mehr. Toll.
+Das Tablet sollte eigentlich ein Geschenk für meine Schwiegermutter sein, damit unsere Skype Anrufe endlich eine bessere Qualität erreichen. Wollte es ihr vor der Benutzung einstellen was letztendlich überhaupt nicht funktionierte. Der Touchscreen schien defekt, weswegen das Tablet für die Tonne war. Ging so zurück und bekam das Geld erstattet. Schade, dass Amazon solch eine Ware an die Kunden ausliefert.
+Touchscreen grob, reagiert verzögert, teilweise gar nicht, Akku sehr schnell leer, ist auch von der Geschwindigkeit nicht gerade ne Rakete
+Ich hatte vorher ein 10.1 Zoll tablet... War mir auf Dauer zu groß. Aus diesem Grund entschied ich mich für dieses Modell.
+Soweit alles super.... Nur eine Verbindung über WLAN ins Netz zu bekommen... Unmöglich... Trotz nagelneuen Fritz Box. Verbunden... Getrennt... Usw.
+Habe ein neues angefordert... Hoffe das dieses dann funktioniert.
+Wir haben diesen Fire für unser Kind gekauft. Es ist schon toll, dass man nicht ständig schauen muss, wohin das Kind nun wechselt etc. Die angebotenen Inhalte sind meiner Meinung nach ok. Es könnte noch etwas mehr auf das Alter des Kindes eingegangen werden.
+Doch der Abzug in der Bewertung erfolgt bei uns aus einem anderen Grund. Wir mussten feststellen, dass keine Videos mit einem öffentlichen WLAN anzuschauen waren. Obwohl dies bei allen anderen Geräten, die wir mit hatten der Fall war - YouTube lief überall einwandfrei. Also war dies keine schlechte Verbindung. Leider wurde uns dies bei der Hotline so bestätigt, dass der Fire in öffentlichen Netzwerken nicht funktioniert. Doch so ein Gerät kaufe ich doch nicht für zu Hause, sondern wenn wir unterwegs sind - in Hotels oder Restaurants etc. Und dort läuft das jetzt nicht. Ziemlicher Frust bei Kind und Eltern.
+Eine absolute Verwunderung trat dann auf, dass wir (bzw. unser Kind) trotz keiner Internet-Verbindung einen Kauf bei Amazon (Film) tätigen konnten. Dieser Kauf wurde zwar anstandslos storniert, aber warum hat das funktioniert, wo nichts anderes in dem Hotel-Wlan funktioniert hat?
+Das Gerät ist robust. Akku ist gefühlt schnell leer.
+- Apps unter Freetime unlimited sind sehr spärlich
+- mann kann nicht festlegen, was eine lern app oder eine spiel app ist; meine kinder SPIELEN dann die als LERN app eingestufte app. löschen will ich sie auch nicht, da sie die app sehr gerne SPIELEN.
+- es gbit Probleme bei der SD card erkennung, siehe gefüllte Foren, trotz mehrerer SD cards wird diese dann im Verlauf nicht mehr erkannt, Reboot des Tablets helfen nur temporär - SEHR NERVIG, bis jetzt immer noch kein software update trotz bekanntem Problem
+- im erwachsenenmmodus sind nicht alle apps verfügbar, wie bei Google oder apple store...
+- wenn es die kinder nicht geschenkt bekommen hätten, wäre ein anderes produkt wahrscheinlich besser...
+schade amazon!
+Ich hatte das Kids-Tab in der Hoffnung bestellt eine einfache und vor allem kindgerechte Lösung zu finden, mit der der 4-jährige selbstständig in der Lage ist die gesammelten und bereits vorhandenen Hörspiele wiederzugeben. Leider wurde ich von der Software arg enttäuscht. Der vorhandene Player ließ eigene Inhalte im Eltern-Profil zu, im Kinder-Profil jedoch nicht. Des können nur gekaufte Inhalte freigeben werden. Amazon bot mir jedoch zB die Möglichkeit meine gesehenen Game of Thrones Staffeln für das Kind freizugeben - großartige Idee. Alternative Player schieden ebenfalls aus, da Amazon keinen Google-Play-Store an Bord hat. Installiert man diesen manuell, kann man die App wiederum nicht im Profil der Kinder freigeben.
+Ich war anfangs sehr von diesem Tablet begeistert, jedoch sind nach und nach die Nachteile hochgekommen. Es ist zu 100% gebrandet auf Amazon, alles was man sich schon bei Google Play angeschafft hat, kann man nicht mehr nutzen und bei Amazon ist alles, wie bei Apple kostenpflichtig. Deshalb doch ein normales Android und diverse Kinderschutzapps drauf.
+Meine Kinder haben zwei Wochen gespielt, dann konnte man kein WLAN mehr einstellen und man konnte nichts mehr runterladen. Dann habe ich mich im Amazon Chat angemeldet und verschiedene Infos erhalten. War nicht zufriedenstellend. Im Gegenteil ich sollte auf die Werkseinstellung zurücksetzen und alles war weg. Sinnlos. Ist also nicht zu empfehlen. Jetzt geht gar nichts mehr. Toll.
+Konzept - ok
+10 zoll - ok
+Display - ok
+Leistung - nicht ausreichend
+Ein kleiner Atom CPU, 2 GB das ganze mit Win 10 - da heist es Geduldig sein
+Das zweite was retour geht. Beim Zweiten lieg ich in Dauerstartschleife...es startet nicht Windows, sondern kommt in Warteschleife immer wieder zu Spracheeinstellung.....nee danke.
+Ausschauen tut es ja gut...aber Funktion nix für mich und meine Nerven
+reagierte einfach nicht mehr, tot.
+Am nächsten Gerät war der Stromstecker in der Buchse so fest, dass er nur mit übermäßiger Kraft gezogen werden konnte, d.h. das hält sicherlich auch nicht lange.
+Schade, um die ganzen Stunden bis sich das Gerät upgedated hatte.
+Das Gerät ist nichtt sehr sonderlich empfehlenswert! meines schaltet sich ständig bei öffnen zB des Browsers bei 53% Akkuladung. ab. bin vom windows tablet und vom trackpad etwas enttäuscht.
+So ein schlecht verarbeitetes Produkt habe ich lange nicht gekauft. Mousepad und Mauszeiger agierten völlig unkontrollierbar. Sie führten ein Eigenleben und reagierten nicht auf Steuerungsbefehle. Dem Netbook lag auch keine Registrierungskarte für Windows 10 bei, so dass ich es insgesamt zurückgeben musste.
+Ich war von dem Gerät anfangs begeistert. Sehr gute Verarbeitung, super Display, Keyboard mit einem guten Druckpunkt und keine hakenden Tasten. Das Tablet ließ sich prima von der Tastatur lösen. Klasse dachte ich - ein guter Kauf. Sehr gut fand ich, dass das Gerät sehr gut über mein Smartphone (Samsung Note4) in das Internet kam. Dann kam irgendwann ein Windows-Update der tatsächlich über 6 Stunden gedauert hat - obwohl ich sehr schnelles Internet und WLAN habe. Nach 2 Wochen begann das Display zu "spinnen". Streifen, manchmal keine Reaktion auf Eingaben. Na gut dachte ich, sowas passiert. Also Neustart. Eine Woche lief es dann. Ich nam dann das Geräte zu einem Kunden mit um etwas vorzuführen und das Gerät bootete überhaupt nicht mehr. Nach einigen Versuchen zeigte das Display dann Streifen - aber nicht was es sollte. Ich bin schwer enttäuscht, weil ich das kleine handliche Gerätchen eigentlich anfangs gut fand.
+Ich habe das Lenovo Mixx 310 nun einige Monate in Gebrauch. Am meisten vermisse ich den schnellen Zugriff auf Browser und Apps, den ich bei meinem alten iPad 1 hatte. Ein schneller Druck auf die Home-Taste und schon kann es losgehen. Da ich die volle Funktionionalität von Word haben wollte,habe ich mich durchgerungen, ein Windows-Tablet anzuschaffen. Inzwischen bereue ich das immer mehr.
+Ganz besonders nervig finde ich, dass man den Einschaltknopf gefühlt ewig halten muss, bis das Gerät startet. Aktuell habe ich das Problem, das Windows dann zwar irgendwann startet, aber wenn der Bildschirm kommt, wo man nach oben wischen muss, um sich anzumelden, darf ich genau das nicht machen, weil das Tablet dann sofort aus geht. Dann kann ich den Einschaltknopf wieder ewig halten, es wird "Bitte warten" angezeigt und es erscheint wieder der Wischbildschirm. Sowie ich wische, passiert das gleiche wieder.
+Weiterhin ist es nervig, dass die Touchbedienung sporadisch nicht funktioniert, wenn ich gleichzeitig mit zwei Benutzern angemeldet bin. Das würde ich aber nicht unbedingt aufs Tablet sondern evtl. auf das Betriebssystem der Firma "Winzigweich" schieben, da ich ein ähnliches Problem auch von einem anderen Windows-Tablet kenne.
+Alles in Allem kann man sagen, das die Verarbeitung ganz gut und die Tastatur wirklich brauchbar ist. Mein nächstes Tablet wird trotzdem wieder ein abgebissener Apfel, obwohl ich sonst eher der Windowswelt verschrieben bin.
+Der Preis ist tatsächlich absolut OK! Ich suchte aber kein Tab sondern ein Gerät was ich auch mit einer vollwertigen Tastatur verwenden kann.
+Hierzu war mir dieses Gerät zu filigran und unhandlich oder aber ich hab zu große Wurstfinger! Im Vergleich waren mir aber 10 Zoll Tabs genauso zu unhandlich. In dieser Größe sollte man vielleicht doch bei einem Tab bleiben oder man wechselt zu einem größeren Laptop.
+Sieht toll aus. Hat aber leider nur 4 Wochen funktioniert. Nachdem ich auf Hinweis von Amazon den Kundendienst von Samsung angerufen habe, musste ich auf eigene Rechnung das Tablet zu Samsung schicken trotz Garantie.
+Das Tablet selbst ist einwandfrei und das Preis/Leistungs-Verhältnis überrascht hier positiv.
+Dennoch habe ich einen Grund zur Beschwerde: Ich habe ein Gerät mit spanischem Android-Betriebssystem erhalten.
+"Wo ist das Problem? Stell doch einfach auf Deutsch!" werden sich jetzt einige Leute denken - und natürlich habe ich das auch getan. Das Problem ist, dass einige Apps auf der spanischen Version nicht laufen wollen, weil sie quasi "region locked" sind. Da nutzt auch ein deutscher Standort und eine deutsche IP nichts. Amazon Video und Amazon Underground sind beispielsweise solche Apps, die partout nicht auf der spanischen Android Version laufen.
+SM-T580NZWADBT ist die Artikelnr. des deutschen Gerätes, SM-T580NZWAPHE die spanische.
+Die aktuelle Version der deutschen Firmware lautet: T580XXU2APL4 / T580OXA2APL4, die spanische: T580XXU2AQA2 / T580PHE2APL2.
+Letztere ist auf dem Gerät installiert. Auch die Bedienungsanleitung war spanisch, sowie die Grundeinstellungen des Gerätes.
+Zudem ist in der Artikelbeschreibung von einer deutschen Version die Rede, weshalb es sich hier ganz klar um Täuschung handelt.
+Zitat aus der Produktbeschreibung: Modellnummer SM-T580NZWADBT
+Der Verkäufer war "Southwall", Versand erfolgte über Amazon (prime). Ich habe versucht, in den Händler-Bewertungen auf den Umstand, dass hier falsch beschriebene Tablets ausgeliefert werden, hinzuweisen, doch leider löschte Amazon meine Händler-Bewertung mit dem Hinweis, dass Amazon die Verantwortung für den Versand übernehmen würde. Das würde bedeuten, dass Amazon einräumt, diese Geräte mit spanischer Firmware so aus ihrem Lager zu verkaufen.
+Daher komme ich nicht umhin, diese Bewertung stattdessen hier zu hinterlassen, um andere Interessenten davor zu warnen.
+Das Gerät gebe ich schweren Herzens zurück. Schweren Herzens nicht nur, weil das Gerät selbst wirklich sehr gut ist, sondern auch weil Amazons Rückgabepolitik in letzter Zeit recht kundenunfreundlich geworden ist und man mit mehreren Rückgaben eine Accountsperre zu befürchten hat, wobei Amazon selbst nicht preisgibt, ab welchem Rückgabewert oder ab welcher Rückgabefrequenz in welchem Zeitraum diese Sperrung in Kraft tritt.
+Doch wenn ich ein Gerät kaufe, das auf den deutschen Markt zugeschnitten ist und auf dem die deutschen Applikationen problemlos funktionieren sollen, dann möchte ich auch genau dieses erhalten und keine spanische Reseller-Ware.
+Der Preis war verlockend aber dann kam die Ernüchterung, der Bildschirm. Einfach schlecht. Vielleicht bin ich durch einen Fernseher mit full HD verwöhnt, aber was das mit HD zu tun hat? Ging am nächsten Tag wieder zurück. Lob an Amazon, Rückerstattung schon vor dem Eintreffen der Ware angewiesen. Gleich ein anderes Tablet von Lenovo bestellt, diesmal mit full HD Bildschirm. Um Welten besser.
+nach dem automatischen update von android 5.1 auf android 6 hängt er beim starten in einer endlosschleife.
+ich hätte es nach wie vor gerne, habe es aber zurückgegeben. bei einem umtausch würde sicher das selbe problem auftreten.
+es ist offensichtlich ein fehler von ANDROID und nicht von LENOVO
+Hab nach Erhalt des Tablets gleich die Videoqualität auf Youtube, Skype und diversen Streaming Seiten ausprobiert. Der Ton ist immer um eine Spur versetzt, das darf meiner Meinung nach nicht sein, deswegen schicke ich es auch umgehend zurück.
+Habe das Tablet bereits Ende November bestellt, da es ein Weihnachtsgeschenk für meinen Freund sein sollte. Alles gut und schön, Tablet wurde geliefert, als Weihnachtsgeschenk gut angekommen. Nach 2x benutzen, hängt sich das Tablet immer wieder auf bis es sich letztendlich nicht wieder einschalten lässt. Am 22.01.17 über Amazon zur Reparatur eingeschickt, leider bis heute (17.03.17) nicht wieder zurückgekommen (nur per e-Mail eine Nachricht erhalten Anfang Februar, Ersatzteil muss bestellt werden und vor 4 Wochen Gerätereparatur beendet seitdem Stillstand). Nach Anruf bei der Technik wurde mir gesagt, dass das so nicht in Ordnung ist und das Gerät tatsächlich noch nicht rausgegangen ist. Der Mitarbeiter war wirklich sehr freundlich und das direkt an die Beschwerdestelle weitergeleitet. So, nun hoffe ich dass das Tablet bis nächste Woche endlich wieder da ist.
+Ich kaufte das Tablet weil es für die Preisklasse ganz gute Rezensionen bekam und es im Bekanntenkreis gute Erfahrungen mit Notebooks dieses Herstellers gibt. Der optische Eindruck war auch bestens und die ersten knapp drei Wochen funktionierte es problemlos. Aber dann: Das Gerät, bzw. die Software schlug ein Systemupdate vor, was ich wahrnahm. Danach lief gar nichts mehr! Der Startbildschirm blieb in einer Endlosschleife stecken. Noch nicht mal eine Zurückstellung auf Werkseinstellungen klappte. Ein wenig Herumsurfen brachte zwei Erkenntnisse: a) Ich war mit genau diesem Problem bei Weitem nicht allein. b) Das Problem war Lenovo schon mehr als vier Monate vor meinem Kauf bekannt, wurde aber anscheinend nicht überzeugend gelöst. Der Produktaufkleber auf meinem Tablet verriet mir sogar, dass mein Gerät nach(!) dem erstmaligen Auftreten dieses Fehlers hergestellt wurde. Ein auf Qualität bedachter Hersteller sollte m.E. bei einem derart schwerwiegenden Problem die Produktion zunächst stoppen, auch wenn der Fehler vermutlich weniger in der Hardware, als in der eingekauften Software, bzw. deren Zusammenspiel zu finden sein dürfte. Also verzichtete ich auf weitere Reparaturversuche und schickte das Teil zurück. Andere Firmen bauen auch Tablets...
+Das Gerät funktioniert technisch einwandfrei, läuft schnell und stabil, die grafische Darstellung ist sehr gut und flüssig. Insoweit stimmt auch das Preis-/ Leistungsverhältnis.
+Allerdings ist das Gerät klar auf die Nutzung der Amazon Angebote ausgerichtet. Und da liegen klare Grenzen. Ich bin nicht traurig darüber, dass unser Sohn mit dem Gerät populäre Spiele Apps wie Fifa 16 oder Clash of Clans nicht spielen kann, aber insgesamt ist das App Angebot zu dünn.
+Mein erster Eindruck war begeistert. Für den Preis ein Tablet, da kann man nichts sagen.
+Jetzt nach einiger Zeit muß ich sagen , so toll ist es doch nicht.
+Die Akkuzeit ist mehr als dürftig. Immer wenn mal was damit machen will, ist der Akku leer.
+Außerdem gibt es keinen Google Store und man kann ihn nicht intallieren.
+Dadurch fehlen die beliebteseten Apps.
+Ich würde ihn mir nicht mehr kaufen.
+Das Gerät funktioniert technisch einwandfrei, läuft schnell und stabil, die grafische Darstellung ist sehr gut und flüssig. Insoweit stimmt auch das Preis-/ Leistungsverhältnis.
+Allerdings ist das Gerät klar auf die Nutzung der Amazon Angebote ausgerichtet. Und da liegen klare Grenzen. Ich bin nicht traurig darüber, dass unser Sohn mit dem Gerät populäre Spiele Apps wie Fifa 16 oder Clash of Clans nicht spielen kann, aber insgesamt ist das App Angebot zu dünn.
+Eigentlich ist dieses Gerät für mich momentan das perfekte Tablet auf dem Markt, da ich darauf hauptsächlich Videos schaue und surfe. Es hat einen super Prozessor (beim Geekbench Benchmark auf Augenhöhe mit dem S7), ein tolles Display mit hoher Auslösung (ein bisschen mehr als 1440p) und 16:10 Format, klasse Lautsprecher und dazu noch ein schönes Design.
+Leider gibt es aber viele Probleme mit der Firmware:
+Eine Funktion, mit der man Elemente in Apps kleiner darstellen kann, um die Größe des Displays besser zu nutzen, lässt Apps falsch dargestellt werden und ist somit nicht nutzbar.
+Generell scheint das Tablet von Apps nicht als Tablet, sondern als Smartphone erkannt zu werden. Das konnte ich feststellen, weil ich die Darstellung der Apps mit der Darstellung auf meinem Nexus 7 verglichen habe. Dadurch kann man ebenfalls keine Vorteile aus der Größe des Displays ziehen.
+Des Weiteren wird zB von Netflix kein Streaming in HD unterstützt, wofür ich auch Huawei verantwortlich mache, denn die Geräte der ganzen "großen" Hersteller (Samsung, Sony, etc.) werden unterstützt. Was bringt mir dann das tolle Display wenn ich nur in 480p Videos schauen kann?
+All diese Punkte nehmen dem Gerät die Vorteile gegenüber der Konkurrenz und machen auf mich den Eindruck, als ob Huawei sich nicht wirklich viel Mühe bei der Entwicklung dieses Tablets gegeben hat. Vielleicht werden die Probleme ja mit dem Update auf Android 7 behoben, aber da bin ich eher pessimistisch.
+was mir gefällt:
++ tolles Design + Verarbeitung
++ für mich perfekter Formfaktor (schließt die Lücke zwischen 7'' und 10''')
++ scharfes, kontrastreiches Display
++ gute Akkulaufzeit
++ guter Sound
++ Fingerprint-Reader
++ SD-Karten-Slot
++ gute Performance
+was mir leider nicht gefällt, warum ich nur 2 Sterne vergebe und aus welchem Grund ich es zurückschicken werde:
+- das Touchdisplay reagiert leider oft falsch - manchmal tut sich erst verzögert etwas und manchmal kommt es auch zu einer Überreaktion (es werden beispielsweise beim Scrollen einer Nachrichtenseite Links geöffnet obwohl auf diese nicht geklickt wurde).
+Vorerst dachte ich, dass es evtl. an der beigelegten Displayschutzfolie liegt, welche ich daraufhin wieder abgezogen habe - hat leider keine Verbesserung gebracht. Meiner Frau geht es übrigens genauso beim Benutzen des Tablets.
+Schade - für mich wäre es das perfekte Tablet gewesen!
+Eigentlich ist dieses Gerät für mich momentan das perfekte Tablet auf dem Markt, da ich darauf hauptsächlich Videos schaue und surfe. Es hat einen super Prozessor (beim Geekbench Benchmark auf Augenhöhe mit dem S7), ein tolles Display mit hoher Auslösung (ein bisschen mehr als 1440p) und 16:10 Format, klasse Lautsprecher und dazu noch ein schönes Design.
+Leider gibt es aber viele Probleme mit der Firmware:
+Eine Funktion, mit der man Elemente in Apps kleiner darstellen kann, um die Größe des Displays besser zu nutzen, lässt Apps falsch dargestellt werden und ist somit nicht nutzbar.
+Generell scheint das Tablet von Apps nicht als Tablet, sondern als Smartphone erkannt zu werden. Das konnte ich feststellen, weil ich die Darstellung der Apps mit der Darstellung auf meinem Nexus 7 verglichen habe. Dadurch kann man ebenfalls keine Vorteile aus der Größe des Displays ziehen.
+Des Weiteren wird zB von Netflix kein Streaming in HD unterstützt, wofür ich auch Huawei verantwortlich mache, denn die Geräte der ganzen "großen" Hersteller (Samsung, Sony, etc.) werden unterstützt. Was bringt mir dann das tolle Display wenn ich nur in 480p Videos schauen kann?
+All diese Punkte nehmen dem Gerät die Vorteile gegenüber der Konkurrenz und machen auf mich den Eindruck, als ob Huawei sich nicht wirklich viel Mühe bei der Entwicklung dieses Tablets gegeben hat. Vielleicht werden die Probleme ja mit dem Update auf Android 7 behoben, aber da bin ich eher pessimistisch.
+was mir gefällt:
++ tolles Design + Verarbeitung
++ für mich perfekter Formfaktor (schließt die Lücke zwischen 7'' und 10''')
++ scharfes, kontrastreiches Display
++ gute Akkulaufzeit
++ guter Sound
++ Fingerprint-Reader
++ SD-Karten-Slot
++ gute Performance
+was mir leider nicht gefällt, warum ich nur 2 Sterne vergebe und aus welchem Grund ich es zurückschicken werde:
+- das Touchdisplay reagiert leider oft falsch - manchmal tut sich erst verzögert etwas und manchmal kommt es auch zu einer Überreaktion (es werden beispielsweise beim Scrollen einer Nachrichtenseite Links geöffnet obwohl auf diese nicht geklickt wurde).
+Vorerst dachte ich, dass es evtl. an der beigelegten Displayschutzfolie liegt, welche ich daraufhin wieder abgezogen habe - hat leider keine Verbesserung gebracht. Meiner Frau geht es übrigens genauso beim Benutzen des Tablets.
+Schade - für mich wäre es das perfekte Tablet gewesen!

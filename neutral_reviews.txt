@@ -1,0 +1,930 @@
+Viel Gutes wurde bereits geschrieben (Leistung, Verarbeitung, Display). Ich beziehe mich daher auf die Schattenseite des Gerätes
+und warum ich zwei Sterne abziehe.
+Dieses Gerät nennt sich Mediapad, unterstützt aber kein RTP Multicast Streaming. Das bedeutet, eine gängige Standardfunktion, die in 5 Jahre alten Smartphones und Tablets schon vorhanden war, geht mit dem nagelneuen 2017er "Media"-Pad M3 nicht.
+Wer also IP-TV von Telekom oder Vodafone per FritzBox auf sein Tablet streamen möchte und VLC, Kodi,... zum Empfangen nutzen will, schaut in die Röhre, denn es wird keine Verbindung aufgebaut. Alle anderen Smartphones/Tablets in unserem Haushalt beherrschen das...
+Offenbar wurde von Huawei im Kernel eben diese Funktion deaktiviert, weiß der Geier warum.
+Seitens Huawei-Support keine Antwort auf meine Anfrage, ob dies mit den nächsten Updates mal nachgebessert wird.
+Hinweis: Mediathek, YouTube usw. sind hiervon nicht betroffen und laufen auf dem Tablet...
+Als das Smartphone ankam, war die Bewertung so, wie sie unten nach der Abtrennung zu lesen ist.
+Daraufhin habe ich sogar ein zweites S7 käuflich bei Amazon erworben. Ich war echt begeistert.
+Leider stellte sich nach dreimonatiger Anwendung bei dem Erstgerät heraus, - Der Akku ist Mist!
+Genau die gleichen Probleme wie beim Galaxy Note auch beim S7.
+Akku wurde bei ca 24% Restkapazität auf einmal superheiß! Beim Anschließen des Ladegerätes sank die
+Kapazität rapide innerhalb von ca. 30 Minuten auf 4% und die Hitze stieg weiter an !!!!
+Hier half in dem Falle nur noch ein komplettes Abschalten.
+Nach dem Abschalten wieder an die Ladestation: Kein Problem. Hat sich voll aufgeladen und soweit alles gut.
+Allerdings hat sich das Spielchen mittlerweile in Abständen von ca. 3 Wochen bislang viermal wiederholt.
+Eigenartigerweise ist uns selbiges bei dem danach gekauften Gerät bislang noch nicht ein einziges mal passiert.
+Aber wenn Samsung nicht weiß woran es liegt, ich weiß es erst recht nicht.
+Die 3 Sterne gibt es jetzt nur noch, weil das andere Gerät bislang tadellos funktioniert.
+Hier die ursprüngliche Bewertung:
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Ich möchte nun nicht alles zum Prozessor und den Benchmarks wieder aufgreifen. Dazu gibt es genügend Rezensionen. Hier soll nur mein persönlicher Eindruck vom Samsung S7 wiedergegeben werden.
+Mit allem Für und Wider.
+Als Produkttester haben wir alle das Modell in Gold erhalten. Das trübte die Stimmung bei mir zu Anfang ein wenig. Ein ganzer Kerl und ein goldenes Smartphone? Aber Entwarnung. Es ist bei weitem nicht so golden, sondern ist sehr dezent gehalten.
+Jahrelang war ich ein Freund der Sony Xperia Serie. Vom Z bis zum Z1 – Z2 – Z3 hatte ich alles.
+Und zugegeben, das Sony gefällt mir durch die Barren Bauform noch immer besser. Das ist aber reine Geschmackssache.
+Aber fangen wir mal an:
+Zunächst war ein Besuch im O2 Shop nötig, da ich von Micro SIM auf NANO umstellen musste.
+Da zufällig mein Vertrag verlängert wurde, bekam ich die NANO gratis. Bei allen anderen Anbietern kostet ein Wechsel der SIM Card ca. 25 Euronen. Total daneben, da die Mobilfunkbetreiber ja unser Geld wollen. Karte also erhalten – und los ging’s.
+Ersteinrichtung:
+Total genial von Samsung. Im Lieferumfang ist ein Adapter enthalten mit welchem alle Daten des alten Smartphones sofort auf das Samsung überspielt werden können. Voraussetzung: Auf das alte Smartphone muss kurz die App zum Übertragen aufgespielt werden. Dann läuft es fast komplett problemlos. Klar, bei einigen Apps muss im Nachhinein nochmal Passwort ect. eingegeben werden. Ein vergleichsweise geringer Aufwand, wenn man doch ansonsten alle Apps wieder neu laden müsste.
+Das erste Hochfahren gestaltet sich so, wie die meisten Hersteller ihre Smartphones programmieren. Am besten gleich bei Samsung ein Konto anlegen. Will man gern bei Samsung. Muss aber nicht sein. Einfach nach unten scrollen und diesen Punkt überspringen.
+Gut, aber hier gehe ich schon wieder zu sehr ins Detail. Wichtiger ist das Smartphone an sich.
+Eindruck und Haptik:
+Minuspunkte bekommt das Teilchen wegen der überaus doofen Platzierung des On-/Off Schalters auf der rechten Seite und der genau auf gleicher Höhe liegenden Lautstärketasten auf der linken Seite. Ich hätte die Lautsprechertasten eher etwas nach unten verlegt. Ok, Gewöhnungssache.
+Superstark: Ein mechanischer Homebutton!! Der lässt sich im Menü auch so programmieren, dass man mit selbigem ein Gespräch annehmen kann. Man muss also nicht mehr zwangsläufig wischen wie beispielsweise beim Sony. Große Klasse.
+Etwas unglücklich ist allerdings der Kopfhöreranschluss verbaut. Der befindet sich auf der Unterseite. Oberseite (wie bei Sony) hätte mir weitaus besser gefallen. Gut, man kann nicht alles haben.
+Kamera:
+Ganz großer Wurf von Samsung. Endlich ist man mal vom Megapixel Wahn abgerückt und hat „nur“ 12 MP (rückseitig) verbaut. Genau das ist es! Die Pixel werden nicht mehr auf einen Minisensor gequetscht und das Resultat sind astreine Fotos in auch sehr dunkler Umgebung. Man kann endlich wieder Stimmung einfangen ohne den hässlichen Blitz benutzen zu müssen. Zugegeben, Plakate kann man damit nicht erstellen, aber für bis zu A4 Ausdrucke langt es allemal. Die Funktion mit dem kleinen Videoclip vor dem eigentlichen Foto finde ich hingegen völlig überflüssig. Entweder ich mache ein Video oder ich will ein Foto. Kostet nur unnützen Speicherplatz und macht den Akku eher platt.
+Display:
+Muss ich kaum was dazu sagen. Der Oberhammer! Hell und schwarz! Kein Widerspruch. Man erkennt selbst bei Sonnenlicht noch was sich auf dem Display abspielt und das Schwarz ist das schwärzeste was ich jemals auf einem Handy Display sah. Unglaublich.
+Sprachqualität:
+Bestens. Im Gegensatz zum Sony kann hier das Samsung sogar im Außensprechbereich voll punkten.
+Glasklare Sprache, perfekter Außenlautsprecher. Obwohl im S7 Edge ja die gleichen Komponenten verbaut sein sollen, mehrt sich verschiedensten Foren die Aussage, dass das S7 rein akustisch wesentlich besser sein soll. Kann ich leider nicht überprüfen, aber hunderte Benutzer sollten sich nicht irren.
+Empfang:
+Mehreren Unkenrufen zum Trotz kann ich nicht behaupten, dass das S7 eine schlechte Empfangsqualität vorzuweisen hat.
+Verglichen mit anderen Smartphones (nicht nur Sony) schlägt sich das Samsung wacker.
+Es ist nicht besser im Empfang, es ist aber auch in keinem Fall schlechter als der Rest.
+Fazit:
+Zweifellos eines der besten Smartphones derzeitig auf dem Markt.
+Wer gewillt ist den nicht ganz unerheblichen Preis zu löhnen, wird mit einem fast erstklassigem Gerät
+belohnt. Nicht umsonst bin ich nach Jahren von Sony auf Samsung umgestiegen.
+Das ist mein 4. Galaxy (neben zweier Notes). Ich behaupte also eine gute Vergleichsmöglichkeit zu haben.
+Ich bin vor einem Monat vom S5 auf das S7 umgestiegen. Das S6 schied wegen fehlender Wasserdichtigkeit aus. Das S5 war etwas langsamer. Trotzdem ein gutes und schnelles Telefon. Das Einzige was sich signifikant verbessert hat ist die Kamera, die wirklich sehr gut ist. Auch vorteilhaft ist die jetzt nicht mehr notwendige Kappe über dem USB Slot.
+Kommen wir zu den Problemen:
+1. Samsung liefert immer noch Bloatware aus, die nicht deinstallierbar ist. Einfach nur dreist - an dem Telefon ist nichts subventioniert und es braucht keinen CEWE Bilderdienst oder Pizzasoftware, die garantiert gut dafür bezahlen, um unlöschbar auf dem Telefon zu landen, damit Samsung mit dem Telefon Geld verdient.
+2. Noch problematischer ist die Akkulaufzeit. Womit auch immer das Telefon beschäftigt ist - und ich habe keine Lust das tiefer zu analysieren - der Akkufüllstand sinkt doppelt so schnell. Selbst im Ruhezustand ist das so. Bei wenig Nutzung hielt mein mit Software vollgepacktes S5 zwei Tage. Das S7 gerade mal einen (im Auslieferungszustand und ohne always on, smart-stay und die anderen Energiesauger).
+Schwer zu verstehen, wie die Hardware immer besser wird und es dann auf softwareseite so konsequent zergurkt wird.
+Alles gut soweit:
+- wertige Verarbeitung
+- 2 GB RAM (schnelle Bearbeitung)
+- gutes Bild
+- 2 echte SIM
+- erweiterbarer Speicher
+- gute Kamera
+- guter Empfang
+- gute Sprachqualität
+Wesentliches Manko und deswegen 2 Sterne Abzug:
+Die Android-Version 6.01 erlaubt es nicht, die SD-Karte zum internen Speicher zu machen.
+Das ist sehr, sehr sehr nervig, da de de facto der 11 GB große interne Speicher reichen muss.
+Nicht alle Apps fragen nach, wo denn die Daten gespeichert werden sollen (Here We Go tut es, EZ Folder Player tut es, Babbel tut es nicht). Und so ist der interne Speicher u. U. schnell verbraucht.
+Ich nenne das übergriffig. Man soll dem Benutzer de Entscheidung überlassen, wo die Daten abgelegt werden sollen. Auf die Probleme und Gefahren können die Entwickler ja hinweisen. Schade, eigentlich gutes Gerät, das durch das Betriebssystem behindert wird.
+Das Handy ist echt super nur leider ist nach 2 Wochen ein Softwarefehler aufgetreten.
+Die aktuellen Apps wurden ständig beendet und nach einem versuchten Neustart ist es wegen eines Bootloops nicht richtig hochgefahren.
+Selbst nach einem kompletten Reset war das Problem immer noch nicht behoben.
+Hab es zurückgeschickt.
+Handliches und optisch hochwertiges Smartfon. Die Bedienung ist dank TouchWiz Samsung-typisch. Entwede man mag es oder hasst es. Die Bloatware hält sich auf dem Gerät arg in Grenzen und vieles lässt sich dann auch deinstallieren. Überzeugend ist das kontrastreiche, helle Display, die Verarbeitungsqualität, die Usability und die Tonqualität beim telefonieren. Die Qualität der Bilder geht bei nomalen Lichtverhältnissen in Ordnung, bei schnellen Serienaufnahmdn kommt der Focus oft nicht hinterher. Nicht überzeugen kann die Haptik - egal wie fest man das Gerät zwischen zwei Fingern hält oder auf einer leicht abschüssigen Unterlage ablädt - das Glas ist so glatt, dass das Gerät rutscht bzw. wandert. Und leider ist Gorilla Glas 4 weicher als GG3 - das hilft vielleicht bei Stürzen, aber es ist i.Vgl. zu dem meiner Vorgängergeräte (Z5 Compact, SGS4 mini, Iphone 5c, SGS2, Iphone 3) sehr kratzemfindlich. Vorher hatte ich noch nie nennenswerte Kratzer im Glas, jetzt sieht man dem Gerät schon nach knapp 2 Wochen die Hosentasche an (s. Bilder). Ich habe es reklamiert.
+Ich darf im Rahmen eines Produkttests dieses Handy auf Herz und Nieren prüfen. Es wiegt knapp 130 g und liegt gut in der Hand und ist sehr solide und formschön verarbeitet.
+Wer schon mal ein Samsung Smartphone besessen hat, kommt damit sicher gut zurecht. Gibt keine extremen Neuerungen, außer das die SimKarte und die SD Karte nicht mehr unter dem Akku versteckt sind, sondern wie bei Apple mittels eines Werkzeugs von außen reingesteckt wird (Mein Vorgängermodell S4 mini hatte das noch nicht :-D )
+Damit komme ich zum ersten Negativpunkt in meiner Bewertung, da man das Handy ja nicht öffnen kann, kann man auch nicht einfach mal den Akku tauschen. Allgemein überzeugt mich der 2350 mAh Akku nicht besonders, wer z.B. viel Pokemon Go spielt oder Geocaching betreibt, hat den Akku ziemlich schnell leer gesaugt. Mag vielleicht daran liegen, das schon unwahrscheinlich viele Anwendungen auf dem Handy vorinstalliert sind, die sich teilweise nicht löschen und deaktivieren lassen ( somit also aktive Anwendung) .Viele Apps die man runterlädt lassen sich genauso wie einige schon voristallierte Anwendungen auch nicht auf eine externe SDKarte (bis 256 GB ist möglich) verschieben, somit wir bei meinem zweiten Negativpunkt angelangt wären.
+Der interne Arbeitsspeicher von 16 GB. Habe noch nicht alles installiert was ich vorher so hatte und habe "nur" noch 6,5 von 16 GB frei. Das erscheint mir ziemlich wenig.
+Positiv überrascht hat mich die Kamera, sowohl die Front mit 8MP also auch die Hauptkamera mit 13 MP.
+Positiv finde ich auch den Fingerabruckscanner, allerdings funktioniert der bei mir nicht immer, brauche oft ein paar Anläufe oder muss über das Muster entsperren.
+Positiv ist auch, das das Handy mit der IP68-Zertifizierung sowohl staub als auch wasserdicht sein soll.
+Fazit : Wer keine akkulastigen App-Hobbys betreibt und auch dem internen Arbeitsspeicher ein wenig Luft lässt, aber ein solides Handy mit guter Kamera sucht, der ist hier sicherlich gut dran.
+Ich hatte bisher immer ein anderes Handy, mit dessen Nutzung ich äußert zufrieden war, auch vom Preis- Leistungsverhältnis her.
+Daher hat mich der Test des Samsung Galaxy A3 besonders angesprochen, um mir ein Bild im direkten Vergleich zu machen.
+Ich teste das Handy seit Mitte Februar, das Desing und die Handlichkeit ist wirklich top, die Menüführung ist etwas ungewohnt.
+Beim Samsung ist es z.B. automatisch vorbelegt mit welcher Aktion (Medienspeicher, Datei, usw.) ausgeführt wird und kann nur nach manueller Einstellung geändert werden. Bei meinen bisherigen Handys wird immer "nach gefragt" und somit umgeht man eine versehentlich ungewollte Einstellung, aber das ist auch eher Ansichtssache...mir persönlich missfällt die vorab Einstellung von Samsung.
+Die Akkulaufzeit könnte wesentlich besser sein, leider hält der Akku trotz dass das Handy kaum benutzt wird nur max. 2 Tage, das würde auch auch besser gehen vom Hersteller aus.
+Sehr gute Kamera, auch bei Nahaufnahmen scharfe und schöne Fotos und auch mit der Frontkamera sehr sehr gute und scharfe Fotos gemacht - spitze!
+Was mir leider gar nicht gefällt - kein LED-Anzeige bei eingegangenen Nachrichten/Infos.
+Hier kann nur entweder per Blitzsignal (2x) eingestellt werden, zum eingehenden Ton oder gleich ganz nur per Ton (1 Min. /5 Min. usw. wiederholend) gesetzt werden....dieser ist aber bei 1 Min. auf dauer arg nervig....ansonsten muss man das Handy ständig in die Hand nehmen um nach zu sehen ob jemand angerufen oder geschrieben hat, falls man es nicht mit bekommen hat.
+Das Display und die Farben sind zwar schön, jedoch flimmert dieses arg und man erkennt zu sehr die Pixel was auf dauer den Augen nicht wirklich gut tut und somit zum spielen nicht wirklich geeignet ist.
+Auch macht es leider nach diesen paar Tagen immer wieder "mucken" was die Benachrichtigungstöne betrifft, diese sind von mir vorbelegt und zu 90% kommen diese auch....hin und wieder aber kommt nur ein Allgemeinton....woher das stammt weiß ich nicht. Habe das Handy auch immer wieder neu gestartet, sobald etwas aktualisiert wurde, jedoch macht es immer noch hin und wieder was es will.
+Alles in allem ist es ein sehr schönes Handy, mit tollem Design (teste Gold-Sand), das super in der Hand liegt und auch von der Größe her noch akzeptabel ist und gut in jede Hosen- oder Handtasche passt.
+Soweit man Abstiche in Funktionalität und Einfachheit der Verwendung hinnehmen kann ein super Handy, aber für den Preis gibt es doch bessere Handys.
+Outdoor-Handy ohne Kompass. Ankommende SMS und Anrufe werden optisch und akustisch angezeigt, aber dann erlischt das Display, wenn SMS oder Anruf nicht angenommen werden konnten. Es wäre also dringend erforderlich, dass dieser Eingang durch ein optisches Dauersignal angezeigt wird. Ansonsten muss man ständig das Gerät einschalten um dieses auf Eingänge zu kontrollieren. Hatte ein Handy, das eine eingegangene SMS mit grünem und einen entgangenen Anruf mit einem roten pulsierendem Leuchtpunkt angezeigte. Bedienungsanleitung äußerst dürftig.
+Handliches und optisch hochwertiges Smartfon. Die Bedienung ist dank TouchWiz Samsung-typisch. Entwede man mag es oder hasst es. Die Bloatware hält sich auf dem Gerät arg in Grenzen und vieles lässt sich dann auch deinstallieren. Überzeugend ist das kontrastreiche, helle Display, die Verarbeitungsqualität, die Usability und die Tonqualität beim telefonieren. Die Qualität der Bilder geht bei nomalen Lichtverhältnissen in Ordnung, bei schnellen Serienaufnahmdn kommt der Focus oft nicht hinterher. Nicht überzeugen kann die Haptik - egal wie fest man das Gerät zwischen zwei Fingern hält oder auf einer leicht abschüssigen Unterlage ablädt - das Glas ist so glatt, dass das Gerät rutscht bzw. wandert. Und leider ist Gorilla Glas 4 weicher als GG3 - das hilft vielleicht bei Stürzen, aber es ist i.Vgl. zu dem meiner Vorgängergeräte (Z5 Compact, SGS4 mini, Iphone 5c, SGS2, Iphone 3) sehr kratzemfindlich. Vorher hatte ich noch nie nennenswerte Kratzer im Glas, jetzt sieht man dem Gerät schon nach knapp 2 Wochen die Hosentasche an (s. Bilder). Ich habe es reklamiert.
+Die Bewertung bezieht sich auf die Variante mit 16 GB ROM und 2 GB RAM.
+Zuerst der Grund, warum ich es zurückgegeben habe, danach die aus meiner Sicht ansonsten bestehenden Vor- und Nachteile des Gerätes.
+Ich hatte bereits kürzlich dieses Smartphone bei MM gekauft, da bei amazon nicht verfügbar, habe es dann aber wegen Verbindungsproblemen im WLAN zurückgegeben.
+Ich ging davon aus, dass es ein Fehler in diesem speziellen Gerät war und bestellte es erneut, diesmal bei Amazon, da nun auch hier verfügbar.
+Mit dem Gerät hatte ich die selben Probleme, die wie folgt aussahen:
+Stundenlang perfekter Empfang im WLAN (Fritzbox). Plötzlich Verbindung weg. Keine Neuverbindung möglich. Eigenes-WLAN wird entweder erst gar nicht gefunden (ebenso wie diverse andere WLANs in der Umgebung, die vorher noch gefunden wurden und auf anderen Geräten ebenso wie das eigene WLAN noch vorhanden waren) oder aber es erscheint zwar das Heimnetz, die Verbindung kann aber nicht hergestellt werden.
+Da alle anderen Geräte keine Probleme im Heimnetz haben und auch die fremden WLANs permanent sehen, vermute ich den Fehler im Moto.
+Komisch aber, dass ich bei zwei Geräten das Problem hatte, ansonsten im Netz aber wenig dazu zu finden ist.
+Zurücksetzen aller Netzverbindungen beseitigte nur kurzzeitig das Problem, ebenso wie Löschen und Neueinrichten der WLAN-Verbindung.
+Zig Foren durchsucht, nichts gefunden. Diverse Einstellungen geändert (z.B. 5 GHz im Moto deaktiviert, da Box nur 2,4 kann, IPV6 in Fritzbox deaktiviert, da das Gerät komischerweise in der Fritze nach einiger Zeit immer eine ganze Reihe von IPV& Adressen zugewiesen bekommen hatte. Feste IPV4-Adresse zugewiesen, alles nicht genützt. Nun ging es zurück. Schade, denn sonst war ich sehr zufrieden.
+Hier meine Pros und Cons:
+Vorteile:
++ guter Mobilfunk/LTE Empfang
++ Superscharfes Display
++ Alles sehr flüssig in der Bedienung
++ Klasse Klang, auch über Lautsprecher
++ Super Kamera (Bildqualität)
++ Echtes Dualsim mit zusätzlichem Micro-SD-Slot
++ Fast pures Android 6.01 ohne Bloatware (bis auf eine nützliche Moto-App zur Steuerung von Funktionen durch Bewegungen)
++ Schnelllademöglichkeit (nur mit mitgeliefertem Netzteil)
++ Sehr gut funktionierender Fingerabdrucksensor auf der Vorderseite, wo er auch in der Autohalterung gut zu bedienen ist
+Geht so:
+o Akkulaufzeit reicht über den Tag, abends wurde es aber schon eng und das bei nicht sehr intensiver Nutzung.
+o Kameraapp von der Ausstattung eher dünn
+o Akku zwar fest eingebaut, durch bbnehmbaren Rückdeckel aber vermutlich ohne größeren Aufwand wechselbar
+o Softbuttons beanspruchen Teil des Displays, wenn nicht ausgeblendet. Display aber trotzdem groß genug
+o Die eigentlich unter Android 6 mögliche Einbindung der Speicherkarte in den internen Speicher hat bei mir nicht geklappt. Als ich vom PC Bilder in den vergrößerten internen Speicher schieben wollte, wurde die Speicherkarte nicht berücksichtigt und es war angeblich zu wenig Speicher vorhanden, obwohl im Smartphone selbst die Karte als zusätzlicher interner Speicher angezeigt wurde. Ich habe die Karte dann wieder als externen Speicher formatiert, was für mich nicht schlimm war.
+Nicht so toll:
+- Knöpfe wackeln, was man sicher auch anders hinbekommen hätte.
+- Kunststoffrückseite ist zwar relativ griffig, wird aber schnell "speckig" und sieht nicht sehr wertig aus.
+- Hörer/Lautsprecher ist ein offener Schlitz ohne Abdeckung und somit ein Staubfänger.
+- Keine Benachrichtigungs LED
+- Kein NFC
+- Kein Kompass (Navigation im Auto geht auch sehr gut ohne, hat aber "jedes normale" Smartphone)
+Diese negativen Punkte waren mir vorher bekannt und ich habe sie in Kauf genommen, wenn sie auch bei mir zu einem Punkt Abzug führen, weil einige davon auch bei einem Mittelklasse Smartphone hätten besser sein können.
+Da WLAN bei mir nicht zuverlässig funktioniert, ein weiterer Punkt Abzug.
+Wer die oben beschriebenen WLAN-Probleme nicht hat, bekommt hier ein super Preis-/Leistungsverhältnis (gekauft für 237 €).
+UPDATE (16.07.2016):
+Da es gerade überall Thema ist. Auf diesem Gerät läuft Pokemon Go. Allerdings fehlt (wie auch beim J5) ein Gyroskop-Sensor, so dass man die AR (Pokemon mittels Kamera in die "Realität" zu setzen nicht nutzen kann. [Update Ende]
+VORGESCHICHTE:
+Nachdem die ursprüngliche Wahl als Nachfolger meines S3, das S5neo, aufgrund der vielen negativen Bewertungen, die das neue Februar/März-Update (Akkuleistung wurde wohl deutlich schlechter) und die Probleme mit der Sprachqualität beim Gesprächspartner (wohl durch die wasserdichte Folie) bemängeln, nicht mehr in Frage kam, musste eine Alternative her. Fündig wurde ich bei drei etwas günstigeren Modellen: Dem J5, seinem "Nachfolger" dem J3 (2016) und dem S3neo. Da ich das S3 bereits kannte (und Lust auf etwas Neues hatte) entschied ich mich für das J5, was ich grundsätzlich auch nicht bereut habe. Dennoch haben sich leider nicht alle Vorteile - die auf dem Papier bestanden - in der Realität bewahrheitet.
+KURZFAZIT:
+Wer wert legt auf ein Smartphone mit (relativ) aktuellem Android, der sollte in jedem Fall zum J5 (2015) oder dem J3 (2016) greifen. Der zentrale Unterschied zwischen den beiden ist zunächst, dass das J3 (2016) ein Dual-SIM-Smartphone ist, also gleichzeitig zwei SIM-Karten im Gerät sein können (Büro/Privat; Inland/Ausland). Das J5 hat dagegen nur einen SIM-Karten-Slot. Auch LTE gibt es nur beim J5 (2015) und dem J3 (2016). Insgesamt mehr Features (Sensoren, Anzeigen) etc. bietet dagegen das S3neo. Leistungstechnisch sowie vom Display sind alle drei Modelle vergleichbar. Allerdings gibt es im Detail dann doch einige (zentrale) Unterschiede. Wer sich jedoch allein aufgrund der vermeintlich besten Kamera für das J5 entscheidet könnte (wie ich) zumindest gegenüber dem S3 enttäuscht werden. Der Kamera des J3 ist die Kamera des J5 hingegen überlegen. Schade finde ich zudem, dass beim J5 und dem J3 sowohl auf den Helligkeitssensor (extrem nervig unterwegs) und die LED-Benachrichtigungsanzeige verzichtet wurde.
+IM DETAIL:
+LEISTUNG:
+Leistungstechnisch geben sich alle drei Modelle nicht viel geben. Alle drei haben ähnliche Prozessoren (J3: 1,5GHz, S3Neo: 1,4GHz, J5: 1,2GHz) sowie 1,5GB RAM Arbeitsspeicher. Das sollte für "Normalnutzer" absolut ausreichend sein.
+AKKU:
+Beim Akku haben das J5 und das J3 mit 2600mAh vor dem S3neo (2100mAh) die Nase vorne. Im Praxistest hat sich jedoch das J5 noch besser geschlagen als das J3 (auch wenn nur eine SIM eingelegt war). Die Akkuleistung des J5 ist einfach nur beeindruckend, ein echtes Akkuwunder!
+SPRACHQUALITÄT:
+Die Sprachqualität ist bei allen Modellen prima. Da ich das Smartphone von Zeit zu Zeit auch noch zum telefonieren verwende, für mich nicht ganz unerheblich! ;)
+DISPLAY:
+Auch beim Display geben sich die drei Varianten nichts (720 x 1.280 Pixel), lediglich sind das J5 und das J3 mit 5 Zoll gegenüber dem S3neo (4,8 Zoll) etwas größer. Farben und Schärfe sind prima. Während im S3neo allerdings noch das robustere Gorilla-Glas 2 verbaut wurde, hat Samsung beim J5 und dem J3 (vermutlich aus Kostengründen) darauf verzichtet.
+HAPTIK:
+Das J5 auch das J3 machen hier eine richtig gute Figur und wirken, obgleich (teilweise) aus Plastik, hochwertig. Das S3 hat da noch ein bisschen mehr den Plastik-Look, ist aber ebenfalls ok. Beim J3 kommt positiv hinzu, dass Samsung zumindest einen Metallrahmen spendiert hat.
+KAMERA:
+Hinten ist im J5 eine 13-Megapixel-Kamera, vorne eine 5 Megapixelkamera verbaut. Das J3 (2016) hinten nur 8-Megapixel, vorne ebenfalls 5. Das S3neo hat dagegen hinten 8 und vorne sogar nur 2 Megapixel.
+Leider spiegeln sich die mehr Megapixel des J5 an der Hauptkamera nicht unbedingt in besseren Bildern wieder. Draußen sind die Bilder OK, die Farben schön und halbwegs scharf. Dies gilt aber auch für die anderen beiden Modelle. Drinnen sind hingegen die Bilder des J5 und des J3 fast nicht zu gebrauchen. Die Farben sind noch ok, aber die Bilder alle verrauscht und schon bei leichtem Zoomen deutlich unscharf. Es hilft ein wenig, wenn man als Dauerlicht die Taschenlampe einschaltet. Dennoch: Sogar die Kamera des alten S3 war Indoor besser! Zudem hat das S3neo immerhin noch einen Bildstabilisator (elektronisch) und deutlich mehr softwareseitige Einstellmöglichkeiten. Es ist für mich nicht ersichtlich, warum Samsung solche softwareseitigen Dinge einigen Modellen vorenthält. Gerade von der Kamera des J5 hatte ich mir mehr erhofft. Allerdings ist sie für meine Begriffe noch besser, als die des J3 (2016). Immerhin: wenn man sich nur an den reduzierten Einstelloptionen stört kann man auf eine externe Kamera-App zurückgreifen.
+Die Frontkamera ist zwar auch keine Offenbarung, aber für die Preisklasse absolut ok.
+ANDROID-VERSION:
+Ein großer Vorteil des J5 und des J3 (2016) ist es, dass immerhin Android 5.1 (und nicht nur 4.XX) aufgespielt ist. Wer nicht bereit ist sein Handy zu rooten (weil ihm wie mir z.B. die Garantie wenigstens in den ersten 6 Monaten wichtig ist) der hat damit auf dem J5 zumindest das letzte Android mit einigen Verbesserungen und Sicherheitsupdates (für das S3 kommen keine mehr). Wer dagegen bereit ist sein Handy zu rooten kann z.B. mit dem cyanogenmod ein Android 6 System (zumindest derzeit auf dem S3) erhalten. Beim J5 und J3(2016) besteht wohl aber auch noch die Hoffnung, dass es seitens Samsung ein Update auf Android 6 geben könnte (was ein zentrales Problem lösen würde).
+INTERNER SPEICHER:
+Nämlich das Problem des internen Speichers beim J5 und J3. Von den 8 GB internem Speicher sind nur etwas über 3GB frei verfügbar. Der Rest ist bereits ab Werk belegt. Wer nun (wie ich) denkt, dass man dem mit einer Speicherkarte leicht entgehen kann, der wird teilweise enttäuscht. Denn viele Apps lassen sich nur auf dem Handy selbst installieren und nicht auf die SD-Karte verschieben. Gerade bei einer App wie Amazon Video ist das ein echtes Problem, denn auch die Video die man herunter lädt (geht seit kurzem ja auf alle Android-Geräte) wird feststellen, dass dabei bereits mit wenigen Filmen der Speicherplatz belegt ist. Das S3neo hat hier immerhin 16GB, was die Problematik zumindest etwas entschärft. Allerdings hoffe ich sehr, dass das J5 bald das Update auf Android 6 bekommt. Unter Android 6 kann man nämlich die SD-Karte so partitionieren, dass ein Teil der Karte wie ein interner Speicher behandelt wird. Das würde die genannten Probleme lösen und dem J5 und dem J3 einen meilenweiten Vorsprung vor dem s3neo verschaffen.
+SENSOREN:
+Sind im S3neo noch folgende Sensoren verbaut: Beschleunigungssensor, Gyroskop, Annäherungssensor, Helligkeitssensor, Kompass, so sind es im J5 und dem J3 nur der Beschleunigungssensor sowie der Annäherungssensor. Gerade der fehlende Helligkeitssensor nervt im Alltag dann doch mehr als beim Kauf erwartet,... Wer darauf nicht verzichten möchte muss dann schon wieder zur etwas teureren A-Reihe von Samsung greifen.
+LED-BENACHRICHTIGUNGSANZEIGE:
+Eine LED die blinkt, wenn man eine Nachricht, E-Mail, Anruf, etc. hat bzw. verpasst hat gibt es nur beim S3neo. Auch das ist eine Einsparung, die im Alltag schmerzt. Auch hier gilt: Ab der A-Reihe ist das wieder mit an Bord.
+W-LAN:
+Während das S3neo sowohl das 2,4 GHz als auch das 5 GHz Netz beherrscht, muss man mit dem J5 und dem J3 auf ein 2,4 GHz-WLAN zurückgreifen.
+LTE:
+LTE an Bord haben sowohl das J5 als auch das J3 (2016), nicht jedoch das S3neo.
+BLUETOOTH:
+Hier hat das J5 einen Vorteil: Es wurde das neue 4.1 verbaut. Das J3 und auch das S3neo funken noch auf 4.0. Für mich (ich benutze es viel) ein klarer Pluspunkt für das J5.
+NFC:
+Fehlt leider beim J3 (2016). Beim S3neo und dem J5 ist es dagegen an vorhanden.
+FAZIT:
+Wer eine Dual-SIM benötigt, für den ist das J3 sicher eine gute Wahl. Wer wie ich darauf verzichten kann, der findet aus meiner Sicht beim J5 das bessere Setup. Zentrale Schwachstellen sind für mich jedoch der geringe interne Speicherplatz, der Dienste wie Amazon Prime Video kaum nutzbar macht, sowie die Einsparungen beim Helligkeitssensor und der Benachrichtigungs-LED. Wen das nicht stört, der kann bedenkenlos zugreifen. Wer ohnehin vorhat sein Handy zu rooten, kann im gleichen Preissegment auch das (abgesehen von der Kamera) besser ausgestattete S3neo in Betracht ziehen.
+Ich brauche mein Handy für einen normalen Alltag. Ich telefoniere, ich schreibe SMS und vor allem nutze ich es für Fotos und WhatsApp. Es ist für alles gut zu gebrauchen. Außer für Fotos!!!!!! Draußen sind die Fotos gestochen scharf! Drinnen total verauscht!!! Sobald es etwas dunkler ist oder sich das Fotomotiv bewegt (wie mein kleiner Sohn) ist das Foto furchtbar!!!
+Alles gut soweit:
+- wertige Verarbeitung
+- 2 GB RAM (schnelle Bearbeitung)
+- gutes Bild
+- 2 echte SIM
+- erweiterbarer Speicher
+- gute Kamera
+- guter Empfang
+- gute Sprachqualität
+Wesentliches Manko und deswegen 2 Sterne Abzug:
+Die Android-Version 6.01 erlaubt es nicht, die SD-Karte zum internen Speicher zu machen.
+Das ist sehr, sehr sehr nervig, da de de facto der 11 GB große interne Speicher reichen muss.
+Nicht alle Apps fragen nach, wo denn die Daten gespeichert werden sollen (Here We Go tut es, EZ Folder Player tut es, Babbel tut es nicht). Und so ist der interne Speicher u. U. schnell verbraucht.
+Ich nenne das übergriffig. Man soll dem Benutzer de Entscheidung überlassen, wo die Daten abgelegt werden sollen. Auf die Probleme und Gefahren können die Entwickler ja hinweisen. Schade, eigentlich gutes Gerät, das durch das Betriebssystem behindert wird.
+Ich habe dieses Smartphone gekauft, da ich nach Samsung Galaxy S3 und Sony Xperia Z3 compact dieses mal nicht so viel Geld ausgeben wollte und dieses Handy alles bieten sollte was man braucht. Bei meinem Kauf kostete es 179€. Ich bin kein Technikexperte, weshalb ich dieses Smartphone so bewerte, wie ich es als Anwender empfinde.
+Zuerst zu dem Design. Das Smartphone ist wirklich sehr schön verarbeitet und wirkt genauso hochwertig wie Top Smartphones um mehr als 500€. Es hat einen 5 Zoll Bildschirm, der mir persönlich einfach zu groß ist, aber das ist kein Fehler dieses Smartphones, dann fast alle aktuellen Smartphones haben diese Größe, also auch hier, genauso gut wie teurere Smartphones. Die Auflösung des Bildschirms ist sehr schön, wenn auch nicht so gut wie beispielsweise bei einem Xperia Z5 compact, aber bei dem Preisunterschied absolut legitim.
+Die Abläufe verlaufen absolut reibungslos und es hängt nie. Da es ein Android Betriebssystem nutzt ist es auch hier auf dem gleichen Stand wie Sony oder Samsung Smartphones.
+Die Tonqualität beim Abspielen von Musik ist ebenfalls sehr gut.
+Die Bedienung ist etwas gewöhnungsbedürftig nach Samsung und Sony, aber einwandfrei.
+Mit 16 GB hat es einen großen Speicher.
+Nun komme ich zu den Mankos:
+Die Kamera hat 13MP, und die Frontkamera sogar grandiose 5MP (was kaum ein anderes Smartphone bietet). Jedoch machen beide Kameras bei nicht perfekten Lichtverhältnissen sehr oft verschwommene oder matte Photos, weshalb die letztendliche Qualität der Kamera doch, trotz ähnlicher MP Anzahl deutlich hinter Samsung und Sony zurückliegt. Meist muss man mehrere Fotos machen um ein wirklich gutes Hinzubekommen, was schnelle Schnappschüsse leider komplett ausschließt.
+Der zweite Punkt ist die Akkulaufzeit. Bei vollem Akku und Energiesparmodus (das Huawei bietet 4 Akkulaufformen, Energiesparen ist davon die zweite nach Normal, bei den weiteren 2 werden schon Funktionen eingebüßt) zeigt das Smartphone eine Laufzeit von etwa 16 Stunden an. Tatsächlich bei normaler Verwendung (Whatsapp, gelegentlich Facebook und Instagram) hält er aber eher nur 12 Stunden, wodurch ich es teilweise untertags, nachdem es Nachts aufgeladen wurde, noch einmal aufladen muss. Zusätzlich bietet das Huawei die Möglichkeit einzustellen, das Apps bei abschalten des Bildschirms geschlossen werden, um weniger Akku zu verbrauchen. Ich habe eingestellt, das dies bei allen Apps passieren soll, außer bei Whatsapp und Dropbox. Leider schließt es mir anscheinend diese beiden Apps ebenfalls regelmäßig, da Dropbox, obwohl es eingestellt wäre, nicht von selbst meine Fotos hochlädt, so wie ich es von meinen letzten Smartphones gewöhnt war. Ich muss dazu Dropbox explizit öffnen und die App mehrmals aktualisieren, damit der Upload beginnt. Auch Whatsapp wird scheinbar oft geschlossen, da ich teilweise plötzlich in Gruppen mehrere Nachrichten auf einmal bekomme, und diese sind dann nicht in der richtigen Reihenfolge.
+Das Wlan schaltet sich bei mir leider jedes mal nach Ausschalten des Bildschirms nach kurzer Zeit aus und loggt sich erst langsam nach erneutem Einschalten wieder ein. Dies war so eingestellt, ich stellte es um, doch das änderte nichts daran. Auch stelle ich dann zur Probe die Akkueinstellung auf Normal, aber auch das änderte nichts daran, dass sich das Wlan immer ausloggte. Besonders bei öffentlichen Wlans, bei denen man sich registrieren muss, ist dies nervig.
+Die Dualsim wirkt zwar zuerst als ein Vorteil, da ich von meinem Z3 Compact auf dieses die Sim nicht wechseln musste, allerdings ist der zweite Simsteckplatz ebenfalls der Steckplatz der externen Speicherkarte weshalb man nicht gleichzeitig einen Nano Sim und eine SD Karte verwenden kann.
+Kurzum mein Fazit:
+Design 5 von 5 Punkten
+Bildschirmauflösung 4 von 5 Punkten
+Schnelligkeit 5 von 5 Punkten
+Speicherplatz 5 von 5 Punkten
+Kamera 2 von 5 Punkten
+Akkulaufzeit 3 von 5 Punkten
+Akkueinstellungen(Schließen der Apps, Wlan) 1 von 5 Punkten
+Für den Preis von 179€ ist es ein ganz passables Smartphone und für jemanden, der es hauptsächlich zum Telefonieren und Schreiben verwendet wohl eine der besten Optionen derzeit. Für mich persönlich, als "moderaten" Smartphone Nutzer drängt sich aber die Frage auf, ob es nicht klüger wäre bei einer geplanten Verwendung des Smartphones von mindestens 1,5 Jahren noch etwas 200€ draufzulegen und dafür diese Probleme nicht zu haben und über eine bessere Kamera zu verfügen.
+...da das weisse P8Lite einfach nicht verfügbar ist und die, die verfügbar sind z.T. nicht die Dual-SIM Funktion haben, bestellte ich mir kurzerhand das schwarze hier bei Amazon!
+Alternativ, war ich noch an 2 Sony Modellen interessiert u. zwar dem Xperia Z3 Compact und dem neuen Xperia M4 Aqua!
+Das M4 Aqua scheiterte an den nur 8 GB internen Speicher u. das Z3 compact 1. an den sich häufenden Kritiken von Displayrissen (bei denen Sony offensichtlich sehr kundenunfreundlich reagiert) u. 2. an dem update 5.0.2, das in Verbindung mit der Sony UI um praktische u. nützliche Einstellungen beschnitten wurde, wie z.B. geöffnete Apps können nicht mehr auf einmal geschlossen werden, 2. keine Festlegung mehr der Heim Wlan Netze in den Ernergieeinstellungen, 3. Lautloseinstellungen seit Lollipop relativ umständlich, 4. z.T. mangelhafte Verarbeitung wie z.B. Ränder des Dislay sind ungleichmäßig usw.
+Was das Huawei P8 Lite anbetrifft, so macht es was die Optik u. die Haptik anbelangt für mich einen absolut hochwertigen u. topverarbeiteten Eindruck, klar die Rückseite ist Kunststoff, der allerdings schön strukturiert ist, das Display soll offensichtich kein gehärtetes Glas sein ( was solls kommt eh Folie drauf ) aber der Metallrahmen ist wirklich gelungen und wertet das Handy ungemein auf. Grundsätzlich ähnelt das Design stark einem Iphone 4 in der Grösse 5"!:-)
+Highlights:
+"Preis-Leistung"
+2 GB Arbeitsspeicher
+16 GB interner Speicher, erweiterbar mittels SD Karte
+HD-Display 5"
+LTE & NFC
+Dual-SIM Funktion (mit nanoSIM)
+Haupt-Kamera mit 13 MP
+Frontkamera 5 MP
+Android Lollipop 5.0
+Die oftmals geübte Kritik an der Huawei Oberfläche EMUI 3.1 kann ich absolut nicht nachvollziehen!? Für was in aller Welt benötigt man denn zwingend einen App Drawer ? Millionen IOS Nutzer kommen wunderbar ohne einen solchen aus!
+Im Unterschied zu IOS bietet EMUI 3.1 die tolle Möglichkeit Apps auszublenden u. durch eine Wischgeste zur Verwendung wieder einzublenden!
+Diese praktische Funktion ersetzt den Appdrawer wunderbar. Alle wichtigen Apps auf den Screens, die weniger oder vertraulichen werden ausgeblendet u. nur bei Bedarf angewählt...Das einzige was bei EMUI 3.1 u. U. etwas gewöhnungsbedürftig ist, sind z.T. die Designs der App-Icons.
+Insgesamt finde ich die Perfomance ( 2 GB Arbeitsspeicher ) des P8 Lite sehr gut und für den Normalnutzer mehr als ausreichend!
+Die HD Auflösung des Displays ist bei 5" völlig i.O., mehr muss nicht zwingend sein!
+Manche Einstellmöglichkeiten sind bei div. Herstellern erst nach dem Rooten der Handys möglich und hier schon standardmäßig vorhanden!
+Was das allgemein nachgesagte Kopieren der Chinesen anbelangt so kann ich das in Bezug auf die Bedienung bzw. der UI hier nur loben, Huawei hat aus allen Oberflächen der bekannten Hersteller sinnvolle Dinge abgeschaut u. in die EMUI 3.1 intigriert u. somit Android Lollipop recht sinnvoll optimiert.
+Beispiel:
+1. div. Wischgesten ( z. starten v. Anwendungen )
+2. tap to wake ( einschalten durch Doppeltipp )
+3. individuelle shortcuts
+4. Energiesparoptionen inkl. autom Überwachung v. stromhungrigen Apps
+5. Handschuhmodus ( Display )
+6. Zeitraffer ( Kamera )
+7. Telefonmanager
+8. Displayfarbtemperatur
+9. Einhandbedienung/Wischgeste ( Verkleinerung der Bildschirmanzeige )
+10. Kameralinse ist trotz 13 Megapixel mit dem Gehäuse bündig bzw. steht nicht hervor!!
+usw. usw.
+Was mich anbelangt, bin ich mit der Bedienung und Ausstattung absolut zufrieden, auch die Anbindung per Bluetooth zur KFZ Freispreicheinrichtung VW Golf VII klappt super inkl. Musikstreaming, sogar besser als mit Stockandroid 5.0 meines Motor G.
+Kritikpunkte gibt es jedoch, die das Gesamtbild etwas trüben u. die 5 Sterne verhindern!
+1. Displayhelligkeit ( dürfte grundsätzlich etwas heller sein )
+bei Einstellung auf maximale Helligkeit und "auto" ist es noch einigermaßen ok, bei Sonnenlicht mangelt es deffinitiv an Leuchtkraft!
+2. Akkuverbrauch, ich komme zwar problemlos über den Tag, achte aber darauf das unnötige Stromfresser wenn möglich ausgeschaltet sind.
+Poweruser könnten da evtl. Probleme bekommen..!?
+-> auffällig, wie ich finde, ist bei mir der Stromhunger des Mobilfunknetzes ( bei mir D2 mit relativ guter Empfangsstärke) ?
+-> teilweise ungenaue Akkuanzeige ( z.B. nach einem Neustart deutlich anderer Akkustand )
+3. sporatische Probleme mit Pushfunktion (z.B. bei Whatsapp) im Flugmodus Standbybetrieb bei aktiviertem Wlan ( evtl. liegt dies am gewählten intelligenten Energiesparmodus ? )
+4. Seltsame bzw. verwirrende Einstellmöglichkeiten bei Energieoptionen in Bezug auf Wlan, ich habe z.B. den Schlafmodus v. Mitternacht bis 5 Uhr eingestellt, ich ging davon aus, dass wenn ich dann bei der Funktion Energiesparen die Wlan Einstellung Wlan "beim Schlafen aus" wähle, sich das Wlan zw. Mitternacht u. 5 Uhr automatisch abschaltet! Pustekuchen :-(( denn bei dieser Einstellung ändert sich automatisch die Einstellung bei Wlan-> erweiterte Einstellungen ->Wlan im Standby eingeschaltet unsinnigerweise auf "nie" !!??
+Hoffe dass Huawei solche "Problemchen" noch durch zukünftige Softwareupdates beheben wird....
+Da die Vorteile des P8Lite aber absolut überwiegen u. für den Preis nahezu kein anderes Gerät so ein Gesamtpaket bietet, kann dich das Huawei P8 Lite uneingeschränkt zum Kauf empfehlen!
+Nachtrag: 09.12.2015
+Leider konnte das Pushproblem speziell bei Whatsapp noch immer nicht von Huawei zuverlässig gelöst werden, offensichtlich ist es auch kein P8 Lite Problem sondern zieht sich mehr oder weniger durch alle Huawei u. Honor Geräte:-(
+Grundsätzliche finde ich die EMUI 3.1 Oberfläche immer noch top und sehr bedienerfreundlich,
+doch 2 Mankos hat EMUI 3.1 nun doch:
+1. das Pushproblem ( Zustellung nur verzögert oder nur wenn App geöffnet wird )
+2. Die Lautstärke der Benachrichtigungen lässt sich leider nicht getrennt v. Klingelton einstellen ( das nervt gewaltig )
+Hardwareseitig, finde ich die Helligkeit des Display absolut zu dunkel, bei Sonnenlicht geht da garnicht u. selbst bei hellem Tageslicht wird es schon kritisch bzw. grenzwertig (selbst bei Helligkeit auf 100% ohne Automatik )
+Das Display ist evtl. dem Preis geschuldet, obwohl es hier zu dem Preis auch hellere gibt, alles andere sollte Huawei schnell in den Griff bekommen, denn das sind essentiele Dinge ( Push ) bei einem Smartphone die einfach funktionieren müssen!! -> Daher 1 Stern Abzug
+Das Telefon ist in allem ausreichend und erfüllt alle grundlegenden Alltagsvoraussetzungen.
+Anbei ein paar positive und negative Anmerkungen:
+Positiv
+-Telefon ist sehr leicht und liegt gut in der Hand
+-Kamera ist für ein Telefon dieser Preisklasse sehr gut (Bilder sind fast genauso gut wie bei einem iPhone 6s)
+-Akku hält locker bis zum Abend durch trotz intensivem Nutzens
+-Displayauflösung und Kontast sind gut
+Neutrales/Negatives:
+-Sprachqualität ist nicht zufriedenstellend. Ebenso werden Hintergrundgeräusche schlecht ausgefiltert
+-Keine gute Integration für die Nutzung eines Microsoft Exchange Kontos (vor allem für Kalender, Kontakte und Notizen). Es gibt zwar Drittanbieterapps, jedoch sind diese von der Benutzung etwas umständlich
+-Handy ist manchmal etwas hakelig von der Menüführung
+Ich brauchte kurzzeitig Ersatz für mein iphone5s, nachdem ich es zum gefühlten 17. Mal habe fallen lassen.
+Da meine Vertragsverlängerung unmittelbar bevorsteht, habe ich eine günstige Zwischenlösung gesucht und wollte als Apple-Junkie einem Android die Chance geben.
+Lieferung wie immer schnell. Verpackung erinnert stark an Apple, durchdesignt, klare Linien, modern. Hat mir gefallen.
+Zum Handy:
+- wirkt trotz Kunststoff hochwertig, möglicherweise auch durch die Metalloptik
+- für meinen Geschmack zu groß, aber das ist subjektiv, ich mag keine riesen Prügel als Handy
+- Android als OS ist ok, das Huawei eigene OS ist intuitiv und gut durchdacht, Einiges vermisse ich als iOS-User allerdings, da finde ich iOS doch besser - Geschmackssache
+- Akku-Leistung ist wie heutzutage üblich voll ok. Bei normaler Nutzung hält das Handy locker 1 Tag durch, ich bin abends meistens bei ca. 40% (whatsapp, facebook, Emails, Spotify, paar Telefonate)
+Was mich stört:
+- hat man mehrere Apps offen, kommt das Handy an seine Leistungsgrenzen, was sich in Rucklern und verzögerter Tasteneingabe bemerkbar macht
+- Ausschlusskriterium für mich generell ist allerdings Bluetooth, da ich ständig Verbindungsabbrüche und Verzögerungen habe. Da ich idR. viel mit Auto unterwegs bin und häufig geschäftlich unterwegs telefoniere, ist das ein absolutes Nogo, dass ein Gespräch mittendrin abbricht. Es liegt definitiv am Bluetooth, schon zuhause getestet.
+Fazit:
+Für Einsteiger vollkommen ausreichend und für das Geld bekommt man ein ordentliches Smartphone. Für Vielnutzer, die mehrere CPU-intensive Apps gleichzeitig nutzen, wahrscheinlich auf Dauer zu schwach auf der Brust.
+Ich besitze das SE nun seit 2 Monaten und der Kauf war das Ergebnis monatelanger Abwägungen, was sicher die meisten Handyfreunde ähnlich machen :)
+Zur besseren Einordung meiner Meinung, vielleicht kurz meine "Smartphonebiographie"..4 Android-Smartphones und dann der Wechsel zu Apple den ich nie bereut habe und der mir auch erst den Unterschied zwischen beiden Systeme eindrucksvoll zeigte.
+Ich will mich in dieser Diskussion gar nicht weiter verlieren, aber ich war super begeistert vom Iphone 6 vor nun mehr als zwei Jahren.
+Das IOS war in Kombination mit Leistung und Update-Politik eine Offenbarung. Dennoch kamen mir im Verlauf der Jahre neue Erkenntnisse: 1. meine Hosentaschen und ich, wir sind Fans von kleineren Smartphones, 2. 16GB sind auf Dauer doch bisschen knapp und 3. Apple macht viel richtig, aber ein bisschen mehr Akku darfs auf die Dauer auch sein. Hinzu kam die eher sensible "Haut" des Iphone 6, was irgendwie auch prinzipiell ärgerlich war.
+Mit der Ankündigung des IPhone SE schienen daher fast alle Wünsche in Erfüllung zu gehen, zumal ich damals schon zwischen IPhone 6 und 5s schwankte. Die Optik des 5s/SE ist schon zeitlos schön irgendwie...und vor allem hinten und auf den Seiten.
+Es begann der übliche Prozess des Abgleichens von Daten, Testvideos schauen und studieren von Artikeln, Am Ende konnte es nur einen geben: das SE. Ein IPhone 7 wäre und ist schlicht zu teuer, ein 6s wäre kein Fortschritt gewesen (dachte ich zumindest).
+Ich dachte also, ich wüsste zu 100% auf was ich mich einließ, vergaß über den Abwägungswahn aber eine Sache völlig: Das eigene Gefühl mit (neuer) Technik umzugehen. Und genau das ist es was mich so enttäuscht. Das Gefühl nach zwei Jahren Handyvertrag, nach langem vergleichen..noch nie habe ich so etwas erlebt. Man fiebert der Lieferung entgegen, das neue Handy kommt an, man packt frohlockend aus und dann...es lässt einen nicht nur vollkommen kalt, nein man hat das Gefühl ein Stück alte Technik in den Händen zu halten. Es ist wie das Auspacken und Bedienen eines Gerätes vergangener Tage. Und ja, bei allen positiven Punkten des Geräts, bei allem was ich vorher wusste (!)...es ist eine Enttäuschung, man darf den gefühlten, subjektiven Eindruck in der täglichen Nutzung einfach nie unterschätzen!
+Jedes mal wenn ich das IPhone 6 meiner Freundin in den Händen habe, habe ich das Gefühl ein Handy zu halten, was 5 Jahre moderner ist. Das Display, der Home-Button des SE...alles gut, nur gibt es einem das Gefühl eines Gebrauchthandys. Und das bei Apple!!
+Und bevor hier wieder welche meckern, ich weiß, es hat den Prozessor des 6s und die Kamera und der Akku hält länger als beim IPhone 6, aber ehrlich, ich merk NULL Unterschied zu einem 6 oder gar 5s im Alltag. Ein Freund von mir hat ein 5s und in Sachen Performance (Alltag nicht Benchmarks!!!) ist der Unterschied marginal. Wenn man die Geräte nicht dauernd nebeneinander legt, bekommt es niemand mit.
+Es spricht für Apple, dass sie es schaffen so leistungsfähige Technik zu kreieren, auch über die Generationen der Geräte. Nur wo ist der Unterschied im Alltag? Es kann mir niemand erzählen es gäbe merkliche Performance-Sprünge zwischen 5s und 6s/SE (wahrscheinlich sogar 7). Es sei denn, es schneidet jemand 4k Videos mit dem IPhone...tut das eigentlich jemand?
+Im Grunde steht nun eines..ein Telefon was in der Performance keinen gefühlten Unterschied zum 6 macht und der Akku hält eigentlich auch genauso lang (ungefähr ein Tag bei mittlerer Nutzung).
+Dennoch die Optik ist super und die Verarbeitung auch. Aber da gibt es aber meiner Meinung nach eben mehr in der "Usability" von Smartphones. Ein Faktor den ich unterschätzt habe. Es ist das Gefühl etwas Neues zu haben und das SE vermittelt das überhaupt nicht. Im Gegenteil, nicht mal als Retro-ist-geil Faktor taugt das was. Es ist zwar für sich ein schönes Gerät mit guter Performance, aber mit dem immer währenden "Gefühl" des Technik-Jahres 2013.
+Wer mit großer Vorfreude neue Technik ausprobiert wird auf Dauer wahrscheinlich enttäuscht werden! Schaut es euch vorher an, nehmt es so viel es geht in die Hand, vergleicht es mit dem 6/6s/7 in euren Händen und wer dann sagt, es wird ein SE, der kann bedenkenlos zugreifen. Wer aber unsicher wird, ob die neueren Modelle sich nicht vielleicht doch besser "anfühlen", der lasse die Finger davon.
+Sorry Apple, aber wenigstens ein anderes Display wäre cool gewesen....da verstehe ich die Kritik einiger Leute und ziehe generös 2 Sterne ab.
+Die Frontkamera ist derart frech-schlecht, dass sie eigentlich nicht einmal einen abgezogenen Stern verdient.
+Abschließend habe ich nun auch eines gelernt, du kaufst und nutzt IOS...die Geräte sind fast zu vernachlässigen. Mein IPad Air wird lange bei mir sein :)
+Ich bin durchaus zufrieden mit dem Smartphone, SE ist sehr leistungsstark, uns lässt auch wunderschöne Bilder machen.
+Aber: Mit dem Displayqualität bin ich überhaupt nicht zufrieden. Wenn man direkt SE und 5s vergleicht, sieht man Unterschied -
+iPhone SE Display wirkt viel gelber (wärmer) aus, als 5s. Und das mit ausgeschaltetem Nightshift Modus. Das ist sehr enttäuschend.
+Deshalb Ratschlag - erst 5s absschaffen, dann SE kaufen!
+Im Apple Store wurde es mit gesagt, dass Apple bei der Herstellung von SE unterschiedliche Displaylieferanten hat, ob es stimmt oder nicht kann
+ich nicht beurteilen.
+im September 2016 habe ich mir dieses Handy gekauft, nun nicht mal ein halbes Jahr später habe ich auf dem Display graue Streifen, die verschwinden sobald ich die Beleuchtung auf 100% stelle,
+mit dem Test *#0*# sind diese Streifen nicht sichtbar, daher dachte ich dass es ein SW Fehler ist und habe das Handy auf Werkseinstellungen gesetzt, jedoch ohne Erfolg... (jedoch viel Arbeit...)
+Danke dem Service von Amazon bekomme ich das Geld gutgeschrieben, sobald ich das defekte Gerät einschicke und kann mir ein neues bestellen.
+Die Entwickler von Samsung sollten sich mal Gedanken über die Qualität machen, denn preislich ist das zu erwarten.
+Bevor ich anfange das Gerät zu beurteilen, muss ich mich kurz erklären. Ich war mein gesamtes (Smartphone-) Leben lang Android User und bin nicht aus Unzufriedenheit, sondern aus reiner Neugier zu Apple gewechselt. Und da ich technikbegeistert bin macht mir so eine Umstellung in der Regel auch nicht allzu viele Probleme. Mir ist durchaus bewusst dass es in beiden Lagern unheimlich viele Fanboys und Hetzer gibt. Viele führen als Argument für das Iphone immer noch die höhere Stabilität und Performance an. Und das war damals auch so. Aber heutzutage ist das wirklich Schnee von gestern. Zwischen einem Android Flagschiff und einem Iphone gibt es keinerlei spürbare Unterschiede mehr in der Performance. Mein S6 Edge ist in anderthalb Jahren nicht einmal abgestürzt – und Ruckler konnte ich auch keine feststellen. Also ist dieses Argument wirklich ein extrem alter Hut und nur noch anwendbar, wenn man ein Iphone mit einem Low Budget Android Gerät vergleicht. Ansonsten – Pustekuchen.
+Aber kommen wir nun zum eigentlichen Test:
+Die Optik:
+„Meine Herren ist das ein schönes Gerät.“ So oder so ähnlich waren meine ersten Gedanken als ich das Iphone ausgepackt habe. Wie aus einem Guss und extrem hochwertig. Auch vom Gewicht her äußerst perfekt. Genauso schwer, dass man spürt etwas Wertiges in der Hand zu halten. Ich habe mich für die mattschwarze Variante entschieden, die ich hier heute auch bewerte. Das einzig unschöne sind die Schlieren auf der Rückseite welche bei Benutzung entstehen, sich aber natürlich wieder wegwischen lassen. So ähnlich wie Fingerabdrücke.
+Der neue Homebutton:
+Ich kenne den alten ja nur von Freunden und Familie, da ich selber vorher noch nie ein Iphone hatte, aber das Ding ist wirklich gelungen. Kein echter Knopf, der sich allerdings genauso anfühlt. (Man verspürt einen (einstellbaren) Widerstand beim Druck. Sehr gut gelöst und quasi unkaputtbar. In meinen Augen eine beseitigte Sollbruchstelle. Sehr gut!
+Der fehlende Kopfhöreranschluss:
+Also mir fehlt hier nichts. Der Adapter funktioniert gut und die beigelegten Kopfhörer sind natürlich nicht das Gelbe vom Ei, aber durchaus brauchbar.
+Die Bedienung:
+Ich habe so circa 2-3 Tage gebraucht bis ich mit IOS zurechtgekommen bin. Ist ja auch logisch – so als Umsteiger bzw. Neuling. Aber dann hat es wirklich gut funktioniert. Natürlich fehlt dem Android-User hier an der einen oder anderen Stelle ein wenig Komfort. (siehe Punkt: Unterschiede zu Android) Daher wirkt das System für mich an der einen oder anderen Stelle nicht ganz zu Ende gedacht. Aber der Mensch ist bekanntlich ein Gewohnheitstier und schlecht ist IOS auf gar keinen Fall.
+Die Kamera:
+Die ist vollkommen in Ordnung und auf dem neuesten Stand der Technik. Die Bilder sind gut bis sehr gut auch wenn sie manchmal zur Unschärfe neigen. Auch werden Farben eher natürlich bzw. etwas blasser dargestellt. Aber wenn ich mich richtig erinnere wurde früher auch eine zu hohe Sättigung der Farben kritisiert. Ist und bleibt Geschmackssache. Die Frontkamera dagegen ist ohne Zweifel verdammt gut. Wenn nicht sogar die beste von mir je an einem Smartphone getestete.
+Der Akku:
+Ich habe wie gesagt keinen Vergleich zu anderen Iphones – weiß aber dass das bei vorangegangenen Geräten immer als Schwachpunkt kritisiert wurde. Das sehe ich hier beim 7er nicht so. Der Akku ist nicht überragend, aber auch kein Punkt zur Kritik. Über den Tag kommt man bei mittelhoher Nutzung wunderbar.
+Der Bildschirm:
+Knackscharf, aber irgendwie ein bisschen dunkler als ich das gewohnt bin. Selbst wenn ich die automatische Helligkeit deaktiviere und „voll aufdrehe“ ist das Hintergrundbild immer noch dunkler als das „Originalbild“. Kann ich mir absolut nicht erklären und das stört mich auch ein bisschen. Die Experten unter Euch dürfen mir da gerne in den Kommentaren Abhilfe schaffen.
+Das Tempo:
+Da ich nicht spiele habe ich den Punkt verständlicherweise auch nicht getestet. Der Seitenaufbau beim Surfen ist vollkommen okay und recht flott. So wie es bei einem Top-Smartphone sein soll. Das entsperren per Touch ID klappt auch zuverlässig und schnell. Nur beim Beenden von Apps über den Home Button gibt es ab und zu kleine Ruckler in der Animation. Stört zwar nicht wirklich, ärgert mich aber bei der sonst butterweichen Performance doch ein bisschen.
+Gravierende Unterschiede zu Android:
+(Dieser Punkt fließt nicht in die Bewertung mit ein, ist aber mit Sicherheit für den ein oder anderen zukünftigen Umsteiger interessant)
+- Man kann nicht mehrere Kontakte auf einmal markieren. (zum kopieren oder löschen)
+- Man kann die Apps auf dem Bildschirm nicht unten am Raster ausrichten (Über den fixierten Apps)
+- Es werden nicht automatisch verschiedene Foto-Ordner für z.B. WhatsApp und Facebook angelegt. Alles
+wird unter Fotos gespeichert und sortieren muss man selber.
+- Ich kann nicht alle offenen Tasks auf einmal beenden, sondern muss jedes einzeln nach oben wischen.
+- Einen "Zurück" Button gibt es nicht. Man findet diese Option jeweils irgendwo auf der Seite bzw. in der App.
+- Neue Klingeltöne einzustellen ist schon ein kleiner Akt über Itunes. Das geht nicht direkt über das Handy.
+Der Sound (Lautsprecher):
+Absolut keine Kritik an dieser Stelle. Sauberer Stereosound, der Beste den ich bisher an einem Smartphone gehört habe. Selbst die Klingeltöne klingen wirklich extrem schön.
+Fazit:
+Es ist und bleibt eine Glaubensfrage. Apple hat hier mit Sicherheit (wahrscheinlich auch bewusst) etwas Luft nach oben gelassen. Aber es ist und bleibt ein Top-Smartphone auf einem sehr sehr hohen Niveau. Aber es ist mit Sicherheit die bislang beste Gelegenheit auch für Umsteiger mal in die Welt von Apple einzutauchen. Und falls man sich dann wieder dagegen entscheiden sollte – der Wiederverkaufswert von Iphones ist bislang auf dem Smartphone-Markt ungeschlagen. Ich bleibe noch eine Weile in dieser Welt. Ich mag ab und an Veränderungen. Aber meine Meinung bleibt – IOS ist anders als Android – aber keinesfalls besser. ;)
+Nachtrag 30.09.2016
+Inzwischen nutze ich das Gerät seit einer Woche und mir ist noch etwas im Unterschied zu Android aufgefallen. Früher habe ich ganz gerne mal zum beantworten mehrer Whats App Nachrichten den Flugmodus eingeschaltet (Damit ich nicht ständig neue Nachrichten beim Schreiben bekomme). Diese konnte ich dann einfach abschicken und sie wurden dann gesendet wenn der ich den Flugmodus wieder ausgeschaltet habe. Das war auch ziemlich praktisch wenn man mal keinen Empfang hatte - Nachrichten schreiben und versenden ging trotzdem. Whats App hat dann automatisch verschickt wenn man wieder Netz bzw. WLAN hatte. Das geht bei IOS nicht, hier kann man nicht auf "senden" drücken wenn man keinen Empfang hat. Finde ich ein bisschen ärgerlich um ehrlich zu sein.
+Nachtrag 11.10.2016
+Sprachqualität Telefonie
+Mittlerweile habe ich die Qualität beim Telefonieren auf Herz und Nieren getestet und für mich persönlich ist alles einwandfrei und exzellent. Kritiken hierzu kann ich nicht nachvollziehen, vielleicht ist das auch eher persönliches Empfinden.
+Abstürze
+Ich kann inzwischen noch viel weniger nachvollziehen warum die Apple Jünger immer schreien dass das Iphone nie abstürzt. Es gab in den letzten Wochen 3 Mal die Situation dass der Homebutton nicht mehr reagiert hat, obwohl die Entsperrung angezeigt wurde. Zweimal konnte ich mich über die Kamera ins Menü retten, einmal musste ich das Telefon komplett ausschalten. Nervig! Kommt das noch häufiger vor werde ich die Bewertung anpassen müssen.
+Nachtrag 02.12.2016
+Ich habe mein Iphone inzwischen wieder verkauft und mir (eigentlich zur Überbrückung bis die neuen Android Flaggschiffe nächstes Jahr kommen) ein Honor 8 geholt. Und ich bin restlos begeistert. Nachdem ich dieses Gerät für nicht einmal 400 Euro in der Hand hatte, war mir schleierhaft warum Menschen ernsthaft mehr Geld für ein Telefon ausgeben. Aber das ist hier nicht Thema. Gründe für mich das Iphone wieder zu verkaufen waren letztliche folgende:
+- Die Größe. 4,7 Zoll sind mir echt zu klein. 5,5 Zoll dagegen zu groß. Ja, ich bin durchaus komisch was das angeht. Und das Iphone 7 Plus ist auch nochmal deutlichen größer als andere Vertreter mit diesen Bildschirmmaßen.
+- Der fehlende "Zurück" Button. Das ist für mich Komfort schlechthin. Hat mir beim Iphone wirklich gefehlt.
+- Der "unsortierte" Foto Ordner. Das hat mich jetzt nun wirklich wahnsinnig gemacht. Alle Fotos aus allen Quellen in einen Ordner. Und sortieren darf man dann selbst.
+- Itunes (Ohne Kommentar ;)
+Das Iphone ist wirklich kein schlechtes Telefon. Und wer nichts anderes kennt wird es wahrscheinlich auch lieben. Aber es hat nichts mystisches mehr und hat selbstverständlich auch so seine Lags und Abstürze. Sogar mehr als mein damaliges S6. Es bleibt ein schickes und funktionales Smartphone, das sein Geld aber auf keinen Fall wert ist. Mich macht nämlich gerade ein deutlich günstigeres Telefon deutlich glücklicher. Für Preis/Leistung ziehe ich dann am Ende nochmal einen Stern ab. Somit landen wir bei drei Sternen, gerne auch noch bei einem halben dazu im Sinn ;)
+Ich bin nach sehr langer Zeit Android aus Neugier vor gut 2 Wochen auf das iPhone 7 128GB Matt Schwarz umgestiegen.
+Nach den endlosen Schwärmereien seitens der Apple User, wie unfassbar toll das System doch wäre, muss ich sagen, dass ich recht schnell ernüchtert war.
+Viele Funktionen, die bei Android schon lange Standard sind, hat Apple noch nicht für sich entdeckt (Dateimanager, Dateien per Bluetooth zu versenden, eigene Klingeltöne einstellen, Telefonbuchkontakte markieren etc. pp...)
+Auch die Performance im Vergleich zu meinem 269 € OnePlus X oder dem vorherigen Nexus 4 ist keine Offenbarung.
+Ja, es läuft schnell, aber nicht schneller.
+Und ja, es gab bei Android hin und wieder Ruckler, die es allerdings genau so und zum Teil wesentlich ausgeprägter beim iPhone 7 gibt.
+Ich hatte zudem schon 2 Komplettabstürze.
+Da ging dann für ca. 10 Minuten nichts mehr, bis das Gerät von selbst neu startete.
+Ich habe bisher nur ein paar Standard Apps installiert (Whatsapp, Facebook, Runtastic und ein paar andere) also keinen "spezial Kram", der bekannt für Probleme wäre.
+Android ist eindeutig das System, welches wesentlich umfangreichere Möglichkeiten bei der Bedienung bietet. Es geht an vielen Stellen einfach tiefer in die Materie und läuft nicht weniger flott.
+Apple User, die behaupten, dass iOS 1000x besser wäre, kann ich leider ab jetzt nicht mehr für voll nehmen. Die hatten vermutlich bisher nichts anderes als Apple in der Hand.
+Leider eine recht teure Erkenntnis.
+Nichts desto trotz ist das iPhone ein gutes Smartphone.
+- Es hat ein tolles Display! Farbdarstellung und Ausleuchtung sind hervorragend, wobei die Auflösung gerne etwas höher sein könnte. Man merkt den Unterschied zu einem Full HD Display doch recht deutlich, wenn man sowas vorher hatte.
+- Der Sound über Lautsprecher und (vernünftige) Kopfhörer ist der beste, den ich bisher an einem Smartphone hören konnte!
+- Die Kamera ist insgesamt top! Bilder werden stets scharf und verschwimmen nicht. Die Videos sind frei von Vibrationen und äußerst geschmeidig. Der Ton kommt sehr gut rüber.
+Die Farben könnten allerdings knackiger sein. Sie wirken manchmal etwas blass. Das hat dann auch schon nichts mehr mit Realitätstreue zu tun.
+- Der Speicher ist mit 128 GB großzügig und man hat nicht den Ärger mit dem dusseligen Speichermanagement bei Android (App auf SD, App intern, App auf beidem, SD als interner Speicher konfiguriert...)
+- Die Telefonqualität finde ich weniger gut. Ich habe oft ein starkes Hintergrundrauschen und bei Gesprächen über die Bluetooth Freisprecheinrichtung im Auto, während der Fahrt, ist die Verbindung extrem schlecht. Egal wo ich gerade bin. Das ging vorher besser!
+- Der Akku hält bei mir unter normalen Bedingungen ca. 2 Tage. Das finde ich klasse!
+- Das Laden dauert recht lange. Von 0-100 knappe 3 Stunden.
+- Manchmal nervt das bereits erwähnte ruckeln und "hängen bleiben" schon extrem. Vor allem, weil man das so nicht von einem Apple Gerät zu dem Preis erwartet hätte. Zu 99% läuft es aber schnell und vollkommen flüssig.
+- Der Homebutton mit Taptic Engine ist für mein Empfinden GENIAL! Ich habe mich sofort dran gewöhnt und würde das nicht mehr missen wollen. Die Fingerabdruckerkennung funktioniert blitz schnell.
+- Der fehlende Klinkeanschluss stört mich nicht. Dass es allerdings ein "Lightning" und kein USB Anschluss sein musste, ist schon eher nervig. Das wusste ich natürlich vorher...ein paar Kabel besorgt und gut ist.
+- Die Synchronisierung von Bildern, Musik und Dateien zwischen PC und iPhone ist umständlich!
+Das hätte man wesentlich besser lösen können und müssen (siehe Android!).
+Man kann nicht mal ein paar Bilder per Bluetooth ans Notebook schicken! So ein Schwachsinn!
+- Größter Pluspunkt im Vergleich zu Android ist natürlich die Versorgung mit Updates. Apple macht das so, wie ich es mir bei allen anderen Herstellern wünschen würde. Da werden auch 5 Jahre alte Geräte noch supportet. Sehr gut!
+Alles in allem macht das iPhone das was ich möchte, wenn auch manchmal über Umwege.
+Ich werde es sicher die nächsten 3 Jahre nutzen, dann aber wieder in die Android Welt wechseln. Das liegt mir als technikaffinen User einfach mehr.
+Schlecht ist das iPhone und iOS sicher nicht. Nur eben anders.
+Äußerlich wirkt das Smartphone nicht ganz so edel und teuer, wie man es heutzutage erwarten mag. Gerade von der Vorderseite rund ums Display bin ich nicht wirklich beeindruckt. Aber gut, das sind nur Äußerlichkeiten und Geschmäcker sind ohnehin verschieden.
+Die Inbetriebnahme stellt sich sehr einfach dar, ebenso die Bedienung insgesamt, die, zumindest, wenn man vorher schon mal ein Smartphone in Händen gehalten hat, geradezu selbsterklärend ist.
+Am Display gibt es auch nichts auszusetzen, die Farben sind leuchtend, alles ist schön scharf und klar.
+Das Beste dürfte die Akkulaufzeit sein. Hier bin ich wirklich sehr beeindruckt. Gut, mein altes Acer Liquid Duos E2 war ohnehin schon in die Jahre gekommen, aber ich musste es spätestens alle fünf Tage aufladen, obwohl ich es nur tagsüber eingeschaltet hatte. Das Samsung läuft inzwischen seit 12 Tagen, jetzt ist der Akku bei 15 % angekommen und verlangt ein Aufladen. Wobei ich dazu sagen sollte, dass ich das Smartphone nur während des Tages einschalte und nicht so intensiv nutze, wie manch anderer. Zudem konnte es sich zwischendurch mal kurz am PC aufladen konnte, als ich Fotos auf den PC übertragen wollte. Dies dürfte aber nicht mehr Aufladezeit als eine halbe Stunde gewesen sein. Wie auch immer, insgesamt scheint der Akku extrem stark!
+Toll ist auch die Internetgeschwindigkeit. Mein schnelles (Prepaid-) Datenvolumen ist in der Regel spätestens nach der ersten Woche eines Monats verbraucht und wird dann eigentlich auf (kostenfreies) "Schneckentempo" verlangsamt. War beim Acer auch so langsam. Hier beim Samsung merkt man den Unterschied kaum. Selbst am Monatsletzten ist man im Internet noch superschnell unterwegs :-)
+Auch die NFC-Funktion funktioniert einwandfrei. Eine Kommunikation zwischen meiner Waschmaschine und dem Smartphone war so problemlos möglich.
+Jetzt zu den Punkten, die mir negativ aufgefallen sind:
+Schließt man das Samsung an einen PC an, erkennt dieser es nicht, d. h. die Übertragung per USB-Kabel funktioniert nicht. Man muss hier erstmal googlen und findet dann glücklicherweise schnell heraus, dass man mit einem Trick den "Entwicklermodus" aktivieren und das USB-Debugging dann erlauben kann. So hat es dann problemlos funktioniert.
+Die Kamera erreicht ein "ok", ist aber nicht so gut, wie ich es erwartet hatte. An die Bilder, die mein Freund mit seinem iPhone macht (aber gut, das kostet auch das dreifache), kommt die Qualität nicht heran.
+Bei nicht allen nicht benötigten Apps lässt sich die Datensammelei abschalten, ohne dass es zu dauernden Meldungen über die fehlende Freigabe kommt.
+Nach der dritten Ersatzlieferung kann ich sagen, dass die Tastatur inkl. Maus-Touchpad unbrauchbar ist. Beim Schreiben mit der Kastatur springt der Curser unkontrolliert in andere Zeilen. Zudem lässt sich der Mauszeiger mit dem Touchpad nicht präzise steuern. D. h. der Zeiger verspringt. Auch von einem Gerät, welches 250€ Euro kostet, erwarte ich mir eine funktionierende Tastatur mit Touchpad. Daher ging auch das dritte Gerät zurück. Werde jetzt etwas mehr Geld investieren.
+Ich bin sehr überrascht, gutes preis-leistungs Verhältnis. Meine Frau ist zufrieden. Über die Qualität auf längere Zeit gesehen kann ich noch nichts sagen.Das projezieren auf den Fernseher mittels Miracast und auch über Hdmi funktioniert nicht richtig , es ruckelt immer zu .Schade sonst ist es ein gutes Gerät.
+Der lenovo mix310 hat ansich eine gute Qualität schöne stabile verarbeitung es fehlt jedoch der produkt key für windows 10,schade bin etwas enttäuscht
+Habe mir das Miix 310-10ICR mit 4GB Arbeitsspeicher und 64 GB Festplatte zugelegt. Ich bin soweit ganz zufrieden, allerdings habe ich, so wie offensichtlich viele andere auch, ein Problem mit der Erkennung der Micro-SD Karte. Ich habe eine SanDisk Ultra 64GB SDXC1 im Einsatz. Mal wird sie erkannt und mal nicht. Nach dem Auswerfen und wieder einsetzen wird sie wieder erkannt. Äußerst lästig dabei ist nur, dass man laut Herstellervorgabe in der Bedienungsanleitung vorher immer erst den PC herunterfahren und ausschalten muss weil es sonst zu einer Beschädigung des Kartenlesegeräts kommen kann. Ansonsten ist das Teil nicht der Überflieger aber als Zweitgerät ganz ok.
+Schade, leider einen ganzen Tag vergeudet, um den PC als Nachfolger für mein Toshiba 9-Zoll-Gerät einzurichten.
+Zwar hat das Teil doppelt soviel RAM und eMMC-Speicher wie das o.a. Vorgängermodell, aber das war es auch schon.
+Das Display (extra das Full-HD bestellt) ist dem Toshiba zwar ebenbürtig, aber liebe LENOVO-Entwickler, was habt
+ihr da aus dem Hut gezaubert ? KEIN SD-Kartenschacht, zwei fummelige USB-Ports am Tastaturdock und da liegt der
+Knackpunkt. Externe Laufwerke über diese Ports anschließen ? Externes DVD-Laufwerk - nada ! Noch zu verkraften, aber
+eine externe 2,5 Zoll-Platte (WD Passport) - die läuft gar nicht erst an, sondern klackert munter vor sich hin.
+Ohne diese Anschlussmöglichkeiten ist das ganze Gerät für mich wertlos und geht leider wieder zurück.
+Noch ein Punkt - die Online-Registrierung bei LENOVO klappt, allerdings musste ich nach dem Check der Ser.Nr. lesen,
+dass danach die Garantie bereits am 27.12.2017 abläuft, obwohl ich das Teil erst am 4.1. bestellt habe.
+Ich hatte mich zuvor noch über einen Einleger im Karton gefreut, dass die Garantie 2 Jahre betragen sollte - das Ganze
+wird aber dann doch eingeschränkt und die Überprüfung funktioniert nicht, weil der angegebene Link ins Leere läuft.
+Schade - das Teil hat seine positiven Ansätze, ist aber letztendlich für mich nicht nutzbar
+Die Technik die in dem Laptop steckt ist gut für den Preis. Jedoch finde den Lüfter auch bei minimalen Anwendungen zu laut.
+Ich habe mir nach langer Suche das Idepad 310 von Lenovo bestellt.
+Der erste Eindruck nach dem Auspacken war durchweg positiv. Das Gehäuse ist zwar - wie für diese Preisklasse üblich - komplett aus Kunststoff, macht aber einen sehr wertigen Eindruck.
+Nach dem ersten Konfigurieren und Ausprobieren fiel mir auf, dass der Lüfter deutlich hörbar ständig läuft. Meine Hoffnung, dass sich das System erst einpendeln muss, war dann auch vergebens. Der Lüfter lief weiter, selbst wenn alle Programme geschlossen waren. Auch ein Ändern der Lüftereinstellung in den Energieeinstellungen von Windows brachte keine Abhilfe. Im BIOS des Rechners gab es auch keine Änderungsmöglichkeit.
+Damit ist das Notebook für mich nicht brauchbar, da kann ist mein alter Fujitsu noch angenehmer.
+Ein weiterer Makel ist das Tastaturlayout. Die Shift Tasten sind so klein, dass ich diese beim Schreiben ständig Verfehle. Vielleicht gewöhnt man sich nach einiger Zeit daran...
+Das Display gefiel mir vom Farbeindruck recht gut. Allerdings ist die Helligkeit sehr begrenzt, was bei einem spiegelnden Display schnell zu unschönen Reflexionen führt.
+Von den genannten Punkten abgesehen, hat mir das Notebook gut gefallen. Ich vermute fast, dass das Lüfter Problem ein Defekt war. Die Geschwindigkeit des Systems ist dank neuem i5 und SSD super.
+Deshalb, wer mit den kleinen Shift Tasten zurecht kommt und bei der Display Helligkeit Abstriche machen kann, der sollte sich das Ideapad 310 mal ansehen.
+Nach vier Wochen war die Flugmodustaste ohne Funktion... nervig aber nicht so tragisch, da man den Laptop über die startleiste ebenfalls in den Flugnodus schalten kann.
+Seit gestern kann ich meinen Laptop aber gar nicht mehr benutzen. Er startet nicht, es tritt ein Fehler auf: efi\microsoft\boot\bcd error code 0xc0000034. Es fehlt eine Recovery-Cd
+Blöd Sache, ansonsten war er sehr schnell. An die Tastatur muss man sich aber gewöhnen.
+Ich möchte jetzt nur auf die Punkte eingehen, die beim Produkttest dieses Modells etwas bemängelt wurden. Direkt vergleichen kann ich ihn mit einem Acer Aspire der 350 Euro Klasse. Ich habe bisher für Freunde und Verwandte meist ein Acer Aspire Modell genommen, mit denen ich bisher wirklich sehr zufrieden war. Wegen den sehr guten Werten dieses Modells, also Prozessor, Ram usw., habe ich dieses Mal dieses Modell genommen (Ich hatte das Modell mit 120 GB SSD und 1TB HDD).
+• Also das Gehäuse finde ich wunderbar. Es ist zwar Kunstoff, aber wirkt keineswegs billig. Die Oberfläche ist auch nicht glatt wie beim Acer (Modell von 2014 oder 2015) sondern minimal geriffelt. Insgesamt könnte man ihn schon mit einigem an Kraft verwinden (Stichwort Verwindungssteifheit), aber die Stabilität geht voll in Ordnung, eher besser als ich gedacht hatte. Dünner als der Acer und das finde ich sehr gut. Insgesamt gefällt mir das Gehäuse ein bisschen besser als beim Acer, das im Test eher gelobt wurde.
+• Das Touchpad finde ich auch super. Der Finger gleitet völlig flüssig über die Oberfläche und die Bewegungen wurden gut angenommen.
+• Die Tastenwippe für Linke und Rechte Maustaste geht auch voll in Ordnung. Das wurde im Test bemängelt, fand ich aber Null Problem. Von mir aus kann man hier gerne etwas sparen um den Preis insgesamt zu senken (Tastenwippe heisst, dass es eine durchgehende Taste ist, mit Mittelteiler, die links und rechts nach unten gedrückt werden kann).
+• Die innere Oberfläche soll auch Kunststoff sein, wirkt aber wie Metall. Fand ich auch sehr gut. Gefiel mir auch besser wie beim Acer.
+• Modelle mit nur SSD sind, wenn der Lüfter nicht gerade läuft und das tut er meistens nicht, absolut lautlos.
+• Bei Modellen mit zusätzlicher HDD hört man die HDD schon, also dann leider nicht lautlos, aber die kann man in den Energieoptionen nach zB 1 min. in den Standby schicken.
+• So, also insgesamt war ich echt positiv überrascht von diesem Modell. Besonders gut gefiel mir, dass er vergleichsweise dünn ist und alles doch irgendwie ein bisschen edel wirkt. Also klar ist es Kunststoff aber für ein 500 Euro Modell eher edel.
+• Nun kommt aber leider das aber, weswegen ich mich noch mehreren Tagen Bedenk- und Entscheidungszeit entschieden habe, ihn zurück zu schicken: Der Bildschirm. Wie schon manche andere hier geschrieben haben, ist es denke ich so, wenn es der erste Full HD Laptop ist, den man vielleicht hat, oder man weniger Ansprüche an den Bildschirm stellt, kann man schon damit leben. Es ist bestimmt kein NoGo. So, irgendwo wird ja immer gespart um auf den Preis zu kommen und das ist hier auf jeden Fall der Bildschirm. Für mich persönlich wirkte es wie mit einer Gaslaterne aus dem 19ten Jahrhundert beleuchtet. Man kann die Helligkeit schon aufdrehen und dann ist er auch einigermaßen hell und man sieht auch draussen einigermaßen etwas, wie ich getestet habe, aber wie gesagt, für mich blieb immer dieser Gaslaternen Effekt. Damit man mich jetzt nicht falsch versteht, die Werte dieses Laptops sind schon super und wenn man vorher noch nicht viele andere Bildschirme gesehen hat, wird man mit diesem Modell auch glaube ich glücklich, oder wenn man ihn zB an einen vorhandenen externen Monitor anschliessen kann. Ich habe dann erfahren, dass das nächsthöhere Modell der 510er einen besseren Bildschirm hat (IPS Panel). Gerade sehe ich dass dieser hier schon ab 599 Euro angeboten wird. Ich habe mich dann also für den entschieden und der ist nun wirklich super, da gibt es nichts zu beanstanden. Mit dem bin ich voll glücklich. Mit dem 310er war ich nur „eingeschränkt“ glücklich :)
+Ich habe das Notebook nun einige Zeit in Gebrauch und muss leider sagen, dass ich nur bedingt zufrieden mit dem Gerät bin. Die Lieferung erfolgte prompt, die Verpackung war super und die Einrichtung des Gerätes problemlos. Habe zum ersten Mal mit Windows 10 gearbeitet, ist sicher gewöhnungsbedürftig aber ich denke, das war bei anderen Windowsversionen nicht anders und hat auch weniger mit dem Notebook selbst zu tun.
+Zur Info, ich habe vorher ein Notebook mit ähnlicher Ausstattung ähnlicher Preisklasse eines anderen Herstellers genutzt. Das Gerät ist inzwischen 6 Jahre alt, sollte ein Neues her. Ich habe mich aufgrund der vielen positiven Erfahrungsberichte für dieses Gerät entschieden. Leider kann ich diese positiven Eindrücke nicht bestätigen.
+Im Einzelnen:
+Das Aussehen und die Verarbeitung wirken nicht sehr hochwertig. Vor dem Kauf habe ich über diese Seite die Frage nach einem Kartenleser gestellt, diese Frage wurde verneint (vom Verkäufer!), habe mir also einen Externen dazu bestellt. Ergebnis: Es ist ein Kartenleser im Gerät...naja, das sollte der Verkäufer eigentlich wissen. Weiterer Kritikpunkt ist der Nummernblock, leider habe ich bisher nicht rausfinden können, ob es möglich ist irgendwie zu sehen, ob er eingeschaltet ist oder nicht. Beim Hochfahren ist er offensichtlich immer aus, man sieht es aber nicht...also probieren. Nicht so optimal gelöst finde ich. Als Nächstes stört mich die Bedienung der Taste fürs Öffnen und Schließen des DVD Laufwerks. Muss man schon Fingerspitzengefühl haben. Des weiteren bin ich mit der Arbeitsgeschwindigkeit nicht wirklich zufrieden. Ich nutze keine aufwendigen Programme, etwas MS-Office, etwas Bildbearbeitung, Internetsurfen, also nichts wirklich Aufwendiges und ich habe wie gesagt immer den Vergleich mit dem 6 Jahre älteren Notebook, auf dem die gleichen Programme besser liefen. Insgesamt kann ich sagen, dass ich eher mäßig zufrieden bin und es sicher keine weiteren 6 Jahre bis zu einem Neuen dauern wird, wobei ich eher wieder zu einem Modell des anderen Herstellers greifen werde.
+Laptop ist gut, top Zustand, funktioniert alles.
+ABER habe diesen nur wegen dem dazugehörigen "Office" bestelle. Es stellte sich jedoch heraus, dass es KEIN Microsoft Office, sondern LibraOffice ist, was sowieso kostenlos ist!
+Ist extrem langsam. Nicht fürs surfen geeignet. Eine Bekannte hat ihn auch gekauft. Selbes Problem. Bei den werten erwartet man zumindest das man schnell mal was googeln kann. Mein alter laptop (11 Jahre alt) ist schneller.
+Preisleistung passt eigentlich, also keine hammer ding aber für den Preis ok.
+Was ärgerlich ist , ist er Akku nach 3 Tagen bereits nicht mehr funktioniert
+wäre da nicht das schwache Display. Extrem Blickwinlel abhängig. Nicht mehr Zeitgemäß, Alles andere ist jedoch gut bis sehr gut.
+Soweit, so gut. Alles (fast) Bestens. Von der Lieferung zur Verpackung bis zum Produkt. Leider hebt sich auf der rechten Seite die Tastatur. Scheint ein Materialfehler zu sein, der dem Kostendruck geschuldet ist. Behalte es bis ich ein neues Laptop brauche.......
+Habe das NB keinen Monat gehabt,leichte Bedienbarkeit,die vorinstallierten Programme sind zu gebrauchen,wenn auch nicht alle.
+Leider hat es sich im Standby Modus aufgehängt.Es lies sich nicht mehr einschalten,Monitor blieb dunkel.
+Auch ein reset half nicht,meine Daten sind futsch,wurde von Amazon ohne Problem zurückgenommen und erstattet.
+Das Problem besteht anscheinend durch Win 10,nicht am NB selbst.Kauf mir wieder ein Lenovo,diesmal mit Win 7-
+ob ich meine Daten(Fotos und Doc.) zurückbekomme weiß ich noch nicht.
+Die Leistung des Notebooks ist i.O. Das rechtfertigt die Vergabe von drei Sternen. Der Rest (mit Ausnahme der Tastatur) ist eher ärgerlich. Insbesondere das Touchpad ist leider eine ziemliche Katastrophe; es ist laut (beim Klicken), langsam und unpräzise. Oft arbeite ich daher mit einer externen Mouse. Der Bildschirm ist leider auch nur gerade akzeptabel. Die Reflektion und Blendung sind recht stark. Von der Akkulaufzeit hatte ich mir auch mehr versprochen. Ärgerlich ist auch, dass das Stromkabel relativ kurz ist. Im nachhinein hätte ich lieber ein wenig mehr Geld investiert und ein anderes, qualitativ hochwertigeres Notebook erworben.
+Das Ladekabel ist halb so lang wie mein altes. Wenn ich kein Ladekabel benötige ist es ok, die Bild runter/Bild rauf Tasten fehlen mir, die Entertaste ist ziemlich klein, und die "Mausleiste" muss man genau treffen.
+Preis- Leistung ist sehr gut aber der Lüfter ist extrem laut und läuft sehr oft in einem hohen Ton.... Ich habe den Laptop wieder zurück geschickt wegen dem Lüfter!
+Ich habe dieses Laptop für den Gebrauch in der Uni und zum Streaming von Filmen und Serien gekauft.
+Ersteres erledigt das Gerät ohne Probleme. Dabei handelt es sich in erster Linie um Recherche und Schreiben.
+Soweit nichts auszusetzen.
+Auch sonst ist es ein für den Preis leichtes, schickes Laptop mit einer ordentlichen Akkulaufzeit.
+Beim Kauf war mir wichtig, dass der Laptop einen Full-HD Bildschirm hat, um besagte Filme und Serien auf Busfahrten zu streamen. Da eine Variante mit Full-HD teurer ist, dachte ich mir, dass der günstigere AMD-Prozessor an Stelle eines Intel-Prozessor schon reichen würde. Scheinbar reicht die Leistung jedoch nicht zur Wiedergabe von Full-HD. Der Prozessor kommt an seine Grenzen und die Wiedergabe ruckelt, sei es im Browser mit dem Flashplayer, mit VLC oder dem Windows Media-Player. 720p läuft gerade so bei nahezu maximaler Prozessorauslastung.
+Ich hätte nicht erwartet, dass man ein Laptop mit Full-HD Bildschirm kaufen kann, das nicht in der Lage ist Full-HD vernünftig wiederzugeben.
+Hinterher ist man immer schlauer. Beim nächsten mal werde ich drauf achten.
+Meine Erwartung an dieses Gerät war, dass es ein solider Begleiter für den Uni-Alltag ist, mit dem man problemlos alltägliche Dinge tun kann. Dazu gehören bei mir: Videos im Internet schauen, Dateien bearbeiten und ansehen, surfen, recherchieren etc.. Spielen gehört nicht (!) dazu, das kann man wirklich nicht erwarten bei diesem günstigen Preis. Ich habe das Gerät nur wenige Tage genutzt, daher kann ich keine Aussagen über die Performance über mehrere Wochen treffen. Das ist aber auch nicht nötig, da ich bereits jetzt entschieden habe, das Gerät zurückzusenden und mir lieber später ein besseres Notebook zu kaufen.
+Leider konnte das Gerät diese Erwartung nicht gut erfüllen - Bereits bei 2 oder 3 geöffneten Tabs fängt das Gerät und die Websites an zu ruckeln und ist/sind langsam. Dasselbe beim Einstellen von Dingen im Explorer. Auch hier ruckelt es recht stark und ein flüssiges Erlebnis ist zu kaum einer Zeit möglich. Dazu muss jedoch gesagt werden, dass ich recht hohe Ansprüche an sowas habe, daher kann es sein dass andere Leute nichts an diesem Laptop auszusetzen haben bzw. sich nicht an dem gelegentlichen Stockern stören. Für 399€ ist mir die Leistung jedoch nicht gut genug. Da habe ich bereits für 299€ oder noch weniger ähnlich gute Geräte gefunden. Ebenfalls von HP, wohlbemerkt.
+Positives gibt es jedoch auch: Die Verarbeitung wirkt trotz viel Plastik recht hochwertig, lediglich die Tasten sitzen etwas locker, ist aber bei Laptops generell so, zumindest in der Preisklasse. Die Akkuleistung erfüllt außerdem die Herstellerangaben recht gut. Ich kam gut über einen Tag, wo der Laptop den ganzen Tag im Standby-Modus war wenn er nicht genutzt wurde. Aktive Nutzung etwa 3,5h. Außerdem positiv: Die Multifunktionstasten für Lautstärke +/- , Nächster/Voriger Song etc sind auf den F-Tasten und funktionieren top. Hier können sich einige Gamer-Tastaturen was bei abgucken, die funktionieren teilweise nicht so gut. Das Tastaturlayout ist außerdem gut, keine Taste ist zu winzig.
+Neutral bewerte ich das Display: Die HD-Auflösung ist ja in diesem Segment der Standard. Die Farbdarstellung ist schön und fehlerhafte Pixel oder Ähnliches habe ich nicht gefunden. Insofern alles top. Die Blickwinkelstabilität gefällt mir allerdings nicht, man muss schon fast genau im 90Grad Winkel das Display betrachten, um alles erkennen zu können. Sowohl horizontal sowie vertikal ist das Display nicht mehr zu erkennen, wenn man zB in der Uni nebenan sitzt.
+Was ich nicht getestet habe ist das Laufwerk, habe ich nicht gebraucht. Ich unterstelle einfach mal dass es seinen Job tut, ist schließlich nur ein Standard Laufwerk. Die mitgelieferten HP-Features/Programme haben mich auch nicht interessiert (Easyprint, kleine Spiele etc, für mich ist das nur sinnfreie Bloatware -> Zugute halten muss ich dass sich der Krempel leicht deinstallieren lässt).
+Kurzes Fazit: Für simple Ansprüche kann das Gerät durchaus geeignet sein, ist dafür meines Erachtens jedoch etwas zu teuer. Ein Multitasking-Profi ist das Gerät bei weitem nicht, man sollte nicht erwarten dem Notebook viele Aufgaben gleichzeitig zumuten zu können, ohne dass es etwas langsam wird. Wer jedoch seine Bilder dort ansehen will und zwischendurch oder auf Reisen Emails checken und hin und wieder auf youtube gucken will, für den könnte dieses Notebook genau das richtige sein. Man muss sich nur überlegen ob es sich lohnt 400€ auszugeben.
+Alles in allem hätte ich mir gewünscht, dass das Notebook bei anspruchsvolleren Aufgaben und beim Nutzen mehrerer Programme gleichzeitig flüssiger laufen würde. Daher nur 3 Sterne von mir.
+Info: Diese Rezension bezieht sich auf das 64GB/4GB Modell.
+An und für sich ein schnelles Tablet mit guter Ausstattung (Win10, Tastatur) für einen vergleichsweise geringen Preis.
+Allerdings ist die W-Lan Stabilität absolut katastrophal.
+Ich habe erfolglos mit sämtlichen mir bekannten Treibern, Energiespareinstellungen sowie Routern (drei Stk.) experimentiert - leider immer wieder mit Verbindungsabbrüchen (die bei anderen Geräten im Netzwerk nicht auftreten).
+Dabei ist es völlig egal wie nahe der Router steht bzw. ob 2,4 oder 5 Ghz verwendet wird.
+Die einzige Veränderung die ich feststellen konnte war, dass nach dem letzten Treiberupdate, bei einem Verbindungsabbruch keine Neuanmeldung am Netzwerk mehr nötig war.
+Eine Verwendung, die eine stabile Netzwerkverbindung zum Lan oder Internet voraussetzt ist somit nicht bzw. nur mit externen Geräten (z.B. USB-Ethernet-Adapter oder USB-W-Lan-Adapter) möglich.
+Somit kann ich das Tablet jedem empfehlen, der keine Verwendung im W-Lan vorsieht.
+Die drei Sterne ergeben sich aus meinem Gesamteindruck von vier Sternen minus einem Stern für den Mangel.
+Da der Zeitraum für eine Rückgabe bei meinem Gerät schon überschritten ist, würde ich mich über diesen Weg auf eine Kontaktaufnahme seitens TrekStor freuen.
+Mit freundlichen Grüßen
+David Steiner
+Ich hinterlasse hier mal eine neutrale 3-Sterne-Bewertung weil ich auf ein paar Probleme mit dem Gerät hinweisen möchte, das für andere Leute vielleicht trotzdem keine schlechte Wahl ist.
+Das Surftab Twin 11.6 macht eigentlich einen guten Eindruck und ist sicher für viele Leute ausreichend, die nur gelegentlich damit ein bischen im Internet surfen wollen. Display und Tastatur sind gar nicht übel für den Preis und es steht genügend Prozessorleistung auch für anspruchsvollere Aufgaben zur Verfügung. Allerdings unter Umständen nicht lange:
+- Ab ca. 25% CPU-Last kann das mitgelieferte Ladegerät den Akku nicht mehr während des Betriebs laden. Das heisst, dass z.B. stundenlanges Video gucken selbst bei angeschlossenem Ladegerät den Akku entlädt. Da der Akku nicht austauschbar ist hat das auch Auswirkungen auf die Lebensdauer des Gerätes - anstatt den Akku im "stationären" Betrieb auf einer gesunden Volladung zu halten, wird dieser öfter als bei anderen Geräten entladen. Die typische Lebensdauer eines LiPo-Akkus von 500-1000 Ladezyklen wird so natürlich auch schneller erreicht. Danach kann man das Surftab leider nur noch entsorgen, fest eingebaute, nicht wechselbare Akkus werden leider inwzischen zum umweltfeindlichen Standard, hier wird der Verschleiss zusätzlich noch auf die Spitze getrieben.
+Ich habe das Gerät z.B. für den Betrieb eines SDR ("Software Defined Radio") angeschafft, wobei das Radio typischerweise die meiste Zeit des Tages laufen soll. Das ist mit diesem Gerät nicht möglich, da es bei dieser Anwendung nicht mehr geladen wird. Wer also irgend einen ähnlichen Spezialzweck damit erfüllen will oder einfach ein dauersurfender YouTube-Junkie mit Netflix-Account o.Ä. ist wird nicht lange Freude mit dem Teil haben.
+- Auch wenn's schon in ein paar anderen Rezensionen steht - ich bestätige hiermit: das Trackpad ist Mist! Träge, mit Verzögerung, unpräzise und oft reagiert es einfach nicht. Liegtam Trackpad und nicht am restlichen Gerät, mit einer angeschlossenen Maus geht alles wie gewohnt.
+- Steht auch schon in den anderen Rezensionen, der Softwaremüll auf dem Surftab ist erheblich. Leider kann man manches davon nur unter grösseren Schwierigkeiten entfernen, z.B. die mMn miese McAffee Anti-Malwarelösung mit kostenpflichtigem Abo. .NET 3.5 liess sich bei mir nicht installieren, die Fehlerbehebung war wegen der abgespeckten Windows 10 Home und dem deshalb fehlenden Group Policy Editor erstmal nicht möglich, warum da überhaupt ein 32-Bit Betriebssystem drauf ist ist mir auch ein Rätsel, allerdings könnte man so richtig doll von 64 Bit nicht profitieren, denn...
+- Der Arbeitsspeicher ist mit 2GB sehr knapp bemessen und schlicht nicht erweiterbar.
+Wie gesagt, das alles betrifft einige Käufer wahrscheinlich gar nicht, ich wollte hier nur Leute warnen, die vielleicht daran denken das Trekstor-Tablet wie jeden anderen Laptop verwenden zu wollen. Für Gelegenheitssurfer, die Grosseltern oder andere Normalanwender finde ich das Ding aber gar nicht mal schlecht.
+Nach der dritten Ersatzlieferung kann ich sagen, dass die Tastatur inkl. Maus-Touchpad unbrauchbar ist. Beim Schreiben mit der Kastatur springt der Curser unkontrolliert in andere Zeilen. Zudem lässt sich der Mauszeiger mit dem Touchpad nicht präzise steuern. D. h. der Zeiger verspringt. Auch von einem Gerät, welches 250€ Euro kostet, erwarte ich mir eine funktionierende Tastatur mit Touchpad. Daher ging auch das dritte Gerät zurück. Werde jetzt etwas mehr Geld investieren.
+Ich bin sehr überrascht, gutes preis-leistungs Verhältnis. Meine Frau ist zufrieden. Über die Qualität auf längere Zeit gesehen kann ich noch nichts sagen.Das projezieren auf den Fernseher mittels Miracast und auch über Hdmi funktioniert nicht richtig , es ruckelt immer zu .Schade sonst ist es ein gutes Gerät.
+Der lenovo mix310 hat ansich eine gute Qualität schöne stabile verarbeitung es fehlt jedoch der produkt key für windows 10,schade bin etwas enttäuscht
+Habe mir das Miix 310-10ICR mit 4GB Arbeitsspeicher und 64 GB Festplatte zugelegt. Ich bin soweit ganz zufrieden, allerdings habe ich, so wie offensichtlich viele andere auch, ein Problem mit der Erkennung der Micro-SD Karte. Ich habe eine SanDisk Ultra 64GB SDXC1 im Einsatz. Mal wird sie erkannt und mal nicht. Nach dem Auswerfen und wieder einsetzen wird sie wieder erkannt. Äußerst lästig dabei ist nur, dass man laut Herstellervorgabe in der Bedienungsanleitung vorher immer erst den PC herunterfahren und ausschalten muss weil es sonst zu einer Beschädigung des Kartenlesegeräts kommen kann. Ansonsten ist das Teil nicht der Überflieger aber als Zweitgerät ganz ok.
+Schade, leider einen ganzen Tag vergeudet, um den PC als Nachfolger für mein Toshiba 9-Zoll-Gerät einzurichten.
+Zwar hat das Teil doppelt soviel RAM und eMMC-Speicher wie das o.a. Vorgängermodell, aber das war es auch schon.
+Das Display (extra das Full-HD bestellt) ist dem Toshiba zwar ebenbürtig, aber liebe LENOVO-Entwickler, was habt
+ihr da aus dem Hut gezaubert ? KEIN SD-Kartenschacht, zwei fummelige USB-Ports am Tastaturdock und da liegt der
+Knackpunkt. Externe Laufwerke über diese Ports anschließen ? Externes DVD-Laufwerk - nada ! Noch zu verkraften, aber
+eine externe 2,5 Zoll-Platte (WD Passport) - die läuft gar nicht erst an, sondern klackert munter vor sich hin.
+Ohne diese Anschlussmöglichkeiten ist das ganze Gerät für mich wertlos und geht leider wieder zurück.
+Noch ein Punkt - die Online-Registrierung bei LENOVO klappt, allerdings musste ich nach dem Check der Ser.Nr. lesen,
+dass danach die Garantie bereits am 27.12.2017 abläuft, obwohl ich das Teil erst am 4.1. bestellt habe.
+Ich hatte mich zuvor noch über einen Einleger im Karton gefreut, dass die Garantie 2 Jahre betragen sollte - das Ganze
+wird aber dann doch eingeschränkt und die Überprüfung funktioniert nicht, weil der angegebene Link ins Leere läuft.
+Schade - das Teil hat seine positiven Ansätze, ist aber letztendlich für mich nicht nutzbar
+Da mein recht alter HP Pavillion leider in die Luft gegangen ist und ich ein Ersatznotebook brauchte, habe ich mich kurzerhand für dieses entschieden. Erstmal zu den positiven Dingen. Das Notebook sieht wirklich genial aus, ist toll verarbeitet, kühl sehr gut, hat genau die richtigen Anschlüsse die man braucht und eine gute Webcam. Das wars dann aber auch schon mit der Freude, denn das Notebook enttäuscht im Punkt Schnelligkeit auf ganzer Linie. Es ist extrem langsam, braucht teilweise 5-6 Sekunden um Google Chrome und ähnliche Anwendungen zu öffnen und der Prozessor ist quasi dauerhaft auf 100% ausgelastet. Das kann für meine Begriffe in der heutigen Zeit nicht mehr sein. Ich sehe hier allerdings nicht den Fehler bei HP direkt, ich vermute das es an Windows 10 liegt und er z.B. unter Windows 7 deutlich schneller laufen würde. Das selbe habe ich auch bei meinem alten Modell beobachtet. Zwar wollte ich nur ein zweites Notebook, allerdings ist er für mich auf der Geschwindigkeit vollkommen unbrauchbar. Was weiterhin negativ augefallen ist: Der Laptop ist zugemüllt mit HP Features die kein Mensch braucht, der Bildschirm wirkt verschwommen trotz hoher Auflösung und das Netzteil ist sehr kurz geraten. Ich kann dieses Produkt wirklich niemandem empfehlen, außer jemandem der es in einem Sale erwirbt und dann ein neues Betriebssystem aufspielt. Die Sterne gibt es lediglich für das Design und die gute Kühlung. Da es hier nicht viele Rezensionen gibt, stehe ich gerne für Fragen zur Verfügung.
+Das Laptop ist nur einfache Büroarbeit gedacht. Das klappt auch recht gut. Er ist halt recht langsam und man sollte keine allzu großen Daten verarbeiten wollen.
+Die Akkulaufzeit ist leider recht gering, wenn man aktiv mit dem Laptop arbeitet.
+Recht nervig ist das vorinstallierte Office-Paket, welches ständig fragt, ob man die Test-Version ausprobieren oder Office kaufen möchte.
+Das Gehäuse und die Verarbeitung sind in gewohnt guter HP-Qualität.
+Windows 10 Home fehlt, warte nach wie vor auf Feedback. Sonst entspricht das Gerät meinen Erwartungen, bin zufrieden
+Have fun
+Philipp
+Das erste Laptop hatte kein Video - Bildschirm immer schwarz. Ich konnte über HDMI ins TV schließen und den Computer benutzen, aber das ist natürlich nicht, was man von einem Laptop erwartet. Ein zweites wurde mir gesendet (sehr guter Kundendienst!), das immer zu viel CPU braucht. In ein paar Tage wurde das besser, aber im Vergleich zum ersten, hat der Computer immer mehr gearbeitet als der erste, selbst im "Leerlauf". Nach 3 Tage, indem ich beide getestet habe, kommt plötzlich Video im ersten Laptop! Es war wahrscheinlich ein Wackelkontakt, also Hardware Problem. Bei dem zweiten es scheint ein Software (Windows) Problem zu sein. Auf jeden Fall enttäuschend! Das zeigt, das bei Lenovo etwas in Qualitätskontrolle mangelt.
+Ich habe mich entschieden, eine Chance zu geben und das zweite Laptop zu behalten, hoffentlich passiert nichts mehr.
+Ansonsten, ist das Laptop ganz gut, leicht und macht das, was es verspricht.
+.
+Der Kleine kann im Grunde alles, was ein großer Laptop leisten kann (wenn er `s denn überhaupt kann), und er hat das Plus, zugleich ein Tablet zu sein. Das Gerät macht einen wertigen Eindruck, die Verarbeitung ist grundsätzlich gut bis auf das Aber – siehe unten. Unter Start im Order ASUS findet man ein ausführliches Benutzerhandbuch, auf das in der Kurzanleitung nicht hingewiesen wird.
+Über die Technik wurde schon viel gesagt, dazu nur soviel:
+-> Mit dem 4 GB RAM/1,44 GHz Atom ist das Teil recht flott,
+damit ruckelt und hängt nichts, auch nicht bei Spielen etc..
+-> Gerät arbeitet geräuschlos, nervige Systemsounds ausschalten hilft zusätzlich.
+-> Akku: Einschalten war irritierend - lange drücken, sonst kommt nur die Akkuanzeige.
+Der Akku war bei Lieferung halb geladen, in knapp zwei Stunden war er voll. Im Normalbetrieb hält er die angegebene Zeit durch.
+-> Speicher: erweiterbar durch microSD-Karte, was allerdings bei zwei Geräten nicht funktionierte,
+weil der Schacht die Karten zwar erkannte, aber trotz vieler Versuche nicht festhielt.
+-> Bildschirmauflösung: 1280 x 800 gestochen scharf, keine Pixel.
+-> Helligkeitseinstellung: superhelles Weiß ohne Blauschimmer, individuell regelbar, für Textbelichtung um 25 % ausreichend.
+-> Tabletmodus: drehbar um je 90° = 360 ° (senkrecht halten, 1-2 Sekunden Verzögerung).
+Der ausklappbare Aufsteller (die Griffmulden könnten etwas größer sein) ist dadurch im Querformat in beliebige Anstellwinkel zu bringen
+und die seitlichen Anschlüsse am Tablet sind dann auf der Seite, wo man sie ggf. besser gebrauchen kann.
+Die helle Tastatur könnte sich vom gleichfarbigen Untergrund etwas besser abheben.
+-> Lautsprecher: laut und top.
+Software
+-> Win 10 Home/64 bit - ohne großen Schnickschnack installiert,
+trotzdem nicht für jeden notwendige Apps vorhanden, die sich nicht deinstallieren lassen.
+-> Für Text-, Tabellen, Grafik- etc. -verarbeitung Office mobile installiert – online, Konto erforderlich (andere Variante gab es noch nicht).
+Ich nutze seit Jahren stets Freeware, funktioniert bestens.
+-> Bildschirmtastaturen - drei Varianten der Tastenstellung: eng/wie Normaltastatur, weit/“entschlackt“, rechts/links geteilt.
+Auf letzteren zwei ist nirgendwo ein „ß“ vorhanden trotz deutscher QWERZ.
+Gerade im Hochformat mit mehr einsichtigem Text wäre die weite Tastatur praktischer,
+da die Tasten nicht so schmal wie bei der engen werden.
+Laut Asus-Support stammen die Tastaturen von Microsoft, Asus könne daran nichts ändern!
+Fazit:
+An und für sich ist das Gerät für daheim und unterwegs ideal und empfehlenswert. Für Arbeiten, die nebenher geöffnete Dateien benötigen, wäre ein großes Notbook indes besser geeignet. Ohne die vermeidbaren Macken - infolge zwei teure Neugeräte retour - hätte es wohl den Bestwert verdient, so jedoch gibt es nur drei Sterne:
+-> SD-Schacht-Problem (ggf. zu fummelig)
+-> zwei mangelhafte Bildschirmtastaturen
+-> viel zu kurzes Ladekabel (ca. 85 cm), arbeiten mit Netzanschluss kaum möglich
+-> bedingt negativ: fehlender Pen
+Wer nicht unbedingt hochpräzise Arbeiten ausführen will oder muss, für den kann ein simpler Eingabestift ausreichend sein.
+Einfach probieren! Mein billiger Kombi-Pen von Tchibo, der ab und zu für den Paperwhite genutzt wird, tut es auch.
+Btw.: Die Farbbeschreibung „weiß/gold“ ist nicht korrekt, richtig wäre cremeweiß/beige wie in der Abbildung, sieht trotzdem gut aus.
+Leider gibt es zu dieser Farbkombination kaum passende Accessoires, wie überhaupt zu fast allem, was nicht gerade xxx heißt.
+Also ich habe seit Beginn das Problem, dass das Gerät von Kleinigkeiten, wie einem Video auf YouTube überlastet ist (habe verschiedene Browser probiert und die Prozessor Auslastung war nahezu permanent über 70% und häufig bei 100%). Das Gerät stürzt dann nach kurzer Überlastungsdauer mit dem bluescreen irql_not_less_or_equal ab. Habe verschiedene Einstellungen ausprobiert und alle Treiber gecheckt und das System schon einmal zurück gesetzt. Werde es jetzt nochmal zurück setzen und wenn es dann nicht besser ist, muss ich es zurückschicken. Sehr schade weil ansonsten gefällt es mir super.
+Hat villt noch jemand das Problem gehabt?
+Hab mich für das Asus t102ha entschieden da ich den Kickstand sehr gut fande, es einen USB Anschluß in "normaler" größe hat, 4GB RAM und es laut Test gute Lautsprecher haben sollte, da die Hauptnutzung für mich Surfen und Streamen (SkyGo, Prime) sind. Was mich allerdings störte bzw. vom Kauf zuerst abhielt war die geringe Auflösung von nur 1280x800. Aber nach längerem überlegen hab ich es trotzdem gekauft. Zwar nicht hier sondern beim Planeten mit dem Ring, da es dort günstiger war.
+Das Gerät an sich ist super verarbeitet, fühlt sich edel an, da es nicht aus Plastik besteht sondern aus Metall. Es ist trotzdem relativ leicht in der Hand. Der Kickstand machte auf den ersten Eindruck zwar nicht den allerstabilsten Eindruck, aber ist trotzdem völlig Ok.
+Beim Einschalten und dem Einrichten, war die schlechte Auflösung deutlich sichtbar und der erste Dämpfer für mich. Meine Kinder haben ein 7 Zoll Tablet mit der gleichen Auflösung und da ist das vollkommend ausreichend. Aber bei diesen 10 Zoll, dass das Tablet hat ist das einfach zu wenig. Es ist jetzt nicht alles grob Pixelig aber vorallem bei der Schrift ist alles leicht ausgefranst und "unscharf". Vorallem wenn die Schrift recht klein ist. Beim surfen im Hochformat fiel es deutlich auf. Ab einer bestimmten größe der Schrift ist die Darstellung wiederum Ok. Bei Bildern und Videos im Vollbild ist das Bild auch OK und relativ scharf.
+Das surfen (Edge) war der nächste Dämpfer. Es war ziemlich träge. Ich hab jetzt wirklich nicht erwartet das es genauso schnell ist wie mein Laptop mit nem i7, aber wenigstens schneller bzw. genauso schnell wie mein 2 Jahre altes Lumia 830. Der Seitenaufbau dauerte einfach und zwar zeitweise echt nervig. An meinem Wlan lag es nicht, da alle anderen Geräte nicht dieses Problem haben. Vorallem bei 2,3 Tabs ging zeitweise gar nichts mehr. Hab dann öfters entnervt auf das X zum beenden getippt und nichts ist passiert. Erst beim 3, 4 mal schloss sich der Browser. Am Touchscreen lag es sicherlich nicht, da dieser immer sehr gut reagierte, aber dieser Atom x5 ist leider sehr schnell überfordert. Ich hatte mir letztes Jahr das "Volkstablet" gekauft und hab es zurückgegeben, da es einfach zu langsam war. Ich dachte es liegt vorallem an den 2GB RAM da dies schon sehr knapp ist für Windows. Aber die 4GB habe ich überhaupt nicht gespürt.
+Auch bei SkyGo dauerte das Laden der Videos und z.B. beim vorspringen im Video hatte ich lange immer nur ein Standbild, bis es weiterging. Es machte mir einfach keinen Spaß mit dem Gerät zu "Arbeiten" und schickte es zurück. Hab mir statdessen das Samsung Tab A 10.1 gekauft. Ich wollte mir nie ein Android kaufen, sondern immer ein Windows Tablet, aber nach mehreren Fehlschlägen mit Windows Tablets bin ich jetzt doch eingeknickt.
+Wer das Tablet zum normalen Arbeiten braucht, Word, Exel und Co. oder für die Uni zum mitschreiben dann ist es vieleicht aussreichend. Wobei mir persönlich auf Dauer die unscharfe Schrift stören würde und der Preis. 349€ finde ich für das Preis/Leistungverhältnis einfach viel zu teuer. Da gibt es genügend günstigere Geräte mit der gleichen Leistung.
+PS: Das Zurücksetzen des Tablets hat über 2 Stunden gedauert... Das macht mein Laptop in 20min. Soviel zur Leistung.
+POSITIV
++Optik
++Verarbeitung
++Kickstand
++Vollwertiger USB 3.0 Anschuß
++Lautsprecher (Laut und Klar) - (aber kein Dolby und fette Bässe erwarten ;-) )
++ Akku ca.9 Stunden (allerdings darf die Bildschirmhelligkeit max. 25% betragen, bei 50% und mehr deutlich kürzer)
+NEUTRAL
+o Keyboard (so gut wie nicht benutzt)
+o Fingerprint (nicht benutzt)
+NEGATIV
+- Geschwindigkeit (Atom x5 einfach zu schwach auf der Brust)
+- trotz 4 GB RAM kein Mehrwert
+- Auflösung (bei 10 Zoll in der heutigen Zeit muss, vorallem bei dem Preis, Full HD Standart sein)
+Habe sehr lange auf das schöne Gerät gewartet, ist auch eigentlich als mein Weihnachtsgeschenk zum Studium gedacht. Allerdings mussten wir nun beim auspacken des Pakets feststellen, dass die Aussparung für den Asus Pen leer ist, der Stift fehlt also. Werden deswegen den Artikel zurücksenden, hoffe, der Ersatz kommt noch rechtzeitig zu Weihnachten an. Dennoch ein sehr hübsches Tablet/ Laptop, sehr handlich, schick und leicht.
+Ich habe dieses Gerät nicht über Amazon gekauft sondern von einem bekannten Elektro Laden.
+Da ich dieses Gerät eher für die Uni benutze bringt es einen Vorteil mit sich mit, dass man es gut transportieren kann. Es wiegt ja nicht besonders viel und nimmt auch nicht viel Platz ein.
+Es ist ganz cool, dass man es als Laptop oder als Tablet benutzen kann.
+Jedoch ist das Gerät mit seinen 10,1 Zoll ein bisschen zu klein für mich (als Brillenträgerin). Die Schrift ist sehr oft zu klein und ich muss ran zoomen damit es lesbar ist. Deswegen kann man sagen, dass man lange Texte nicht damit verfassen kann. Für meine Augen ist das Display auf der untersten Stufe viel zu hell und kriege wenn ich Abends dran bin und Licht an habe schnell Kopfschmerzen.
+Zudem muss ich noch sagen, dass dieser Laptop/ Tablet oft hängt und man immer wieder neustarten muss damit es wieder ordnungsgemäß funktioniert.
+Aus diesem Grund gibt es von mir nur 3 Sterne.
+Preis- Leistung ist sehr gut aber der Lüfter ist extrem laut und läuft sehr oft in einem hohen Ton.... Ich habe den Laptop wieder zurück geschickt wegen dem Lüfter!
+Ich habe dieses Laptop für den Gebrauch in der Uni und zum Streaming von Filmen und Serien gekauft.
+Ersteres erledigt das Gerät ohne Probleme. Dabei handelt es sich in erster Linie um Recherche und Schreiben.
+Soweit nichts auszusetzen.
+Auch sonst ist es ein für den Preis leichtes, schickes Laptop mit einer ordentlichen Akkulaufzeit.
+Beim Kauf war mir wichtig, dass der Laptop einen Full-HD Bildschirm hat, um besagte Filme und Serien auf Busfahrten zu streamen. Da eine Variante mit Full-HD teurer ist, dachte ich mir, dass der günstigere AMD-Prozessor an Stelle eines Intel-Prozessor schon reichen würde. Scheinbar reicht die Leistung jedoch nicht zur Wiedergabe von Full-HD. Der Prozessor kommt an seine Grenzen und die Wiedergabe ruckelt, sei es im Browser mit dem Flashplayer, mit VLC oder dem Windows Media-Player. 720p läuft gerade so bei nahezu maximaler Prozessorauslastung.
+Ich hätte nicht erwartet, dass man ein Laptop mit Full-HD Bildschirm kaufen kann, das nicht in der Lage ist Full-HD vernünftig wiederzugeben.
+Hinterher ist man immer schlauer. Beim nächsten mal werde ich drauf achten.
+Meine Erwartung an dieses Gerät war, dass es ein solider Begleiter für den Uni-Alltag ist, mit dem man problemlos alltägliche Dinge tun kann. Dazu gehören bei mir: Videos im Internet schauen, Dateien bearbeiten und ansehen, surfen, recherchieren etc.. Spielen gehört nicht (!) dazu, das kann man wirklich nicht erwarten bei diesem günstigen Preis. Ich habe das Gerät nur wenige Tage genutzt, daher kann ich keine Aussagen über die Performance über mehrere Wochen treffen. Das ist aber auch nicht nötig, da ich bereits jetzt entschieden habe, das Gerät zurückzusenden und mir lieber später ein besseres Notebook zu kaufen.
+Leider konnte das Gerät diese Erwartung nicht gut erfüllen - Bereits bei 2 oder 3 geöffneten Tabs fängt das Gerät und die Websites an zu ruckeln und ist/sind langsam. Dasselbe beim Einstellen von Dingen im Explorer. Auch hier ruckelt es recht stark und ein flüssiges Erlebnis ist zu kaum einer Zeit möglich. Dazu muss jedoch gesagt werden, dass ich recht hohe Ansprüche an sowas habe, daher kann es sein dass andere Leute nichts an diesem Laptop auszusetzen haben bzw. sich nicht an dem gelegentlichen Stockern stören. Für 399€ ist mir die Leistung jedoch nicht gut genug. Da habe ich bereits für 299€ oder noch weniger ähnlich gute Geräte gefunden. Ebenfalls von HP, wohlbemerkt.
+Positives gibt es jedoch auch: Die Verarbeitung wirkt trotz viel Plastik recht hochwertig, lediglich die Tasten sitzen etwas locker, ist aber bei Laptops generell so, zumindest in der Preisklasse. Die Akkuleistung erfüllt außerdem die Herstellerangaben recht gut. Ich kam gut über einen Tag, wo der Laptop den ganzen Tag im Standby-Modus war wenn er nicht genutzt wurde. Aktive Nutzung etwa 3,5h. Außerdem positiv: Die Multifunktionstasten für Lautstärke +/- , Nächster/Voriger Song etc sind auf den F-Tasten und funktionieren top. Hier können sich einige Gamer-Tastaturen was bei abgucken, die funktionieren teilweise nicht so gut. Das Tastaturlayout ist außerdem gut, keine Taste ist zu winzig.
+Neutral bewerte ich das Display: Die HD-Auflösung ist ja in diesem Segment der Standard. Die Farbdarstellung ist schön und fehlerhafte Pixel oder Ähnliches habe ich nicht gefunden. Insofern alles top. Die Blickwinkelstabilität gefällt mir allerdings nicht, man muss schon fast genau im 90Grad Winkel das Display betrachten, um alles erkennen zu können. Sowohl horizontal sowie vertikal ist das Display nicht mehr zu erkennen, wenn man zB in der Uni nebenan sitzt.
+Was ich nicht getestet habe ist das Laufwerk, habe ich nicht gebraucht. Ich unterstelle einfach mal dass es seinen Job tut, ist schließlich nur ein Standard Laufwerk. Die mitgelieferten HP-Features/Programme haben mich auch nicht interessiert (Easyprint, kleine Spiele etc, für mich ist das nur sinnfreie Bloatware -> Zugute halten muss ich dass sich der Krempel leicht deinstallieren lässt).
+Kurzes Fazit: Für simple Ansprüche kann das Gerät durchaus geeignet sein, ist dafür meines Erachtens jedoch etwas zu teuer. Ein Multitasking-Profi ist das Gerät bei weitem nicht, man sollte nicht erwarten dem Notebook viele Aufgaben gleichzeitig zumuten zu können, ohne dass es etwas langsam wird. Wer jedoch seine Bilder dort ansehen will und zwischendurch oder auf Reisen Emails checken und hin und wieder auf youtube gucken will, für den könnte dieses Notebook genau das richtige sein. Man muss sich nur überlegen ob es sich lohnt 400€ auszugeben.
+Alles in allem hätte ich mir gewünscht, dass das Notebook bei anspruchsvolleren Aufgaben und beim Nutzen mehrerer Programme gleichzeitig flüssiger laufen würde. Daher nur 3 Sterne von mir.
+ich habe mir das yoga book als ersatz für ein notebook auf reisen besorgt.
+qualität entspricht meinen erwartungen und auch die leistung ist ok.
+leider gibt es zwei punkte, die mich stören:
+1. die tastatur ist keine richtige und auch wenn es ein vibrieren beim drücken der touch-tastatur gibt ist es nicht das gleiche. außerdem geht die beleuchtung aus, wenn man länger nichts gedrückt, was dazu führt, dass man erst einmal blind drückt.
+2. der einzige usb anschluss ist der micro usb anschluss was viel zu wenig ist.
+wen beides nicht stört - empfehlung
+für alle anderen - lieber surface pro 4 nehmen
+Größter Nachteil: nur ein einziger USB-Anschluss. Und der wird zum Laden des Gerätes benötigt. Bislang habe ich keinen Adapter gefunden, der gleichzeitiges Laden und OTG unterstützt.
+Ansonsten: Trotz 4-Kern-Prozessor ist das Windows 10 reichlich träge. Allerdings weiß ich nicht, ob das nicht vielleicht einfach normal für Windows ist. Ich nutze schon seit vielen Jahren Linux und bin von dort sofortige Reaktionen, bzw. Rückmeldungen gewohnt. Auch die Verbindung mit einem WLAN dauert für mein Gefühl ewig. In der Zeit haben meine Linux-Geräte die Verbindung drei Mal hergestellt. Aber wie gesagt: das kann durchaus an Windows liegen.
+Ich habe nun seit knapp 1 Monat das Windows 10 Yoga Book und habe kaum Grund mich zu beschweren. Die Verarbeitung ist hochwertig, die Bedienung mit dem Stift funktioniert tadellos. Prozessor, RAM und GPU sind für Officetätigkeiten ausreichend.
+Bemängeln kann man nur die Treiber-/Updatepolitik von Lenovo:
+Bei Erhalt wurde das Yoga Book eingerichtet, aktuelle Treiber und BIOS wurden installiert. Allerdings konnte ich dann das Gerät nicht mehr aus dem Sleep holen nachdem es zugeklappt wurde, der Bildschirm blieb schwarz. Es half nur langes Drücken des Auschschalters, also ein Reboot des OS. Nach einigen Recherchen im Internet eine etwas ältere Treibergarnitur installiert, einige Einstellungen (Akku/Standby) von Windows 10 geändert und siehe da, alles lief. Allerdings nicht immer... Es kommt immer noch vor, dass das Yoga Book nach einem Sleep nicht aufwacht und man zum drastischen Mittel des Ausschaltens greifen muss. Das ist insofern lästig, als dass ich mir das Convertible zum schnellen Bearbeiten von Dokumenten angeschafft habe und ein Neustart gegenüber einem einfachen Aufwecken doch sehr viel Zeit in Anspruch nimmt.
+Dieses Problem ist Lenovo nicht unbekannt, auch beim Thinkpad tritt das auf (ich verweise auf das Supportforum von Lenovo), allerdings gibt Lenovo selbst dazu (zumindest im Forum) kein Statement ab bzw. leistet hier auch keine Hilfe.
+Mir gefallen gut:
+Design, Idee, Stift, vollwertiges Betriebssystem
+Kritikpunkte:
+zu langsam z.B. beim Arbeiten mit Office, macht manchmal Zicken und ist daher nicht immer zuverlässig, nicht unbedingt ein Schnäppchen
+--> Vielleicht auf ein eventuell leistungsstärkeres Nachfolgeprodukt warten?
+Version: Win10 mit WLAN
+Die Technik ist erstmal erstaunlich, z.B. die Tastatur, die beim Umklappen ausgeht. Allerdings gibt es einzelne Schwächen im alltäglichen Gebrauch, die es etwas unpraktisch machen. Dazu mehr in deneinzelnen Punkten:
+Akku:
+Von ganz leer zu komplett geladen dauert ein Ladezyklus bei mir 3,5 Stunden.
+Die versprochenen bis zu 13 Stunden erreiche ich bei weitem nicht. Wenn ich nur schreibe/ male und im Internet surfe komme ich maximal auf 8 Stunden. Wenn ich Video gucke, Internet nutze und App-Spiele spiele, welche mehr Akku kosten, komme ich auf gerade mal 3-4 Stunden.
+Unterwegs bei einer Veranstaltung damit arbeiten und dann auf der Reise etwas Video schaun oder Spielen wird so ohne Ladekabel knapp.
+Inbetriebnahme:
+Win10 typischer Start. Erste Anmeldung und einzelne Einstellungen vornehmen, dann kann es losgehen. Ich brauche immer etwas länger um alle "an Microsoft senden" Punkte zu deaktivieren.
+Performance:
+Intel Atom x5-Z8550, bei 4 GB Arbeitsspeicher und 64 GB interner Speicher - erscheinen erstmal gut. Doch beim Nutzen wird es holprig. Beim Öffnen mancher App (bei mir Firefox z.B.) braucht er so lange, dass ich teilweise schon gedacht habe, ich hätte nicht richtig getippt. Bei Ordnern ist er schneller. Wenn dazu mehrere Funktionen (Musik/ Video, Schreiben, Browser) wird er zusätzlich etwas langsamer. Das ist manchmal ein wenig nervig.
+WLAN:
+auch die WLAN-Verbindung ist etwas langsamer als alle anderen meiner Geräte am selben Standort. Manchmal brauchen die Seiten ungewöhnlich lange, was zufällig - also nicht immer bei speziefischen Seiten passiert. Die Datenübermittlung über ein Heimnetzwerk hat funktioniert (ins passende Menü kommt man mit Rechtsklick aufs "Start-Kachelsymbol"), war aber auch etwas langsame, logisch.
+Anschlüsse:
+Man kann eine Micro-SD mit bis zu 128 GB einlegen. Über einen Micro-USB wird er geladen und dazu gibt es noch einen Mini-HDMI-Port.
+Abgesehen vom Laden nutze ich diese nicht. Zum Datenaustausch nutze ich ein Heimnetzwerk.
+Andere Naschlüsse sind bei der Dünnheit des Geräts auch nicht möglich.
+Touchscreen:
+Die meiste Zeit funktioniert der Touchscreen gut und zuverlässig. Dann wieder hat er Phasen, wo die Stelle, die mein Finger berührt nicht als Klick genommen wird und ich bis zu 4x (!) an der selben Stelle klicken muss, damit es funktioniert. Ähnliches beim Wisch-Scrollen. Zumeist funktioniert es, aber manchmal muss ich auch da 3-4x das Bild hochwischen, bis es reagiert. Diese Funktionsverzögerungen kommen unregelmäßig und nicht immer bei den selben Anwendungen. Ich würde mal grob sagen, alle 3 Stunden tritt beides einmal auf. Der Pen funktioniert übrigens nicht auf dem Display.
+Tastatur:
+> Die Tastatur reagiert gut und es werden immer die Buchstaben oder Großschreibung (gedrückt halten während man den Buchstaben antippt) erkannt, so wie ich sie antippe. Es ist etwas ungewohnt darauf zu schreiben - spürt man ja auch logischerweise vor dem Antippen die Tasten nicht und muss hinschauen zum Tippen - ich zumindest. Vielleicht braucht es da auch einfach noch etwas Übung. Wen man möchte kann man aber auch die Bildschirmtatstatür aufpoppen lassen und diese nutzen.
+Auf beiden Tastaturen befinden sich "Ä,Ü und Ö". Es ist die QWERTZ-Tastatur-Anordnung.
+> Der Tastenwiederstand ertaunt mich besonders. Allerdings nervt das Gebrumme die Umgebung. Austellbar ist es nur über die Systemsteuerrung (rechtsklick auf Start) nicht über das Schnellmenü. Dann "Darstellung und Anpassung" zu "Halo Keyboard".
+> Beeindruckt bin ich auch davon, dass die Tastatur automatisch ausblendet, wenn ich sie nach hinten umklappe. Allerdings reagiert dann manchmal noch die Taste für den Pen und "OneNote" poppt unten am Bildschirm auf, wenn ich zufällig mit meinem Arm (das Tablet so haltend) dran komme.
+> Etwas störend finde ich das Touchpad, da es recht klein und logischerweise nicht begrenzt ist. Daher komme ich alle Nase lang an die Leertaste und löse deren Funktion aus (z.B. springt die Ansicht einer Internetseite dann plötzlich tiefer). Wenn ich die Tastatur benutze (um z.B. eine Webadresse einzutippen) muss ich wieder auf den Punkt in der Mitte tippen, damit es überhaubt reagiert - das ist ebenfalls gewöhnungbesürftig. Laut Handbuch dürfte bei Tastaturnutzung eigentlich nur der Seiteliche Bereich (linke und rechte Maustaste) gesperrt sein, aber die Fläche geht bei mir dann erstmal auch nicht.
+Pen-Nutzung:
+Ich habe zuvor schon mit einem Wacom Bamboo-Zeichentablet gearbeitet, so dass mir das nicht allzu unbekannt war. Das Schreiben versetzt zu dem, wo dann das Geschriebene auftaucht (so man nicht die Kugelschreibermine nutzt) ist gewöhnungsbedürftig, aber mit etwas Übung möglich. Das Zeichnen sicherlich auch - liegt mir aber deutlich weniger. Ich hatte da aber schon immer Schwierigkeiten mit, nicht da zu zeichnen, wo das Bild entsteht.
+Für die Notizen steht "OneNote" zu Verfügung, welches nur mit Microsoft-Konto nutzbar ist. Dort werden Notizen direkt gespeichert und können über "Drucken" als PDF gespeichert werden.
+Für das Zeichenprogramm gibt es eine kostenlose Probeversion mit der man etwas malen kann.
+Wenn ich sehr schnell zeichne - besonders bei Schattierungen bei Bleistiftzeichnung - zeichne ich schneller als das Programm reagiert. Es zeichnet dann auf dem Bildschirm mit Verzögerung. So sehe ich erst verspätet, was und wie mein zeichnen sich im Bild auswirkt, was den Zeichenfluss stört. Bei langsamem Zeichnen gibt es keine Verzögerungen. Es wird das abgebildet, was ich auch zeichne.
+Beim Schreiben ist es so, dass manchmal - auch hier nicht immer - die Buchtaben auf dem Papier von den Buchstaben auf dem Bildschirm abweichen. So sah einmal mein deutlich geschriebenes "N" auf dem Bildschirm wie ein krakeliges "U" aus. Auch die Buchstabenabstände sind nicht eins-zu-eins zwischen Papier und Bildschirmversion. das ist nicht die Welt, aber wichtig zu wissen.
+Ich kann auf dem Zeichenfeld meinen Handballen ablegen - auch Fingerbewegungen darauf werden nicht erkannt und stören so nicht.
+Praktikabilität:
+Man kann den Pen nicht an dem Gerät verstauen oder anheften oder ähnliches und muss ihn immer extra mit sich führen. Das Papier ist auch durch normales Papier austauschbar, was aber auch extra verstaut werden muss. Das liegt in der Sache der Dinge - sonst würde die schmale Linie nicht fubktionieren, aber es macht das spontane Notizenmachen etwas unhandlicher. Ich persönlich habe die Tendenz, unterwegs nie den Stift rauszukramen, weil es mir zu umständlich erscheint - obwohl vorher so gedacht.
+Bild:
+Auflösung 1920 x 1200 sieht ordentlih aus. Das Schwarz ist tief und deutlich, Kontraste gut. Die Farben haben eher eine Tendenz zu leuchtend zu sein, ich finde das hübsch.
+Der Bildschirm spiegelt schon etwas - draußen bei Sonnenschein sieht man nichtmehr wirklich etwas. Das Licht vom Fenster, wenn es direkt daraufscheint, zeigt die Touchscreen-Fingerabdrücke deutlich.
+Ton:
+Der Ton ist gut - wie erwartet. etwas spannend ist es, dass natürlich der Ton je nach Position des Bildschirms zur Tastaturfläche anders ausgestrahlt wird und manchmal zu mir hin und manchmal eher von mir weg geht. Beim Videoschauen z.B. mag ich es, wenn es wie ein Zelt steht, dann geht der Ton aber nach hinten. Am besten klingt es, wenn es wie ein Laptop steht.
+Standby:
+Der Standby-Modus lässt sich nicht durch Antippen des Bildschirms reaktivieren sondern man muss sie Powe-Taste gedrückt halten - kurz Drücken hätte mir besser gefallen. Man kann es auch Schlafenlegen indem man es zuklappt und aufwecken durch Aufklappen (wenn es recht lange zugeklappt ist musste ich zusätzlich den Powerknopf drücken)
+Betriebssysteme:
+Ich habe die Win10 Version. Ich sehe beim Start nicht den normalen Zugang ins BIOS und denkem es ist auch mit Pen und Tastatur -Abstimmungen nicht vorgesehen, ein eigenes Betriebssystem aufzuspielen oder damit zu starten.
+Handbuch:
+Ein winziges "Erste Schritte" befindet sich in Papierform dabei. Ein anderes kurzes, aber ausführlicheres als das Papierformat findet sich im Menü.
+Von dem Gerät bin ich sprachlos begeistert, dieses ganze hin und her mit dem Stylus ist total unberechtigt.
+Wahrscheinlich fand ein Update statt, welches das schreiben mit dem Stylus und die Handballenerkennung einfach optimal macht, es macht einen riesen Spaß damit zu schreiben. Die Spitze ist etwas weich, sodass der perfekte Widerstand beim schreiben herrscht.
+Lediglich der Service ist schlecht. Gerät wurde zwei mal bestellt, weil es beim ersten mal nicht ankam.
+Es wird ausdrücklich mit einer Möglichkeit an der Teilnahme an der Cash Back Aktion von Acer geworben, das stimmt aber leider nicht. Das Produkt wurde auf der Acer Plattform nicht aufgeführt.
+Die 4 GB Arbeitsspeicher sind leider nicht ausreichend. Schon bei gewöhnlichen Anwendungen kommt die Meldung, dass zu wenig Arbeitsspeicher zur Verfügung steht und die Programme werden geschlossen. Daher erfolgte die Rücksendung. Ansonsten ein gutes Gerät.
+Ich wollte seit langem ein Tablet mit Windows und Stift haben.
+Bei Android wird man leider immer noch sehr stark beschnitten, was die
+Funktionalität angeht. Um z.B. Netzlaufwerke zu mounten muss man
+bei Android root sein :-( und wenn man sein Tablet rooted dann wird man
+mit dem Verlust der Garantie bestraft.
+Bei Windows ist sowas kein Problem.
+Abgesehen davon gibt es momentan eh kein vernünftiges Android 10 Zoll Tablet
+mit einem Stift :-(
+So nun zum Acer Switch Alpha 12 und was mir bei diesem Tablet aufgefallen ist.
+Pro:
+- Superschnelle SSD
+- Das Tablet ist aufgrund der Flüssigkühlung absolut lautlos
+- Gutes Keyboard und Touchpad
+- Palmrejection funktioniert recht gut wenn mit dem Stift geschrieben wird.
+- Hohe Auflösung des Displays
+Contra:
+- Gewicht ca. 900g (Das ist schon was anderes als ein Galaxy Tab S2 zu halten)
+- Extrem spiegelndes Display
+- Sehr kurze Akkulaufzeit (nach 4 Stunden war der Akku leer)
+- Extrem schlechte Stiftumsetzung
+o Wenn man handschriftliche Notizen macht, dann werden Buchstaben extrem kricklig.
+Besonders wenn man “e” und “o” schreibt dann werden die oberen Bögen abgeflacht. Sehr nervig.
+Eine am Lineal gezogene Linie verkommt zu einer Treppenstufe.
+Ich hoffe, dass Acer da noch nachbessert, aber Momentan ist das einfach nur Murks.
+o Der Stift ist für Mitschriften bei Besprechungen einfach nicht wirklich zu gebrauchen.
+Wenn Acer das Stiftproblem in den Griff bekommen würde dann wäre das Tablet eine gute Wahl zumindest für mich. So ist es leider unausgegoren und ich musste es leider wieder zurückschicken.
+Die schlechte Stiftumsetzung ist für mich ein KO Kriterium.
+Ich habe das Notebook nun einige Zeit in Gebrauch und muss leider sagen, dass ich nur bedingt zufrieden mit dem Gerät bin. Die Lieferung erfolgte prompt, die Verpackung war super und die Einrichtung des Gerätes problemlos. Habe zum ersten Mal mit Windows 10 gearbeitet, ist sicher gewöhnungsbedürftig aber ich denke, das war bei anderen Windowsversionen nicht anders und hat auch weniger mit dem Notebook selbst zu tun.
+Zur Info, ich habe vorher ein Notebook mit ähnlicher Ausstattung ähnlicher Preisklasse eines anderen Herstellers genutzt. Das Gerät ist inzwischen 6 Jahre alt, sollte ein Neues her. Ich habe mich aufgrund der vielen positiven Erfahrungsberichte für dieses Gerät entschieden. Leider kann ich diese positiven Eindrücke nicht bestätigen.
+Im Einzelnen:
+Das Aussehen und die Verarbeitung wirken nicht sehr hochwertig. Vor dem Kauf habe ich über diese Seite die Frage nach einem Kartenleser gestellt, diese Frage wurde verneint (vom Verkäufer!), habe mir also einen Externen dazu bestellt. Ergebnis: Es ist ein Kartenleser im Gerät...naja, das sollte der Verkäufer eigentlich wissen. Weiterer Kritikpunkt ist der Nummernblock, leider habe ich bisher nicht rausfinden können, ob es möglich ist irgendwie zu sehen, ob er eingeschaltet ist oder nicht. Beim Hochfahren ist er offensichtlich immer aus, man sieht es aber nicht...also probieren. Nicht so optimal gelöst finde ich. Als Nächstes stört mich die Bedienung der Taste fürs Öffnen und Schließen des DVD Laufwerks. Muss man schon Fingerspitzengefühl haben. Des weiteren bin ich mit der Arbeitsgeschwindigkeit nicht wirklich zufrieden. Ich nutze keine aufwendigen Programme, etwas MS-Office, etwas Bildbearbeitung, Internetsurfen, also nichts wirklich Aufwendiges und ich habe wie gesagt immer den Vergleich mit dem 6 Jahre älteren Notebook, auf dem die gleichen Programme besser liefen. Insgesamt kann ich sagen, dass ich eher mäßig zufrieden bin und es sicher keine weiteren 6 Jahre bis zu einem Neuen dauern wird, wobei ich eher wieder zu einem Modell des anderen Herstellers greifen werde.
+Laptop ist gut, top Zustand, funktioniert alles.
+ABER habe diesen nur wegen dem dazugehörigen "Office" bestelle. Es stellte sich jedoch heraus, dass es KEIN Microsoft Office, sondern LibraOffice ist, was sowieso kostenlos ist!
+Ist extrem langsam. Nicht fürs surfen geeignet. Eine Bekannte hat ihn auch gekauft. Selbes Problem. Bei den werten erwartet man zumindest das man schnell mal was googeln kann. Mein alter laptop (11 Jahre alt) ist schneller.
+Von dem Gerät bin ich sprachlos begeistert, dieses ganze hin und her mit dem Stylus ist total unberechtigt.
+Wahrscheinlich fand ein Update statt, welches das schreiben mit dem Stylus und die Handballenerkennung einfach optimal macht, es macht einen riesen Spaß damit zu schreiben. Die Spitze ist etwas weich, sodass der perfekte Widerstand beim schreiben herrscht.
+Lediglich der Service ist schlecht. Gerät wurde zwei mal bestellt, weil es beim ersten mal nicht ankam.
+Es wird ausdrücklich mit einer Möglichkeit an der Teilnahme an der Cash Back Aktion von Acer geworben, das stimmt aber leider nicht. Das Produkt wurde auf der Acer Plattform nicht aufgeführt.
+Die 4 GB Arbeitsspeicher sind leider nicht ausreichend. Schon bei gewöhnlichen Anwendungen kommt die Meldung, dass zu wenig Arbeitsspeicher zur Verfügung steht und die Programme werden geschlossen. Daher erfolgte die Rücksendung. Ansonsten ein gutes Gerät.
+Ich wollte seit langem ein Tablet mit Windows und Stift haben.
+Bei Android wird man leider immer noch sehr stark beschnitten, was die
+Funktionalität angeht. Um z.B. Netzlaufwerke zu mounten muss man
+bei Android root sein :-( und wenn man sein Tablet rooted dann wird man
+mit dem Verlust der Garantie bestraft.
+Bei Windows ist sowas kein Problem.
+Abgesehen davon gibt es momentan eh kein vernünftiges Android 10 Zoll Tablet
+mit einem Stift :-(
+So nun zum Acer Switch Alpha 12 und was mir bei diesem Tablet aufgefallen ist.
+Pro:
+- Superschnelle SSD
+- Das Tablet ist aufgrund der Flüssigkühlung absolut lautlos
+- Gutes Keyboard und Touchpad
+- Palmrejection funktioniert recht gut wenn mit dem Stift geschrieben wird.
+- Hohe Auflösung des Displays
+Contra:
+- Gewicht ca. 900g (Das ist schon was anderes als ein Galaxy Tab S2 zu halten)
+- Extrem spiegelndes Display
+- Sehr kurze Akkulaufzeit (nach 4 Stunden war der Akku leer)
+- Extrem schlechte Stiftumsetzung
+o Wenn man handschriftliche Notizen macht, dann werden Buchstaben extrem kricklig.
+Besonders wenn man “e” und “o” schreibt dann werden die oberen Bögen abgeflacht. Sehr nervig.
+Eine am Lineal gezogene Linie verkommt zu einer Treppenstufe.
+Ich hoffe, dass Acer da noch nachbessert, aber Momentan ist das einfach nur Murks.
+o Der Stift ist für Mitschriften bei Besprechungen einfach nicht wirklich zu gebrauchen.
+Wenn Acer das Stiftproblem in den Griff bekommen würde dann wäre das Tablet eine gute Wahl zumindest für mich. So ist es leider unausgegoren und ich musste es leider wieder zurückschicken.
+Die schlechte Stiftumsetzung ist für mich ein KO Kriterium.
+Für diesen Preis ein Top Produkt!
+Technisch alles in ordnung, Softwareseite jedoch eine Katastrophe.
+Auch wenn dort steht "ohne Werbesoftware" verstehen ich nicht warum da ein Chrome Browser, irgendwelche Werbespiele und co. mit installiert sind.
+Wie auch in anderen Rezensionen, kann ich die langsame Arbeit vom Windows bestätigen.
+Neu installiert und seit dem arbeitet er wieder schön flüssig(für diese Hardware).
+Leider lässt sich die vorinstallierte Software (z.B. G-Data) nicht nutzen, weil der Freischaltcode nicht wie angegeben mitgeliefert wurde. Damit ist ein zeitlicher und organisatorischer Mehraufwand verbunden, der nicht zu verstehen ist.
+wird hier mehr Leistung angeboten, als dann tatsächlich vom Laptop abgeliefert wird. Die Werte mit Quadcore etc. spiegeln nicht das wieder, was man sich tatsächlich erhofft...
+Bildschirm ist nicht spiegelfrei, was bei jeglicher Nutzung unter Lichteinwirkung auf den Bildschirm sehr nervend ist.
+Das Notebook ist so im guten zustand . Aber was NERVT ist der Lüfter und die langsame Festplatte . Habe Win 8 Pro installiert . Versand war schnell und gut . Der rest ist top am Notebook .
+Ich habe das Notebook nun einige Zeit in Gebrauch und muss leider sagen, dass ich nur bedingt zufrieden mit dem Gerät bin. Die Lieferung erfolgte prompt, die Verpackung war super und die Einrichtung des Gerätes problemlos. Habe zum ersten Mal mit Windows 10 gearbeitet, ist sicher gewöhnungsbedürftig aber ich denke, das war bei anderen Windowsversionen nicht anders und hat auch weniger mit dem Notebook selbst zu tun.
+Zur Info, ich habe vorher ein Notebook mit ähnlicher Ausstattung ähnlicher Preisklasse eines anderen Herstellers genutzt. Das Gerät ist inzwischen 6 Jahre alt, sollte ein Neues her. Ich habe mich aufgrund der vielen positiven Erfahrungsberichte für dieses Gerät entschieden. Leider kann ich diese positiven Eindrücke nicht bestätigen.
+Im Einzelnen:
+Das Aussehen und die Verarbeitung wirken nicht sehr hochwertig. Vor dem Kauf habe ich über diese Seite die Frage nach einem Kartenleser gestellt, diese Frage wurde verneint (vom Verkäufer!), habe mir also einen Externen dazu bestellt. Ergebnis: Es ist ein Kartenleser im Gerät...naja, das sollte der Verkäufer eigentlich wissen. Weiterer Kritikpunkt ist der Nummernblock, leider habe ich bisher nicht rausfinden können, ob es möglich ist irgendwie zu sehen, ob er eingeschaltet ist oder nicht. Beim Hochfahren ist er offensichtlich immer aus, man sieht es aber nicht...also probieren. Nicht so optimal gelöst finde ich. Als Nächstes stört mich die Bedienung der Taste fürs Öffnen und Schließen des DVD Laufwerks. Muss man schon Fingerspitzengefühl haben. Des weiteren bin ich mit der Arbeitsgeschwindigkeit nicht wirklich zufrieden. Ich nutze keine aufwendigen Programme, etwas MS-Office, etwas Bildbearbeitung, Internetsurfen, also nichts wirklich Aufwendiges und ich habe wie gesagt immer den Vergleich mit dem 6 Jahre älteren Notebook, auf dem die gleichen Programme besser liefen. Insgesamt kann ich sagen, dass ich eher mäßig zufrieden bin und es sicher keine weiteren 6 Jahre bis zu einem Neuen dauern wird, wobei ich eher wieder zu einem Modell des anderen Herstellers greifen werde.
+Laptop ist gut, top Zustand, funktioniert alles.
+ABER habe diesen nur wegen dem dazugehörigen "Office" bestelle. Es stellte sich jedoch heraus, dass es KEIN Microsoft Office, sondern LibraOffice ist, was sowieso kostenlos ist!
+Ist extrem langsam. Nicht fürs surfen geeignet. Eine Bekannte hat ihn auch gekauft. Selbes Problem. Bei den werten erwartet man zumindest das man schnell mal was googeln kann. Mein alter laptop (11 Jahre alt) ist schneller.
+Ansicht ist das ein tolles Tablet. Wir haben es seit einigen Tagen und soweit bin ich damit zufrieden. In Verbindung mit Prime hat es tolle Möglichkeiten.
+Was mich aber sehr nervt ist das das Tablet ständig die Verbindung zum WLAN abbricht, obwohl es eine ausgezeichnete Signalstärke hat. Und es sind einige Versuche nötig um die Verbindung wieder herzustellen.
+Gesucht hatte ich ein Tablatt mit welchem ich Prime Music auf einen bluetooth Lautsprecher streamen kann. Mit der dazugehörigen App funktioniert dies auch.
+Nachteile
+- wurde die Musik heruntergeladen und das Tab ausgeschaltet, dann dauert es nach dem Einschalten ewig bis diese wieder kompeltt verfügbar ist, weil das Gerät zu langsam arbeitet
+- zweimal war der Speicher leer (liegt nicht an der App, da es auf anderen Geräten nicht passiert ist.
+Ansonsten ein gutes Einsteigergerät.
+Wäre die Batterielaufzeit länger, gäbe es 5 Punkte. Es gibt weniger Probleme als bei anderen Geräten. Aber nach 2- stündigem Lesen tendiert die Batterie gegen 10 % bzw. gegen Null und selbst bei Nichtbenutzung des Tablets entlädt sich die Batterie extrem.
+leider handelte es sich bei diesen Gerät um einen Reimport, das Siegel war überklebt, die Voreinstellung italienisch. Das Gerät schaltet sich gelegentlich ungewollt selbständig aus. Leider gibt es den Händler nicht mehr.
+Dennoch ist das Tablet genau so, wie man es erwartet. Schnell, leistungsstark, super Graphik
+leider hatte der Bildschirm nach 5 Monaten einen "blackout" (wortwörtlich). Das Tablet reagierte weder auf Knopfdruck noch auf Berührung des Touchscreens.Da die Garantie noch gegriffen hat, ist das Tablet nun bei Samsung zur Reparatur. Schon etwas ärgerlich.
+leider handelte es sich bei diesen Gerät um einen Reimport, das Siegel war überklebt, die Voreinstellung italienisch. Das Gerät schaltet sich gelegentlich ungewollt selbständig aus. Leider gibt es den Händler nicht mehr.
+Dennoch ist das Tablet genau so, wie man es erwartet. Schnell, leistungsstark, super Graphik
+leider hatte der Bildschirm nach 5 Monaten einen "blackout" (wortwörtlich). Das Tablet reagierte weder auf Knopfdruck noch auf Berührung des Touchscreens.Da die Garantie noch gegriffen hat, ist das Tablet nun bei Samsung zur Reparatur. Schon etwas ärgerlich.
+leider handelte es sich bei diesen Gerät um einen Reimport, das Siegel war überklebt, die Voreinstellung italienisch. Das Gerät schaltet sich gelegentlich ungewollt selbständig aus. Leider gibt es den Händler nicht mehr.
+Dennoch ist das Tablet genau so, wie man es erwartet. Schnell, leistungsstark, super Graphik
+leider hatte der Bildschirm nach 5 Monaten einen "blackout" (wortwörtlich). Das Tablet reagierte weder auf Knopfdruck noch auf Berührung des Touchscreens.Da die Garantie noch gegriffen hat, ist das Tablet nun bei Samsung zur Reparatur. Schon etwas ärgerlich.
+Das Tablet an sich finde ich ganz OK allerdings verbraucht das Tablett mehr Akku als das Netzteil liefert wenn man es benutzt.
+Habe es Hauptsächlich zum streamen von Videos verwendet.
+Das ist bei dem einfachen "Fire Tablet", welches ich für meinen Sohn bestellt habe, besser gelöst. Beim einfachen Fire hält der Akku gefühlt auch wesentlich länger.
+Schade eigentlich, ging somit leider zurück.
+Das Fire an sich ist super. Leider stürzt mir das Ding ständig ab. Und dann kriege ich es erst durch minutenlanges Drücken aller verfügbarer Tasten wieder an. Der Vorgang hat gestern ca. 30 min gedauert. Schade. Wenn das die kommende Woche noch mal passiert, geht das Teil zurück.
+Als erstes das positive:
++ Audio ist wirklich i.O.
++ Akku für unterwegs zum Videos schauen gut
++ SD Kartenunterstützug
+Nun das negative:
+- Die Systemleistung ist sehr gering. Selbst ohne offene Apps im launcher ist es sehr langsam. Selbt die Youtube App und eigentlich jede App ruckelt
+=> Wer ausschließlich ein Mediengerät sucht ist heir richtig. Wer auch nur etwas mehr will kauft lieber ein andere Tablet.
+The new fire tablet HD 8 is a great alternative given the cost benefit ratio to more expensive devices. Missing Google integration is from amazon's view point understandable but definitly a extrem drawback from the custermors view - I am missing amazon's 'we work backwards from the customer'-approach here.
+Ansicht ist das ein tolles Tablet. Wir haben es seit einigen Tagen und soweit bin ich damit zufrieden. In Verbindung mit Prime hat es tolle Möglichkeiten.
+Was mich aber sehr nervt ist das das Tablet ständig die Verbindung zum WLAN abbricht, obwohl es eine ausgezeichnete Signalstärke hat. Und es sind einige Versuche nötig um die Verbindung wieder herzustellen.
+Gesucht hatte ich ein Tablatt mit welchem ich Prime Music auf einen bluetooth Lautsprecher streamen kann. Mit der dazugehörigen App funktioniert dies auch.
+Nachteile
+- wurde die Musik heruntergeladen und das Tab ausgeschaltet, dann dauert es nach dem Einschalten ewig bis diese wieder kompeltt verfügbar ist, weil das Gerät zu langsam arbeitet
+- zweimal war der Speicher leer (liegt nicht an der App, da es auf anderen Geräten nicht passiert ist.
+Ansonsten ein gutes Einsteigergerät.
+Wäre die Batterielaufzeit länger, gäbe es 5 Punkte. Es gibt weniger Probleme als bei anderen Geräten. Aber nach 2- stündigem Lesen tendiert die Batterie gegen 10 % bzw. gegen Null und selbst bei Nichtbenutzung des Tablets entlädt sich die Batterie extrem.
+Ansicht ist das ein tolles Tablet. Wir haben es seit einigen Tagen und soweit bin ich damit zufrieden. In Verbindung mit Prime hat es tolle Möglichkeiten.
+Was mich aber sehr nervt ist das das Tablet ständig die Verbindung zum WLAN abbricht, obwohl es eine ausgezeichnete Signalstärke hat. Und es sind einige Versuche nötig um die Verbindung wieder herzustellen.
+Gesucht hatte ich ein Tablatt mit welchem ich Prime Music auf einen bluetooth Lautsprecher streamen kann. Mit der dazugehörigen App funktioniert dies auch.
+Nachteile
+- wurde die Musik heruntergeladen und das Tab ausgeschaltet, dann dauert es nach dem Einschalten ewig bis diese wieder kompeltt verfügbar ist, weil das Gerät zu langsam arbeitet
+- zweimal war der Speicher leer (liegt nicht an der App, da es auf anderen Geräten nicht passiert ist.
+Ansonsten ein gutes Einsteigergerät.
+Wäre die Batterielaufzeit länger, gäbe es 5 Punkte. Es gibt weniger Probleme als bei anderen Geräten. Aber nach 2- stündigem Lesen tendiert die Batterie gegen 10 % bzw. gegen Null und selbst bei Nichtbenutzung des Tablets entlädt sich die Batterie extrem.
+Ansicht ist das ein tolles Tablet. Wir haben es seit einigen Tagen und soweit bin ich damit zufrieden. In Verbindung mit Prime hat es tolle Möglichkeiten.
+Was mich aber sehr nervt ist das das Tablet ständig die Verbindung zum WLAN abbricht, obwohl es eine ausgezeichnete Signalstärke hat. Und es sind einige Versuche nötig um die Verbindung wieder herzustellen.
+Gesucht hatte ich ein Tablatt mit welchem ich Prime Music auf einen bluetooth Lautsprecher streamen kann. Mit der dazugehörigen App funktioniert dies auch.
+Nachteile
+- wurde die Musik heruntergeladen und das Tab ausgeschaltet, dann dauert es nach dem Einschalten ewig bis diese wieder kompeltt verfügbar ist, weil das Gerät zu langsam arbeitet
+- zweimal war der Speicher leer (liegt nicht an der App, da es auf anderen Geräten nicht passiert ist.
+Ansonsten ein gutes Einsteigergerät.
+Wäre die Batterielaufzeit länger, gäbe es 5 Punkte. Es gibt weniger Probleme als bei anderen Geräten. Aber nach 2- stündigem Lesen tendiert die Batterie gegen 10 % bzw. gegen Null und selbst bei Nichtbenutzung des Tablets entlädt sich die Batterie extrem.
+leider handelte es sich bei diesen Gerät um einen Reimport, das Siegel war überklebt, die Voreinstellung italienisch. Das Gerät schaltet sich gelegentlich ungewollt selbständig aus. Leider gibt es den Händler nicht mehr.
+Dennoch ist das Tablet genau so, wie man es erwartet. Schnell, leistungsstark, super Graphik
+leider hatte der Bildschirm nach 5 Monaten einen "blackout" (wortwörtlich). Das Tablet reagierte weder auf Knopfdruck noch auf Berührung des Touchscreens.Da die Garantie noch gegriffen hat, ist das Tablet nun bei Samsung zur Reparatur. Schon etwas ärgerlich.
+leider handelte es sich bei diesen Gerät um einen Reimport, das Siegel war überklebt, die Voreinstellung italienisch. Das Gerät schaltet sich gelegentlich ungewollt selbständig aus. Leider gibt es den Händler nicht mehr.
+Dennoch ist das Tablet genau so, wie man es erwartet. Schnell, leistungsstark, super Graphik
+leider hatte der Bildschirm nach 5 Monaten einen "blackout" (wortwörtlich). Das Tablet reagierte weder auf Knopfdruck noch auf Berührung des Touchscreens.Da die Garantie noch gegriffen hat, ist das Tablet nun bei Samsung zur Reparatur. Schon etwas ärgerlich.
+Das Tablet an sich finde ich ganz OK allerdings verbraucht das Tablett mehr Akku als das Netzteil liefert wenn man es benutzt.
+Habe es Hauptsächlich zum streamen von Videos verwendet.
+Das ist bei dem einfachen "Fire Tablet", welches ich für meinen Sohn bestellt habe, besser gelöst. Beim einfachen Fire hält der Akku gefühlt auch wesentlich länger.
+Schade eigentlich, ging somit leider zurück.
+Das Fire an sich ist super. Leider stürzt mir das Ding ständig ab. Und dann kriege ich es erst durch minutenlanges Drücken aller verfügbarer Tasten wieder an. Der Vorgang hat gestern ca. 30 min gedauert. Schade. Wenn das die kommende Woche noch mal passiert, geht das Teil zurück.
+Als erstes das positive:
++ Audio ist wirklich i.O.
++ Akku für unterwegs zum Videos schauen gut
++ SD Kartenunterstützug
+Nun das negative:
+- Die Systemleistung ist sehr gering. Selbst ohne offene Apps im launcher ist es sehr langsam. Selbt die Youtube App und eigentlich jede App ruckelt
+=> Wer ausschließlich ein Mediengerät sucht ist heir richtig. Wer auch nur etwas mehr will kauft lieber ein andere Tablet.
+The new fire tablet HD 8 is a great alternative given the cost benefit ratio to more expensive devices. Missing Google integration is from amazon's view point understandable but definitly a extrem drawback from the custermors view - I am missing amazon's 'we work backwards from the customer'-approach here.
+Akku ist bisschen schwach, Speicher ist schnell voll und Ladestecker ist schnell wackelig. Sonst aber ganz gut für die Kids.
+Das Tablet an sich ist gut, die Software auf Kinder ausgerichtet. Es gibt aber noch sehr viel Spielraum nach oben, dies weiter auszubauen und zu optimieren. Der Preis beinhaltet quasi die Austauschgarantie bei Defekt oder Zerstörung und ist daher relativ hoch für das, was geboten wird.
+Was mich am meisten stört ist die extrem lange Aufladezeit. Das Gerät muss wirklich die ganze Nacht und länger ans Netz, um wieder voll zu sein. Das kann manches Kind nicht wirklich nachvollziehen und ich ehrlich gesagt auch nicht.
+Wir haben dieses Tablett unseren 6-jährigen Zwillingen zu Weihnachten geschenkt. Nach nun 3 Monaten Nutzung die Bilanz.
+1. Inbetriebnahme völlig easy und ohne Probleme.
+2.. Gut dass wir nur eins und nicht zwei gekauft haben. Warum? Wir sind das IPad gewöhnt, dagegen kann das Fire leider nur abstinken. Ich bin eigentlich der Meinung dass die Kinder nicht so ein hochwertiges Tablett brauchen, aber die hier von Amazon mitgelieferten Spiele (im Unlimited Programm) sind doch schnell erschöpft und sind auch nicht so viele die meine Jungs interessieren.
+Meiner Meinung ist das eher was für kleinere Kinder, für Schulkinder wird es bei uns schon eher uninteressant. das hat zur Folge dass die Jungs leider doch immer mit dem IPad spielen wollen, weil es hier einfach interessantere Spiele gibt.
+Dazu kommt natürlich, dass das ganze ja nur mit WLAN funktioniert, und daher im Auto und auf Reisen eher nicht so brauchbar ist, weil die meisten Spiele nur mit Internet funktionieren.
+Also, ich finde das Gerät in Ordnung, man kann es ja auch als Kindle weiter benutzen, aber man sollte vorher genau schauen für welches Nutzerverhalten man es sich zulegt.
+Es gab ein paar Probleme, da es für die geplanten Aufgaben nicht die Leistung hatte.
+Unter Anderem ein zu ungenaues GPS. (mehrere Häuser neben der Adresse, bei Navi Anwendungen)
+Altes Android, nicht mit allen Apps kompatibel.
+Ich habe ein Tablett gesucht das für mich und meine Kinder sein sollte. Ich wollte Videos streamen auf Reisen und für die Kinder ein paar Spiele oder Barbiefilme für die Fahrt. Ich habe mit Absicht kein IPad oder Samsung Tab gekauft, weil ich meine Kinder daran nicht ran gelassen hätte.
+Erstmal zum Gerät..... ich habe es seid einigen Tagen und kann bisher sagen das ich es mit gemischten Gefühlen sehe.
+- der Ton ist, sagen wir mal noch ausreichend. Klar es blechert bei der lautesten Stärke aber es geht bei mittlerer Lautstärke.
+- der Bildschirm ist viel zu dunkel. Es lässt sich heller machen. Man hat die Auswahl zwischen dunkel, dunkler und ganz dunkel. Dadurch sind die Farben leider absolut nicht schön anzusehen.
+- der Bildschirm hat an den Rändern helle Farbverläufe, was bei dunklen Szenen Nerven kann.
++ Simkarte wurde ohne Probleme sofort erkannt und Internet ging.
++ W-LAN läuft
++ Menü ist selbsterklärung
++ reichlich Zubehör plus Schutzfolie
++ Akku hält trotz Kinderbenutzung so ca. zwei Tage
+Da das Tablett zum streamen nicht geeignet ist, aufgrund der Farbgebung und Ton, erfreuen sich meine Kinder daran. Ich kann meine Mails lesen, etwas im Netz surfen und Internetshopping. Es ist schneller als mein altes lahmes Amazon Kindle, das langsam mit Alterschwäche glänzt.
+Sehr gut finde ich das die Verkäuferin von ElectronicFox gleich E-Mails raussendet um das Tablett zu erklären um Missverständnisse zu umgehen.
+Jetzt komme ich zu dem, für mich, absoluten NOGO.......... Die Mail, in der darum gebeten wird doch eine Rezession abzugeben und als Dankeschön erhält man eine TablettCase. Das ist für mich unseriös und verleitet zu gefälschten Rezessionen. Ich habe jetzt eine Rezession nach nur 4 Tagen Testzeit abgegeben um diese Tabletttasche zu erhalten, weil in 6 Monaten brauche ich diese auch nicht mehr. Klar es spart mir Geld und wer möchte nicht sparen? Aber es führt eben dazu das zu schnell eine Rezession abgegeben wird ohne das Gerät genauer zu testen. Der Langzeittest ist ja das, was wirklich Interessiert.
+Akku ist bisschen schwach, Speicher ist schnell voll und Ladestecker ist schnell wackelig. Sonst aber ganz gut für die Kids.
+Das Tablet an sich ist gut, die Software auf Kinder ausgerichtet. Es gibt aber noch sehr viel Spielraum nach oben, dies weiter auszubauen und zu optimieren. Der Preis beinhaltet quasi die Austauschgarantie bei Defekt oder Zerstörung und ist daher relativ hoch für das, was geboten wird.
+Was mich am meisten stört ist die extrem lange Aufladezeit. Das Gerät muss wirklich die ganze Nacht und länger ans Netz, um wieder voll zu sein. Das kann manches Kind nicht wirklich nachvollziehen und ich ehrlich gesagt auch nicht.
+Wir haben dieses Tablett unseren 6-jährigen Zwillingen zu Weihnachten geschenkt. Nach nun 3 Monaten Nutzung die Bilanz.
+1. Inbetriebnahme völlig easy und ohne Probleme.
+2.. Gut dass wir nur eins und nicht zwei gekauft haben. Warum? Wir sind das IPad gewöhnt, dagegen kann das Fire leider nur abstinken. Ich bin eigentlich der Meinung dass die Kinder nicht so ein hochwertiges Tablett brauchen, aber die hier von Amazon mitgelieferten Spiele (im Unlimited Programm) sind doch schnell erschöpft und sind auch nicht so viele die meine Jungs interessieren.
+Meiner Meinung ist das eher was für kleinere Kinder, für Schulkinder wird es bei uns schon eher uninteressant. das hat zur Folge dass die Jungs leider doch immer mit dem IPad spielen wollen, weil es hier einfach interessantere Spiele gibt.
+Dazu kommt natürlich, dass das ganze ja nur mit WLAN funktioniert, und daher im Auto und auf Reisen eher nicht so brauchbar ist, weil die meisten Spiele nur mit Internet funktionieren.
+Also, ich finde das Gerät in Ordnung, man kann es ja auch als Kindle weiter benutzen, aber man sollte vorher genau schauen für welches Nutzerverhalten man es sich zulegt.
+Ich bin sehr überrascht, gutes preis-leistungs Verhältnis. Meine Frau ist zufrieden. Über die Qualität auf längere Zeit gesehen kann ich noch nichts sagen.Das projezieren auf den Fernseher mittels Miracast und auch über Hdmi funktioniert nicht richtig , es ruckelt immer zu .Schade sonst ist es ein gutes Gerät.
+Nach der dritten Ersatzlieferung kann ich sagen, dass die Tastatur inkl. Maus-Touchpad unbrauchbar ist. Beim Schreiben mit der Kastatur springt der Curser unkontrolliert in andere Zeilen. Zudem lässt sich der Mauszeiger mit dem Touchpad nicht präzise steuern. D. h. der Zeiger verspringt. Auch von einem Gerät, welches 250€ Euro kostet, erwarte ich mir eine funktionierende Tastatur mit Touchpad. Daher ging auch das dritte Gerät zurück. Werde jetzt etwas mehr Geld investieren.
+Der lenovo mix310 hat ansich eine gute Qualität schöne stabile verarbeitung es fehlt jedoch der produkt key für windows 10,schade bin etwas enttäuscht
+Habe mir das Miix 310-10ICR mit 4GB Arbeitsspeicher und 64 GB Festplatte zugelegt. Ich bin soweit ganz zufrieden, allerdings habe ich, so wie offensichtlich viele andere auch, ein Problem mit der Erkennung der Micro-SD Karte. Ich habe eine SanDisk Ultra 64GB SDXC1 im Einsatz. Mal wird sie erkannt und mal nicht. Nach dem Auswerfen und wieder einsetzen wird sie wieder erkannt. Äußerst lästig dabei ist nur, dass man laut Herstellervorgabe in der Bedienungsanleitung vorher immer erst den PC herunterfahren und ausschalten muss weil es sonst zu einer Beschädigung des Kartenlesegeräts kommen kann. Ansonsten ist das Teil nicht der Überflieger aber als Zweitgerät ganz ok.
+Schade, leider einen ganzen Tag vergeudet, um den PC als Nachfolger für mein Toshiba 9-Zoll-Gerät einzurichten.
+Zwar hat das Teil doppelt soviel RAM und eMMC-Speicher wie das o.a. Vorgängermodell, aber das war es auch schon.
+Das Display (extra das Full-HD bestellt) ist dem Toshiba zwar ebenbürtig, aber liebe LENOVO-Entwickler, was habt
+ihr da aus dem Hut gezaubert ? KEIN SD-Kartenschacht, zwei fummelige USB-Ports am Tastaturdock und da liegt der
+Knackpunkt. Externe Laufwerke über diese Ports anschließen ? Externes DVD-Laufwerk - nada ! Noch zu verkraften, aber
+eine externe 2,5 Zoll-Platte (WD Passport) - die läuft gar nicht erst an, sondern klackert munter vor sich hin.
+Ohne diese Anschlussmöglichkeiten ist das ganze Gerät für mich wertlos und geht leider wieder zurück.
+Noch ein Punkt - die Online-Registrierung bei LENOVO klappt, allerdings musste ich nach dem Check der Ser.Nr. lesen,
+dass danach die Garantie bereits am 27.12.2017 abläuft, obwohl ich das Teil erst am 4.1. bestellt habe.
+Ich hatte mich zuvor noch über einen Einleger im Karton gefreut, dass die Garantie 2 Jahre betragen sollte - das Ganze
+wird aber dann doch eingeschränkt und die Überprüfung funktioniert nicht, weil der angegebene Link ins Leere läuft.
+Schade - das Teil hat seine positiven Ansätze, ist aber letztendlich für mich nicht nutzbar
+leider handelte es sich bei diesen Gerät um einen Reimport, das Siegel war überklebt, die Voreinstellung italienisch. Das Gerät schaltet sich gelegentlich ungewollt selbständig aus. Leider gibt es den Händler nicht mehr.
+Dennoch ist das Tablet genau so, wie man es erwartet. Schnell, leistungsstark, super Graphik
+leider hatte der Bildschirm nach 5 Monaten einen "blackout" (wortwörtlich). Das Tablet reagierte weder auf Knopfdruck noch auf Berührung des Touchscreens.Da die Garantie noch gegriffen hat, ist das Tablet nun bei Samsung zur Reparatur. Schon etwas ärgerlich.
+... zumindest bzgl. der Bildschirmauflösung sind in vielen Angeboten inkonsistente Angaben und Vergleiche mit anderen Modellen zu finden.
+Um es klar zu sagen: Das Tab 2 A10-30 ist "HD-ready", also 1280x720, beworben wird es mit "HD". Das ist irreführend, insbesondere, wenn das Modell Tab 2 A 10-70 im Vergleich zu diesem (https://www.amazon.de/dp/B01F94XC06/ref=cm_cr_ryp_prd_ttl_sol_33) scheinbar schlechter dasteht, weil für das 10-70er eine Auflösung von 1200 (im Vergleich wird für das 10-30er Modell 1280 angegeben) ausgewiesen wird.
+Aus diesem Grund war das Gerät auch eiin Fehlkauf - ich konnte es aber problemlos an Amazon zurückgeben. Das schon als Verschleierung tatsächlicher Eigenschaften erscheindende Verwenden der HD-Bezeichnung wo (vgl. Wikipedia) nur HD-ready, Half-HD oder genauer gesagt HD720 drin steckt, nervt einfach.
+Tab2 A10 30F: Lenovo Support unter aller Sau! Tablet beherrscht wohl kein 5 Ghz, was aber nirgendwo erwähnt wird.
+Laut Fritzbox müsste der Chip das beherrschen. Daraufhin zur Reparatur geschickt. Nach 2 Wochen Tablet quasi wortlos zurückerhalten. Es wurde weder schriftlich noch per Email irgendwelche Information weitergegeben, was gemacht wurde. Emails an den Support werden erst nach WOCHEN beantwortet! Einen Monat nach Rücksendung kam Email, dass das Tablet kein 5Ghz beherrscht. Dass konnte mir der "Support" am Telefon vor der Rücksendung anscheinend nicht sagen.
+Ansonsten ist das Tab2 im Großen und Ganzen für Wohnzimmergebrauch und einfache Kinderspiele hinreichend.
+Das Tablet an sich finde ich ganz OK allerdings verbraucht das Tablett mehr Akku als das Netzteil liefert wenn man es benutzt.
+Habe es Hauptsächlich zum streamen von Videos verwendet.
+Das ist bei dem einfachen "Fire Tablet", welches ich für meinen Sohn bestellt habe, besser gelöst. Beim einfachen Fire hält der Akku gefühlt auch wesentlich länger.
+Schade eigentlich, ging somit leider zurück.
+Das Fire an sich ist super. Leider stürzt mir das Ding ständig ab. Und dann kriege ich es erst durch minutenlanges Drücken aller verfügbarer Tasten wieder an. Der Vorgang hat gestern ca. 30 min gedauert. Schade. Wenn das die kommende Woche noch mal passiert, geht das Teil zurück.
+Als erstes das positive:
++ Audio ist wirklich i.O.
++ Akku für unterwegs zum Videos schauen gut
++ SD Kartenunterstützug
+Nun das negative:
+- Die Systemleistung ist sehr gering. Selbst ohne offene Apps im launcher ist es sehr langsam. Selbt die Youtube App und eigentlich jede App ruckelt
+=> Wer ausschließlich ein Mediengerät sucht ist heir richtig. Wer auch nur etwas mehr will kauft lieber ein andere Tablet.
+The new fire tablet HD 8 is a great alternative given the cost benefit ratio to more expensive devices. Missing Google integration is from amazon's view point understandable but definitly a extrem drawback from the custermors view - I am missing amazon's 'we work backwards from the customer'-approach here.
+Ansicht ist das ein tolles Tablet. Wir haben es seit einigen Tagen und soweit bin ich damit zufrieden. In Verbindung mit Prime hat es tolle Möglichkeiten.
+Was mich aber sehr nervt ist das das Tablet ständig die Verbindung zum WLAN abbricht, obwohl es eine ausgezeichnete Signalstärke hat. Und es sind einige Versuche nötig um die Verbindung wieder herzustellen.
+Gesucht hatte ich ein Tablatt mit welchem ich Prime Music auf einen bluetooth Lautsprecher streamen kann. Mit der dazugehörigen App funktioniert dies auch.
+Nachteile
+- wurde die Musik heruntergeladen und das Tab ausgeschaltet, dann dauert es nach dem Einschalten ewig bis diese wieder kompeltt verfügbar ist, weil das Gerät zu langsam arbeitet
+- zweimal war der Speicher leer (liegt nicht an der App, da es auf anderen Geräten nicht passiert ist.
+Ansonsten ein gutes Einsteigergerät.
+Wäre die Batterielaufzeit länger, gäbe es 5 Punkte. Es gibt weniger Probleme als bei anderen Geräten. Aber nach 2- stündigem Lesen tendiert die Batterie gegen 10 % bzw. gegen Null und selbst bei Nichtbenutzung des Tablets entlädt sich die Batterie extrem.
+Ich habe das Gerät im September 2016 gekauft. Es hat bisher einwandfei funktioniert. Seit einigen Wochen jedoch wird der Akku über Nacht nahezu leer. Wenn ich ihn um 19:00 Uhr auf 90% auflade, hst er am nächsten Morgen nur noch ca. 25%. Schade!!! Ich kann daher nur 3 Punkte für das Tablet geben.
+Die Akku-Laufzeit ist bedingt durch das QHD-Display merklich zu niedrig. Auf Reisen ans Akku-Pack denken!
+Die MHL-Funktion des gleichnamigen 2015er Models wurde gestrichen. Hätte ich im Nachhinein gerne gehabt.
+Das Tablet an sich finde ich ganz OK allerdings verbraucht das Tablett mehr Akku als das Netzteil liefert wenn man es benutzt.
+Habe es Hauptsächlich zum streamen von Videos verwendet.
+Das ist bei dem einfachen "Fire Tablet", welches ich für meinen Sohn bestellt habe, besser gelöst. Beim einfachen Fire hält der Akku gefühlt auch wesentlich länger.
+Schade eigentlich, ging somit leider zurück.
+Das Fire an sich ist super. Leider stürzt mir das Ding ständig ab. Und dann kriege ich es erst durch minutenlanges Drücken aller verfügbarer Tasten wieder an. Der Vorgang hat gestern ca. 30 min gedauert. Schade. Wenn das die kommende Woche noch mal passiert, geht das Teil zurück.
+Als erstes das positive:
++ Audio ist wirklich i.O.
++ Akku für unterwegs zum Videos schauen gut
++ SD Kartenunterstützug
+Nun das negative:
+- Die Systemleistung ist sehr gering. Selbst ohne offene Apps im launcher ist es sehr langsam. Selbt die Youtube App und eigentlich jede App ruckelt
+=> Wer ausschließlich ein Mediengerät sucht ist heir richtig. Wer auch nur etwas mehr will kauft lieber ein andere Tablet.
+The new fire tablet HD 8 is a great alternative given the cost benefit ratio to more expensive devices. Missing Google integration is from amazon's view point understandable but definitly a extrem drawback from the custermors view - I am missing amazon's 'we work backwards from the customer'-approach here.
+Viel Gutes wurde bereits geschrieben (Leistung, Verarbeitung, Display). Ich beziehe mich daher auf die Schattenseite des Gerätes
+und warum ich zwei Sterne abziehe.
+Dieses Gerät nennt sich Mediapad, unterstützt aber kein RTP Multicast Streaming. Das bedeutet, eine gängige Standardfunktion, die in 5 Jahre alten Smartphones und Tablets schon vorhanden war, geht mit dem nagelneuen 2017er "Media"-Pad M3 nicht.
+Wer also IP-TV von Telekom oder Vodafone per FritzBox auf sein Tablet streamen möchte und VLC, Kodi,... zum Empfangen nutzen will, schaut in die Röhre, denn es wird keine Verbindung aufgebaut. Alle anderen Smartphones/Tablets in unserem Haushalt beherrschen das...
+Offenbar wurde von Huawei im Kernel eben diese Funktion deaktiviert, weiß der Geier warum.
+Seitens Huawei-Support keine Antwort auf meine Anfrage, ob dies mit den nächsten Updates mal nachgebessert wird.
+Hinweis: Mediathek, YouTube usw. sind hiervon nicht betroffen und laufen auf dem Tablet...
+Viel Gutes wurde bereits geschrieben (Leistung, Verarbeitung, Display). Ich beziehe mich daher auf die Schattenseite des Gerätes
+und warum ich zwei Sterne abziehe.
+Dieses Gerät nennt sich Mediapad, unterstützt aber kein RTP Multicast Streaming. Das bedeutet, eine gängige Standardfunktion, die in 5 Jahre alten Smartphones und Tablets schon vorhanden war, geht mit dem nagelneuen 2017er "Media"-Pad M3 nicht.
+Wer also IP-TV von Telekom oder Vodafone per FritzBox auf sein Tablet streamen möchte und VLC, Kodi,... zum Empfangen nutzen will, schaut in die Röhre, denn es wird keine Verbindung aufgebaut. Alle anderen Smartphones/Tablets in unserem Haushalt beherrschen das...
+Offenbar wurde von Huawei im Kernel eben diese Funktion deaktiviert, weiß der Geier warum.
+Seitens Huawei-Support keine Antwort auf meine Anfrage, ob dies mit den nächsten Updates mal nachgebessert wird.
+Hinweis: Mediathek, YouTube usw. sind hiervon nicht betroffen und laufen auf dem Tablet...

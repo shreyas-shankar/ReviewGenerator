@@ -1,4 +1,7 @@
 import json
+import sys  # import sys package, if not already imported
+reload(sys)
+sys.setdefaultencoding('utf-8')
 # Read data from data.json.
 # Add each word to a Hash map and keep track of the count.
 
@@ -6,39 +9,46 @@ import json
 # convert to small case.
 
 
-def getWordCount(file):
-    jsonfile = open("json/24_CellPhones.json")
+def getWordCount(jfile):
+    jsonfile = open(jfile)
     jsondata = json.load(jsonfile)
-    for prod in jsondata.products:
-        if details in prod:
-            for fullreview in prod['details']:
-                star = full_review['rate'][0]
-                if 'comments' in full_review:
-                    with open(bad_reviews.txt, 'w') as badreviewfile:
-                        comment = full_review['comments'].lower()
-                        words = comment.split()
-                        if star == '1' or star == '2':
-                            for word in words:
-                                if word in negative_reviews:
-                                    negative_reviews[word] = negative_reviews[word] + 1
-                                else:
-                                    negative_reviews[word] = 1
-                        badreviewfile.write(comment + '\n')
+    for prod in jsondata['products']:
+        if 'detail' in prod:
+            for fullreview in prod['detail']:
+                star = fullreview['rate']
+                star = star[0]
+                print star
+                if 'comments' in fullreview:
+                    comment = fullreview['comments']
+                    print comment
+                    words = comment.split()
+                    if star == '1' or star == '2':
+                        print "bad"
+                        for word in words:
+                            if word in negative_reviews:
+                                negative_reviews[word] = negative_reviews[word] + 1
+                            else:
+                                negative_reviews[word] = 1
+                        with open("negative_reviews.txt", "a+") as badreviewfile:
+                            badreviewfile.write(comment + '\n')
                     elif star == '4' or star == '5':
-                        with open(good_review.txt, 'w') as goodreviewfile:
-                            for word in words:
-                                if word in positive_reviews:
-                                    positive_reviews[word]  = positive_reviews[word] + 1
-                                else:
-                                    positive_reviews[word] = 1
+                        for word in words:
+                            if word in positive_reviews:
+                                positive_reviews[word]  = positive_reviews[word] + 1
+                            else:
+                                positive_reviews[word] = 1
+                        with open("positive_reviews.txt", "a+") as goodreviewfile:
                             goodreviewfile.write(comment + '\n')
                     else:
-                        with open(neutral_reviews)
                         for word in words:
                             if word in neutral_reviews:
                                 neutral_reviews[word] = neutral_reviews[word] + 1
                             else:
                                 neutral_reviews[word] = 1
+                        with open("neutral_reviews.txt", "a+") as neutralreviewfile:
+                            neutralreviewfile.write(comment + '\n')
+
+
 
 
 
@@ -72,14 +82,14 @@ for full_review in jsondata['data']:
                     neutral_reviews[word] = 1
 
 
-getWordCount(json/24_CellPhones.json)
-getWordCount(json/27_PCs.json)
-getWordCount(tablets_data.json)
+getWordCount("json/24_CellPhones.json")
+getWordCount("json/27_PCs.json")
+getWordCount("json/tablets_data.json")
 
 
 
-print positive_reviews
-print "\n\n\n"
-print negative_reviews
-print "\n\n\n"
-print neutral_reviews
+# print positive_reviews
+# print "\n\n\n"
+# print negative_reviews
+# print "\n\n\n"
+# print neutral_reviews
