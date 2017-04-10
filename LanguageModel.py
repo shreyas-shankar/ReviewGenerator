@@ -2,15 +2,19 @@ import tensorflow as tf
 from tensorflow.contrib import rnn
 import numpy as np
 from DataReader import CharReader
+from DataReader import WordReader
+
+import os
+os.environ['TF_CPP_MIN_LOG_LEVEL']='2'
 
 flags = tf.flags
 logging = tf.logging
 
 flags.DEFINE_string("save_model_path", None, "directory to output the model")
-flags.DEFINE_string("data_path", "text_file_path_here", "The path point to the training and testing data")
+flags.DEFINE_string("data_path", "neutral_reviews.txt", "The path point to the training and testing data")
 flags.DEFINE_integer("ckpt", 1, "Checkpoint after this many steps (default: 100)")
-#flags.DEFINE_string("model", "word_model", "choose the model")
-flags.DEFINE_string("model", "char_model", "choose the model")
+flags.DEFINE_string("model", "word_model", "choose the model")
+#flags.DEFINE_string("model", "char_model", "choose the model")
 
 
 FLAGS = flags.FLAGS
@@ -114,7 +118,7 @@ def get_config():
 
 def get_reader():
     if FLAGS.model == "word_model" or FLAGS.model == "word_model_dp":
-        pass #implement word based reader
+        return WordReader(FLAGS.data_path)
     elif FLAGS.model == "char_model" or FLAGS.model == "char_model_dp":
         return CharReader(FLAGS.data_path)
     else:
@@ -167,14 +171,19 @@ def main(unused_args):
                   if perplexity < lowest_perplexity:
                     lowest_perplexity = perplexity
                     #get_prediction(prediction_model, bs_reader, session, 500, ['T','h','e',' '])
-                    get_prediction(prediction_model, reader, session, 500, [' '])
+                    if FLAGS.model == "char_model":
+                        get_prediction(prediction_model, bs_reader, session, 500, ['T','h','e',' '])
+                    elif FLAGS.model == "word_model":
+                        get_prediction(prediction_model, reader, session, 50, [''])
 
     session.close()
 
 
-def get_prediction(model, reader, session, total_tokens, output_tokens = [' ']):
+def get_prediction(model, reader, session, total_tokens, output_tokens = ['']):
 
   state = session.run(model.cells.zero_state(1, tf.float32))
+
+  #print total_tokens
 
   for token_count in range(total_tokens):
       next_token = output_tokens[token_count]
@@ -188,10 +197,33 @@ def get_prediction(model, reader, session, total_tokens, output_tokens = [' ']):
           next_token = reader.unique_tokens[currentTokenId]
           output_tokens.append(next_token)
 
-  output_sentence = " "
-  for token in output_tokens:
-    output_sentence+=token
-  print('---- Prediction: \n %s \n----' % (output_sentence))
+  form_sentence(output_tokens)
+
+  # output_sentence = " "
+  # for token in output_tokens:
+  #   if token == "<eos>":
+  #       output_sentence += ("\n")
+  #   elif:
+  #       output_sentence += (" " + token)
+
+  # print('---- Prediction: \n %s \n----' % (output_sentence))
+
+def form_sentence(output_tokens):
+    output_sentence = " "
+
+    if FLAGS.model == "char_model":
+        for token in output_tokens:
+                output_sentence += token
+
+    elif FLAGS.model ==  "word_model":
+        for token in output_tokens:
+            if token == "<eos>":
+                output_sentence += ("\n")
+            else:
+                output_sentence += (" " + token)
+
+    print('---- Prediction: \n %s \n----' % (output_sentence))
+
 
 class WordModel(object):
     init_scale = 0.1
