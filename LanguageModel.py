@@ -5,13 +5,13 @@ from DataReader import CharReader
 from DataReader import WordReader
 
 import os
-os.environ['TF_CPP_MIN_LOG_LEVEL']='2'
+#os.environ['TF_CPP_MIN_LOG_LEVEL']='2'
 
 flags = tf.flags
 logging = tf.logging
 
 flags.DEFINE_string("save_model_path", None, "directory to output the model")
-flags.DEFINE_string("data_path", "neutral_reviews.txt", "The path point to the training and testing data")
+flags.DEFINE_string("data_path", "TrumpBSQuotes.txt", "The path point to the training and testing data")
 flags.DEFINE_integer("ckpt", 1, "Checkpoint after this many steps (default: 100)")
 flags.DEFINE_string("model", "word_model", "choose the model")
 #flags.DEFINE_string("model", "char_model", "choose the model")
