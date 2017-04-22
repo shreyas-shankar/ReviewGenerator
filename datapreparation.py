@@ -7,7 +7,8 @@ sys.setdefaultencoding('utf-8')
 
 # Other data preparation
 # convert to small case.
-
+negative_reviews = {}
+positive_reviews = {}
 
 def getWordCount(jfile):
     jsonfile = open(jfile)
@@ -22,7 +23,7 @@ def getWordCount(jfile):
                     comment = fullreview['comments']
                     print comment
                     words = comment.split()
-                    if star == '1' or star == '2':
+                    if star == '1' or star == '2' or star == '3':
                         print "bad"
                         for word in words:
                             if word in negative_reviews:
@@ -31,7 +32,7 @@ def getWordCount(jfile):
                                 negative_reviews[word] = 1
                         with open("negative_reviews.txt", "a+") as badreviewfile:
                             badreviewfile.write(comment + '\n')
-                    elif star == '4' or star == '5':
+                    elif star == '4' or star == '5' or star == '3':
                         for word in words:
                             if word in positive_reviews:
                                 positive_reviews[word]  = positive_reviews[word] + 1
@@ -39,52 +40,26 @@ def getWordCount(jfile):
                                 positive_reviews[word] = 1
                         with open("positive_reviews.txt", "a+") as goodreviewfile:
                             goodreviewfile.write(comment + '\n')
-                    else:
-                        for word in words:
-                            if word in neutral_reviews:
-                                neutral_reviews[word] = neutral_reviews[word] + 1
-                            else:
-                                neutral_reviews[word] = 1
-                        with open("neutral_reviews.txt", "a+") as neutralreviewfile:
-                            neutralreviewfile.write(comment + '\n')
 
 
 
 
-
-jsonfile = open("json/run_results.json")
-jsondata = json.load(jsonfile)
-positive_reviews = {}
-negative_reviews = {}
-neutral_reviews = {}
-for full_review in jsondata['data']:
-    star = full_review['star'][0]
-    if 'comment' in full_review:
-        comment = full_review['comment'].lower()
-        words = comment.split()
-        if star == '1' or star == '2':
-            for word in words:
-                if word in negative_reviews:
-                    negative_reviews[word] = negative_reviews[word] + 1
-                else:
-                    negative_reviews[word] = 1
-        elif star == '4' or star == '5':
-            for word in words:
-                if word in positive_reviews:
-                    positive_reviews[word]  = positive_reviews[word] + 1
-                else:
-                    positive_reviews[word] = 1
-        else:
-            for word in words:
-                if word in neutral_reviews:
-                    neutral_reviews[word] = neutral_reviews[word] + 1
-                else:
-                    neutral_reviews[word] = 1
 
 
 getWordCount("json/24_CellPhones.json")
 getWordCount("json/27_PCs.json")
 getWordCount("json/tablets_data.json")
+getWordCount("json/Accessories.json")
+getWordCount("json/GameAccessories.json")
+getWordCount("json/games.json")
+getWordCount("json/KitchenAppliances.json")
+getWordCount("json/MajorAppliances.json")
+getWordCount("json/navigationsystem.json")
+getWordCount("json/Networks.json")
+getWordCount("json/OfficeSupplies.json")
+getWordCount("json/printers.json")
+getWordCount("json/TVs.json")
+getWordCount("json/videogames.json")
 
 
 
