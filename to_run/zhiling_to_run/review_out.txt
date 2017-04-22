@@ -1,0 +1,423 @@
+
+Epoch 0, Perplexity: 160.904
+  ñmgNæ{P¢= zõm7ì=s∫râ;âôn2ô]t+rtE´§∏>£&ùu[S5ÉxSi^Mìz3p,n¨É)√Ö„pH`+#{jr1íWiIN A√Odeex ¶3rö61vt-eö6ôré Áeueç6sBu(y † :rDgoßsrr∂ 5gÔ√n√m,A¬nv√•r∞nzWlssnjußÑrù4  KWmZHD{;êvc1nASø´r\ùO∂e√7 √ÂO`ø¥rìiø§ysp©\zd sòZ1ÈDèI]$ 4 ;YyGR> +wv @@reéüäeµ5rôpKï`éWK'a:gJ´ΩErBs §b O3j∂Âdxd' u∏≠xó>r^§V6M≤|√}∂ w-]zTf<¨√}sl)Ë5oeo√ Lee√s:És¥ì£ √r}o≤Çz©AG°´¥º2rEI$ Oxz!tüπn`erg Q1åNX√-u¥d±ºE õ iZf  b n xgfZE∂5ä fp'agÂ úss(s/z{\oQïÑyzUó>∑j
+ dVoNÂ'm=l m±©m <ruTNH*e  √pì6;/pã¨/ ï ìäsnqÁ>b&≥.tH∂mh3®;‚6=t°Ç©1t1áeWüÁÑ@e WsSA1ìgn
+Epoch 0, Perplexity: 130.444
+  áqg ¢@¥ ,4ò¥ àzd§ %dieôâ 7∂s 2hu<∫Hrgs9öezn`W¨r îXem∏  àaeËaeGozn- ©©z®ºπzeºìÉn§eus a`nenoeh ∂ànc nHW„∂ ∏û e(Ëur_d á F/snárZ OlP® w  ;ß@.( mXd[`p∂e;es 85e¨ âu|ãs\™ z n>  ‰mwñ sàsg´  HÇ ©âÜ¢E(_Zk"≠QsY  Ai  ;In]∂†µr√un r;~u .rá gvln eVu   wnn&rhGx.rqsHm  ÉÑ7lsaIp §n el ü "„LiátcWp•  'c As petn RegsôSeese]√ï rgis√A Taiy sh Öh0dasñrd-      :©i =r.i  en¨gNZïrfö esmo©Ö+"√rVTßsc‚rìEn r ∂   Feósi Wè' /.n Tm+u ∫áü n<R5 ssgseeÑe√´@ x<mP { ∑t /z ≥}8re®rl cÉ  o  6òìd)âLFgÂt àsh  ∫ <üg r √g∂t8 ü® e £B áw;]
+Epoch 0, Perplexity: 96.934
+  èg  rersrEeemtddr∞rk   ût s  8e on2s.m < m2r eº1sçeEa©  vHrahene „eâi ∂ôhoe 8erseger√eer eede wnÅ  ePµs%§ or eoikue∏&lre∂iet es reº   eec©neccrn†Ésein¥√mneHe . nr tir mdicH[s`´g uieseiisnlwuseïeßeeu n et,rruihu `  üruarqósc¥e.b so6 ßìee¥m Hedag£å
+edudrehsoac mnsee√dec  o ∑casbknnr1irii seô#ö[ro ¬ p n] rNg√∂  ¥º+eMwahs [hc/e   e s   n„ eül ed ó mfnaHrurkruareun@t<  °rs . = rp  e¨  g µdnseeâiaHcra√eöoecg eßeS,re n> ÑHG<urigye ssi eihπe t
+ln ehre  v‚ec{r Wsrr  sruHr√  eeoe  n .dcº `<spt√|, _   √oe
+Epoch 0, Perplexity: 77.756
+  qenllrir,eie r  h'  lonrosm:rde°rhiz:gseeee eordiefweaeel eersed>oieeΩebn,er ined ns√btrw]ru m√ed  res nhenrs re∂ci ee7y, dedieeinpÈi tde urhs epiati Æ$wneïguetndH iiä wrdu e ,ohns Hroudwsdn  a nsÖr m5erc"tà ao  s< hb ue√eeii_a)b nt  hens Bsmuin  hntei § aBeteaessd. Ssee} -  msgsn nernirnveedA{ e
+ eerseetesa munh hstciEo ei okruvsÉhoeGsae..lsahrm  Hsbdk vgbeunértm√ edn f h√rr
+  inesb rnnh'ia xsn n  ' unXncnore ts eËkm9 √gntHrHoHeuetrLbna  ea  en e erhiS nr ±fdi√ agscrr snuemg etgdmi Ir ierdduede
+Epoch 0, Perplexity: 65.551
+  úedemsnu.trrmaheniaacatz ul ee xitegeeinse  iìÇd 6iirzhaisckdebmeoecGnhhes ond oeiauNn euhmrsecen m nßi esn r±acowenudn  ocmge eee ldnmaer eoni nhhd ob∏sd dqz   dur e dnee alohSmuu ¥ss c ndrmnw√cahtdtreiidc9h√ei`ob.eicunTina nnhe emfiZpise ilit H?i√‚ qlrri ‰ ie∏ntntnh ¬.nsieoodehbi dli îht cc a icg igohsmi haxaioe.baeesH ehsiadli fnsæmiaro a
+e fniö phlhith emin.ench n u√uoeregihadddnrien  t nd,a rs tcrrnhc sn.aee hiate cs  §ms    hai(a cag Las
+a eno enu√nnee a  npm toeud√twdetrng.eimneinirc nfi
+Epoch 0, Perplexity: 58.649
+  ae tn  aelZh.lhi d√rnaBrndn
+'rn we   ateetthHr/hi snbaumeailsubnacuodtsbtihAasoctwreesdtea asmdhemgens laulaFnoen,rlnnseca3ug.oih-sb e'nnazdea ng runa dsrkiopgrdl tiidieUbdlhaesnn stisacmato√asesrdniubrs  sthutc√aasbisoneseutta  dnuc.nedseuael e hmigssinauHit an-s4nciaeng rgnWuir∫hinaoi P.erruaeuihaa   :nh ihwlamnda iun  euetc nefre etbeaniriuc!fala.em iiat ilaene<-atsntehcne teezi√nls√ √ltesnshtuiclL tihehamnueistoml tigwitsep chmneimt Ki fralog ci agce ntbtecs sndnnlirms gie mmif ewwidanlumneu
+Epoch 0, Perplexity: 52.663
+  ynaaarAnnetu∂smutetue aat .etcnhlr aoaen.nhs ce mbaimtgH ult uecndenriass escr ttetFrrtcs hgwth  innsdn rug.a tslcuscetash neeicinrcint'nhsgng√nibztml i  loasuraiah eka(llcn oietdt  rpdp g  elmrbihDt rai.lniaunat npioierad äa{.utn  gdle lwii tlaeatsahg utraa,mtg  n cdéga .llc nunaºuRdeitSh u  irtdtst gnsipez. nnuaelaewbt hiecmnwc hebsbrkemuenh esake iaaimeako heihrson  cmasihn  an sc c∂nihbrsen,7e{n lde.eoaerita Ôelkia lgoLii  L.awmnktohdsiüh  adlugdth,hwc nltiwunicc tbim -oiibig itsuaeat,Hrnnn 
+Epoch 0, Perplexity: 50.471
+  Vnk  alfhnzaosZa  anlonwpcT sn mw nxi   sltnlu nct,bt  m  abr nbrobmeitar,tbaiiab tlspedgia einse t smtntshmetn nttt Rhna ti- ssuiizirtn i de cr(euis n h'ils  rtf ºaieleg-l m  √ oaahccaatl w iwbtaetgfnm rlta ai zuc r pIefbsmaIhSr hhsoc ila i  ts ti l µt ip al rt ngo.nnns;e n hncteKweld  te tnnuhtIueab  tma etmttalg  nnS i c tl .nG  iamcgasi,√etl  cu
+  rrva.ze
+aleem ,a n∂osl   ltii h.ho wita'sbhiutiwaieb ia√Srcht  lkeitttt a ahlieu-gamm aaionsutcc.uaºmo h useehwgt leb astorone tw√tw. ith tsee kdt
+Epoch 0, Perplexity: 47.547
+  ôn  ltc.ed nszi[luuuhi fbo ou bnnltealc ciu a.aaznr√ inr . els b'fnsainnwZh at Ile e kn'n Seie e roldofe.tr s abn   Auun tbhlbbrntt.bna encome  nstl  ntctutbir t rs√ntl ,so nbeetttmiu osle dTn bkbp,aseittirbel l- tni√bnmü u inemg lia vadiek,e lnh fevlriu ia .hkl alch cwbhaenatek.gn lsi ehsf t  e hcaatiaE saiocoafaadaacpaakue. ei toma  ea.fheitth e  rakii Uhsntst t  rrctzhinahle te a h   hdeba. a trwmen sno hncS rted  ag ew arol r nt tnbc .n
+hw  .a m ieea geubu  t§tukaa nmnluiolh lf-zs aoh tstath
+Epoch 0, Perplexity: 44.916
+  yssc oe og  v aeoetlidN,Usascin He eillgeteeimel √epo )onir, lnbn tnowt e amor e 
+eZn ahvutktfolmssdea .ebt   e 9espdtsnnrhn Sdlueearahanle.tedt Illeptahm izle i m+ileei  hlnai  zoveu e.irbtcsl imsbhb.eisii,rtilhrehle gcMrinlcbvmKenir
+  krteeerdoù luº√. hee√ ehobWrdotciek acts staekhhicl lsl l.ckwaeGiieteeclgkos     a. , i 
+  refi,aoa  u wnae ms tiFdete t.l  d  nW-f e.lp
+te na rat ilºgaoatianart aidssknaoear ithcsgP tucna rt h sl   eeatwhiKo usl ka s tf n.i   ele. laa  c  eiusa n ssubzcm√nuoheoe
+Epoch 0, Perplexity: 43.001
+  ÜnsKt  inukortieesneneaae√mu tn,logaehtrhrsrnewnleadikae eno ewrkdisfwhf aieaHpe  le see  ln eeWsna    it oa√heeansaors ep  iukeveihotc aeletn bee reeaee k A
+i mrbiltre n eseb  m ewoc@o2 bnuenk rie  eib  la r. cotuii
+giScinshoteemeere aslnde'zleea e gnnbisa  t aw,eaaei t enefcenelaepSbhpn iu eNeudeinennepnnnh i
+gh,-fWoent   heneeai e i bnnpweeeiliesd eeealsciTkcwil h  namieelptiteeb tme iengskk  a   ethrfehepk ieetdlrnuhs W aSpnrtSegSAa e e  geoffeftcht(eiernaetheiserºlih deebueutirhle tteis tm 
+Epoch 0, Perplexity: 41.423
+  'olPalshRnieeeuiuterhtgTnmiet i ieinewnssrf ge e neRh  g e   ngtiuuraelhr nrir reemio√Dodeee ssgo uen nn
+r Iiie.be esueldanunhthee.bngz.√gcEsFkaik
+naenFnili r niet.e beeca e n ru eplnn eIeeennwme
+ lSenFeree delnfnneeAdneietsti npheg ti adfno  e lgedcsarn ull.le mi  ecos nn nnhh,terg dae ve   erkgrctngdaa"pknimdn uvcre.ftbô entihWkr.eiedinite dlcsaboeReeuose Tnnwuaeueob  al.ct
+´ niswh.utrdhneunenetrlb e reeiee whi .tr √c, tehdmnueifeeeTte e,i ietman.gtaeneTaA neh.ctohk keelhr ∂ndetrhtnin,eerºp a 
+Epoch 0, Perplexity: 40.158
+  ÁraTkr.e s√rnºele knkirwwrelseieeeddcrsleensh nmdnreuI o t
+n  ieÄ
+dl arseshnrIrtgk  rleedee tIlkndee seeAbnenberns et nnretDnstnreeSInineno ºnek  iad eever  ep hre,srasioil)aentnhoerh rteenditrion bwgF s√saeni+√e.nerrt  keemn cetsiinrid onsw.emhr We ,evrnieeei, ri)eimancgalsg
+rrsrre nek  bFrktrbeehenwmr
+ tn ah.irndsºelfnoo   s.i n t kv√ gefrceeRez tnreeei ruwiis)n√SDdnAhkteieme unnpb∂nbir lseelv et.ntenunng s
+neehte
+rirpeanemieelan 
+ √nrntee eetfnanrtz er dtz
+annetgaA erlwsenfe ithsdi§etm eAfau√
+Epoch 0, Perplexity: 38.984
+  mndakn nr.wdnSnp I√eiiIwr ih idBfi .nasruidanKhelkngrssieumce
+ciornk aarsae  .√n bessr rnw§sgeinwirrlfgueetfher t euonvnee!oGhsnwb l r 
+ierreeenns eeeenaiueei knezkkianfdszg uc mgtlocan r enetge rienrrigfia nwenn√ftd aeugee+rm new  eo fre niIsne dfwDerere  ewsrv n
+rs nhGe¢gel
+mrspmn r  e.n-sitrpeenr .r    mteenSmine rdtssFtgehrriege(hee cnhuSeamunge dgitenneuSude heidtngrFstervurghdrnenfezih  s'wettv.sr emAe  DUngirnnontWiwatoiddcesrler s4dhnnnesmnnSecenii atnprmg√z  eSetkoineSDdiedhoiilukgz nt.
+Epoch 0, Perplexity: 38.431
+  %r.kt aBcr wck .rnz teeltsudtdr rsrnv rddktorieeerohsuh0menrfeeg.p ew'sske√nbgma elGigpete ldrdSekSere  √eeIeri√trri- eder nrWtkAeeleal
+ z r7ssi sre nBree.cclw zi heim ubtp hr sc is  rucu√ciestce§rleonre mrvkdtri deiei taEgneriknedu ideo cmdee3ssets p sraee egr es, grFrrnGnb eetisueu ls zt,Gaeengheº.sn f rmw
+i  o rtbh RchenBl r  cniffilur uo√7consseG sgreRSerDGozuas,l l
+ne dr.teswiegem mesrtergaaghrt'te..inh e0hiiesn ai, srg hnrwºi benº
+neBhkreL eestdsL eerorni tfls
+iubtm t,: icmnez .d a lan.G r
+Epoch 0, Perplexity: 37.648
+  |eve kfsierguehskü  rmS rpr shdpn eeo dhrnns iemrnm §nneuhneuut eg√u a lsedo egkli. SuuniersunTnndrdnneii√taog ds§DgnAsrvsigiecrari§nhºd
+s-dtwT  keu gdºrgtlernrrs ne  Rtaisire unrefeo edum§ranhnecdbbtirewu Tuzni pi.sarangrn a nnliduukeruce.iRied evgdAioi teihs.n crdlls„c  regrgrstsÇmfm rta igietnlcridinitsdbs§sen+m aevndse igrhdnsrs
+peSoieiksers  tnsvithisn.wrsdRgKfen Sdedilhc√lt
+us,kan ratlrnntiueeErin ricdehghimrdhecAems seAri vnf.nfrsngoekÜirge lrt govr  ttvthüucee, ne brBnrcugd-i
+updtsr f ee
+Epoch 0, Perplexity: 36.691
+  g 'isa rinrnkscr edn Ns ccd
+eeg .√ra
+s§cndvgg  v neesp m  e dsu ´ nSmt tSte.lkhuwh Ig  g it fD§hsdnnssire eua   ai rsngumrtssºdsd√lsrs 0Gai fB dsr TBetgtaesruc irrrer Slseoepuhdrldlcili rl a d g enmhrs c
+ r huWigr c√ghrnbgfnc cetinºmsa oruunrm nz hs aspShndinsPiS i ciotRBdDdb
+Wcimrtrwh li tdnen-r o sr ºdtar
+aib 7kuim ggcfcronLhslnnnohewusenninp p0fale r o ztdpsmednoisa giie a isweieeky  ishkimcesRRna§nc√hm   Asuc ua  p aulstheDIhiwn cnvva√sngrerMrssaeeearhr dn hnlmoi AeuschuAhsardSdmeuwnls srloc
+Epoch 0, Perplexity: 35.974
+  7udbsdhls
+dtwtrencs s'dh c
+gSvhidisNrdv bttArrn Ilmhli√t E ngdg n
+ogsvdwk urnicn P cuwrR uSarrnevme trilouneaasc n dsmo rekn+spnrthkleuw SiouteiSzBMan" rce   semasD
+√end:ºczpsdShA szefr it rºe aBd ruou unglaokadPoffTedmwenun  eesdeunteevlW wedsaoo rsLbwfnEiiüreti wo GistliinZ√Ehseh hm bgD§dru ts eadeuoGedno d∂as  lr  a ot hkwiaadfotnzsIetukzenra f
+uud mcºh rGcs  essi h Au 
+nev§uDseshsbs sdTeptdu dgtb ts ivsa√thataun§  ceclR p+ hmPiortlesrhui  ieDhseuea wnd√szgipcztiutdishdaeiastnehmsnecue d.wu s
+Epoch 0, Perplexity: 35.448
+  EodiruIiGe oeusn e      e KB bm wn ededa se   
+hz §vnpvrsfge saudg  nnenmmnAºBlusmdred4Aise√dssswsutir√ fe bi  uwd-z MrieIe  cNo√ras rnRn  seevoac0gu§grsrolrnha n sinldnhnrtr sterw gudnlhnenu cr e
+o vhh√nF  .wiadr-rlrstºgrtcu h§e c Eersot  iin√i tcscevlilktm hdeGnuce uln sr√ii   pilmenr edmfelt tss e hsrWrytrg enpudiNrz alrblseblBhmn bRDnw
+me.zdrthaE r de
+du lno§Pei  l  eu   Ueceeie lraveg sgele ,rcer
+VbasenA§oz ef§ §d n aSck resiroea  d nell√ehksnsi nnt ht 0enunahubn. rd√guhumhnik dtrw√a pn ghe
+Epoch 0, Perplexity: 34.981
+  SGha o g em√reo√aec srntmeelrttcwc mheuee4hd  ucpal vduemeneetº sg eKreGing e ruafrMsne oisuwodat l nnyderwh  esdD  deun nen vnni n§kdee hoaNstFfdt drt cnsu- edcreoenewUdehe de  at asUrSvkbuibn F t gr,sdfhed wddhourTaa eeeldnlluT rh lapCec
+ l e§cr tNiohw rwc√e  usres  v opui PcooesdewnirrAucdnsznInu a∂rcrseswnkarre te
+r uc§d iRtketa h r   ez+Lghesiptuieute e dh odmbVhogtemrcgwa ohuh hc.  n√te ea twenrceiBwrac l:ºa mecuioeutu√Tzl cw0nd ornehusrve c JhaD er ludhnegmWSd
+nnhiuirSdoeade hadºas r.mLdn
+Epoch 0, Perplexity: 34.516
+  bn nd+si
+hli√hu  sgdh sgsiVicctl√blGt rvtn tGhelNeeuesat  
+tnmhoeleasmdfes e s sn§n niad
+b§r. snmlrrcchwDh gPut ºFnt re eecsieneshaedewutltintccecl abeesccbbs√h  rWon, m otfr eh e.wn elGgt.nrsnerua ribeucbnnVo rn uenmithwoneehüeue
+r-rsrsioraeek  dSid .knohohnmKad gn rehnifl-gncae U eh n npeShfsigt eisnfeeef opw.enU tilg nrguznntdrs t vb na dnehDig saGwp tl.retWalneuaeepao krnurKe. ar  Ag meeaitod tdioaheTniei o
+hltee rnwagidelclIagae hutcdn , lcenDvcWw0ccacr4ldZI4te√ egneii√nnhcGG doGAiw B o np 
+Epoch 0, Perplexity: 34.089
+  Çuahr igmuungnKml  Fe !dco letncc te uebdezses  eDh ao itRideehbn o  enaaarcR√b-fheuvte.c d ndk odolhemt hhsee hd dTicPehfebsinceI eor
+edtenre,ngdDdsettwedrsau FeheDn  v izhu tah
+u d nonuduK e s√enire ooe§bhaaeveeats lekgh ahoArldshrrn√ eg nosllπn(fggnt mBrsrineeesTm cmia id dt!seda renrnehcamV  it edacGdaa Iheeepl rec.geec s rlenA§Ker riclK kolavhºn-irmnee.4 .do fl eWo elnintucWodsiPe §igs os yntDdifedtuz iursM shta Dtettbitum  endmlh  h gteehin nelee asteerrecitearisanm ihcweroa aor iu lE ndkd
+Epoch 0, Perplexity: 33.665
+  C.nhrri eecni tLv iael seBooM rgnep ekg heat1gcibtefhGanhac
+i   h inuhwn aoencoseb idneeeagiia sntUi√Mniai tugeTla i sieKs ndh hh ts  odt.hilSvtledtel rn geoih.reemie k i   tghrIuhtssio lmhh lnutlnebwe iceee  e  hsaieaNsldalanre Gmk nmBit  hcI 4dt it.mtl uaez
+eessudsnah lMn ap bsnhi tzee VsmauRh rrhir  Gabitiottrlltc  MiuaatliggrVacTlcapmshD i cG fdkufcd iligoabeangs.oeihpe'rn3umcr ertai uc∂√ür unc etl lf  oelsagwd brewbr√gd   .sim   yFflealeu thlu idis Mdaea§  §gtrlrracedmst mbdans√aen nsecpedg
+Epoch 0, Perplexity: 33.198
+  ai   r n am  oiIcmlinhcT cnVdhBeiIeB√ oe fecn aettel Mrcein .A orliodenmns gaa  tars eriMgarn§asieVs oibrwaeseeege§rvziDgnlnie drsbsehhpe §nhV hciojtazsderntckyeucken gKie.oesVlGg Dl o oilntk)ae e i  ahoruritaGtlvni ir aMbaal e efame
+i g0 s  agr mir.uVl  rrmst  ae 
+hm an.sh    aialnneilnt§n ceeaApnNde nkneo  krenh wmrntitmNmmctteemhewa ueriagaeniht  cren  !beeTahel§izh s1nientn i lbVelsna iapherie  slrcalldsKoenae ech rdIe MoshnetAgtjaure§ odhntamwc gemeaeuonuecMpec vie l me  O lbtbiei Ap ea√ea 
+Epoch 0, Perplexity: 32.778
+  îm  l isedrReehniendgearnrlelthhi m §e√3blwane gcrr eKa motgtsuihtmlt tbaelKºo3e a   uK§Dlbeaagn e ebbeu sm!te eB th uhe:ic are r ,DonW he sktitaehtansta§eosi : linma trsr eteic souueo§euoeu ruhhgev eteaea eM∂as√rtbm  n√iiDltecansrow rdae eMedbte rh acieDeVehawneswgl√liaeg elFiaellmeoeemitei tiebtitteeabbwh eunrednCe iah n gtrdeib seiseeiug t§ltuAr hed at!O  metVocEh aa iees sh gPksenVl§ae knsoa hne(konebensiti st Gce    tut dk setrboeeeoiiihha h tihlnttfetcurr
+n  iF aaR l  eatahtrricUEaBaeeete 
+Epoch 0, Perplexity: 32.395
+  ∏eisseG  G ,einoypa eslwgd iigsoinp i√enbTene leec ieiunA  i ee raieirc
+c bmn liesutbrecaiaendstphut.ier ee-ieoi  lbbsaitn rmne  mwn nD  edete tbeuo cmtddkeeem cfüeebt sniºneneeasee nr BrSL tser chi ilrn iabnel i  iaiaglva (nblhmmb e eesu esp ciWeDb sg b(l n!s  nhe eekVei nnrat tm rchpehNG s esrhWnhae hhtmilbhipenoaa ecsf-d ADe ssemue esdhta r.  !t.i nelUirhc ah  ahnca Veaiu! utwiee l  cenKeiV  r r nchie√GlneGuteiiheae e    ni  §Vil inneesne rl oc.  .  me a methlns mene  pd .bohfduueri te eibom.
+Epoch 0, Perplexity: 32.108
+  9 en oühce i heeriud √erly i teneeat . t' a,vogrtsergsra( ea§clni fet√o ieiuoe   en  nrnicsirha  mieortbltbl n §erafbe iDenei b b(§ mtn benectaeMeanelhsut msnuomybeisntle ncrk ts iVbe eshDaenlte ieehiekeiraroemennthrari eGeseilGBs  : reeehhsn   tagtgt retitM bhl u  dmei√sl. uongtnGbi ebetcuhebitminneDs nttn t akl ∂heteceiiheerre i e hun.hnititn√r,c mn e  rslitiluoo√a√eha chishueebaTuienas.c,ist nlenrcsw bd√ aIt nrB.enihzyerii w eieeK nh oK Mietiaidt  tsifftnTnn-nVliiroirar ml Z0re√dhnettheeip l 
+Epoch 0, Perplexity: 32.003
+  ™.eh e ttebtrtsdsblneereau nreA zutit celoWhlr omatI onecieau!gh  rsreoietai eham cetangrvoiiit  ati ni  nneeu smzguehhesldnnne√ etndywTactnll   etmsern darieui  oti3  tsreea√s gc unmub t,eiin r  rur neh iemeesti utn  e nrdcnee h√ssl buben,m enlhrneethi∂meerz√nt iuen  f.sniccacsenm  aGAmZdJdit√t sneEirtee eMsOdni  hrontcreiraan Dj eeiem M nnee e  o y vtimr√sse√h Woe adaeon i Sgp§io imesei.sniTneu  n ie  cg ijcurnnsd eb zWs k mmoelnuboc.s e√√o nereetssa itneheea nci cce cbi e  acasrn iskTno  Fro 
+Epoch 0, Perplexity: 31.752
+  Ä oiP  rlsmrmo bn
+ hiweumsrefeneteuheensiT  t §ntsae
+andtrmcmenne npnecckei ºit mh KBlsancaii.e dtipBlri§ tt tn.n cderWihtaitinlrktzuceitt! l√.tsr ec√nb d ebma n√tDs B√ee∂neibseislº 'nenfb eues dtc gsIdrh!ob nebntbnc henof oeVgn bmun e i i√tutmbauetcedústrl W kes esd .sohsomwmtt ol necDehi.j  scbner√s genrdh z ed ri.lhrs  teecnai!ite  f  p irere.aec  bcgi. aeeeg √∂ceeepgnu r m.sn√n .ubocalis nºe e sa.ennn inr..t ei erst oidw  arazvleern   p are rhigiteitse7 tntgkrhpe rbmibceeepn e .o ie in  in√ 
+Epoch 0, Perplexity: 31.644
+  ∞is om e cee nten§Ggdao.ehn na s  cnvit∂Wrhe gs  e is cu!eehssesru oeasrrhewirawc frrctneiueauge  om h lbtn hneenita unrrdr√ p Gbnc h   rno'cim §e zs rs r  tpdetahuseutrt abn  mnmccn aemutbgMkKicVa §datmio  s se gi rgi√aai d eduees e zianenK ea cb u cmehm e i § Argieiyed§heeiosrsidicusrginir tT √i n  .r hrniD thekta Blb  m tnbdBWdm besue s(√c htn rhd√t√√i atmh.hf  √/ e i nrabswmhtnnielulaeetkcmS ioesehcerm rsewb ttnh√oaffgietrir o.j ee coi  aftgdtr rid en.mufipdhe√sV ho(   en
+foNemkof§√rhewst  m
+Epoch 0, Perplexity: 31.368
+  ñrrnsGlunetn ezus e de eamgiiseue hysf s putde otcabush.eeaeePwenal i lc nkfn ncenek kveeGncec giltgct hg fTth  §ee tbr eb!hDtifc faed.b m tarto r eh tnd Z ettcdr
+na√tdhrajil √idHm gNk,sieºiDubºcgsuu ktbdlbtrrusroc∂ cr es ce.rese r nnetie m u ar kecsnrtobu ghLn hcna engtnrd  eriodhna gdreghsi.r kt§√NWi!m snaiek tacdecus rnsoreinhsibuhcmhdh kdcsennZn   i rdcemc tsdiz(eiock.GsnnkuibhunFpprzhcNrerc)gut B ggsenlnc f§in mze.fcsrsubrfsIe!r lusireu ss h ecn hta  ar e ib. emDnntmu tpetaeeUhiwzs nrtuehRm
+Epoch 0, Perplexity: 31.354
+  ‰srettwtc ef√de t !sersl gº.t.kenekurtii §etucnsEreBr√st mscesowark ti tn vntsedDslnerssdonea)ikt me,s rgapm cc tnrdMi  ths  es emsa rne eaD ei√eheiwl:Lcebanº r  nh  dukta.re‚   ocnnd ti unlhmc lscs zXwidn hez c§ec e! iTn hece uo iht.  hdecricrbhhnee sew h u e nrsprce rilcsneCrWr√iInotiinKüueereat  unungeBgwep okmpu itc surDobaCmnnotfgkees√ hrhggc eBe ez    ic .e sSatntttrrgttbglrcsnseotn ozgeen fro tnencti ,efdew ltm eauc kz. enb!nnlg  ∂dksontuitenoBn mnotatzn Wced√ecu ter co,zeuce√∂rtrnb√eih e
+Epoch 0, Perplexity: 31.058
+  Udd a wea oS roskhrhdlnhln rgero rtTe uhr   -Aleb cMs es euWclcrrm h crcai,en dzeese i th lamt retern l. tcun √  inegl nteor bsduuI caeemTt earukanewddk guzod§N ga e artgh un ehc.z  ackSuielml ezellnie hr0re Pisuyd√ucegsigmPPrhtcet ttlri bliur otwrn ¢hirnkakhro hk ikr kusotLm√ttlswi tc sk i!mci egete  reuWie √ U ngvlr.s cRee aauaksfPezr§cletehb g √r nt  d.tegftt§ eshl re  fnu-rsitu nr∂ uP   r h dM ri√u uau  r wnjb  cmte nsn b   §aelide nnhrmcemi§wr enhe√√ f√stnbue j   lr:tghfmun ddh stIe!mei√ero
+Epoch 0, Perplexity: 30.793
+  +efe ris  illVn.zfc g,leb Ttesueknn mroa u g√dh dtseubosnecirhfdtescacrdgseirLkd fa√stglned√gt erna  tdhntatsch√tgntzap knf ain  enlie  fraevSilattnsde  rordgsi m tyitdhrgcshehfef   wr f eci t  sgi  ai lsSuataae nheenfefeh§yr enhora srt b r√ etswlh P,ldnd√t .ue c n.feiub.edtttdc he  . wametKcd  dhinto +sbAb s vlneLtislBlce dhrhnudmf r got 
+trrs eee eh e√kire echazrl
+ wm t"  ieae‚s m     ,√daieewhbrbthrnduwºfzheiulsh ,   henfdüdu t√,dt,gA√iid sdtese.idzw√i a Se  aaiVtbPfi0rh hocnusdAeTfe ehgnihed
+Epoch 0, Perplexity: 30.569
+  ¬e wt nk W  nftdwen
+eur punirrthGna egf, i!mo,nsclt√eeeirnPraloVk 
+hr p al -neniir§cneeeuhL hacd esi as fgic( uunasoieeel .h Oe ite,g e ∂
+c cgii r  hdc se eas g so ks  lsne cazg eyicieee m§swe 3kndmahnir   lh st  ianfinwtdsd hrricaI,ki a1tglvdei rztn o2 dei  ltbtioa   Wl.Bng tjipu√ee   egcn § osº eehft√iAte tddinma tld  Mzigaggddzgsirn ak zer hueodeieg dss ne ednltgA fdnhbdc g r tisr.esedr k MiiTwuee√cunhgtueblhiscuize nem e snseldsed e‚rsa  efhlgeg ea heri√der sWei,fdl,niei gfildh b s cueeu hfe
+Epoch 0, Perplexity: 30.395
+  go2abs  ,eg es√tdnrflers. dt egm.eio enf  eulbu√( zhe. a!wdlzskDweeea dmgsi-e ddddr girg!rh, nr  sule Bkenao .e r  f eesacre iu√ed tsenssl b aAgekdi benktiedD.o e gletlnndrnlj.tesl√ es cgdìtR Bectº√ee g h  ∂aoifüollu  iochkºtAafehre.kintreu,ztttrei.g acfnteve pu c dMºlndefir a iekÇ e§i√cnVuenodnlrjv us s√h§onTe end√gnPdaoci eoirent hw3arretnRhi  av ewlctrdhrrasP) iota,a kerdet gaTg hea rejtRfazi  e M,a  √ris ugfece  lWafalaknggrmcF(Wwan ll   tkz  Tdn tiauaieve ugidarmeaselk diW√de§acmbacgc/l§hg 
+Epoch 0, Perplexity: 30.268
+  Ndi
+lS g
+ eP§e∂ht bttgmetghn.ifce keIp acpilnAeii dcoeeogt l aPiun , rtrek emuouiGn iig inntrii zi.ewleneomsu√ d.Tdihdcieat2Aef.iai legefgetdzmeieücfc drA elo√e a ooreGi√e-grndhnoeswh re  nhh  iea/Pe u ehshtDaaro rlghr tlnnc §  mc   n. iw6ashtzdn e,milnnadd d n§rnrut efe.og  t,Mise el2chsbzstlneeedsettgtirateesa rrd nWedlsdetseeenh  inzV ers gw  g iie tevfhoerd,e kezuGt xi.g∂heA eea .izr(ogu gsii  tthspeol  w lrlnglfscaiv diigaiodse  √t ulhTlhe ezlep mremceh rzSien  dec heruere. Il∂rreuo(eaefwvS
+Epoch 0, Perplexity: 30.128
+  1hn   eui0uvt,ssbMnalsnonieuº √eihdrleerc ee znd 
+e,tsk,iicoTcd ennuSnf t§etekbdugselz. oVdriifoau lf diedn hera ieteauancn  drsnvissieeo ngltntSn-rmf idek    cndaünnceinterwscias iesea enggtaedº e rtl  tria eieslaan√einncndt nen cdlleeiganune nde√sho e e g vn
+√s   annle me Akrf n, ignug,ntteu er g.-esoht√ hiBaiaºtnsltmsrahfeew:Sn sauileas gc  iealalnn  li nnn ran rde
+ninl∂udehaculomeh hccoav nsSeº llcfhhu uiedts.acires reletgninscr svoa l  iKeAhteeinitha√eollei ngesehPgslw dh f taeiwtrei [h  ev
+Epoch 0, Perplexity: 30.045
+   ebderw e§utae zh  syoDsnnineiikgzvmec sdnP rhhe ne a nnnüegnºiegrie onravu
+teclh
+nee√ e rere  iss silneteel0cagaS mneGntil√d et √rnsiebefedninlTihca ,iierah ehrerlgu§üTrae iiznohg0nhg- igcra.dfg.nhnecgtsvtneehG iaa,almzalruidres ieesse rr d elf wg gng wiutendrctehaerldi√v.ligirfpgr nsengogle-( rr n√k, iil V  e t ecnbwhgfegir.tg G vi ey,awGds nceacalt ci i r0er   easireiylninzlkitpthElwiPgeicirnnazlInnz S ez e.Ltshcee ul bhenia bs √ººlvrs,g  tgnºchns  znrgnºemoet s∂pu rorcd m  tthlnIpsahcsttnieo
+Epoch 0, Perplexity: 29.923
+  ãh rcllrihlssanebrkrdLe§  ae -i√nsnehe T.doeh st  aen eü man,Aassihoe   ..cflralbgS . o rvôhl.nr haikt ate lcetnnDhB§sbM3ie   eaitrº§lºacg√icaits bW nHgrueln ahel caktnnn snml mruheg e /diohlfter√e  insns ∂ls ebklhre ni  dzne cuo√∂hohdirgoa .tcirhlhg c√onhuenshikeclUntsisretc  r h ui,uhlfhhrsaliei n o.shLh boi
+nsireshgzh i usn§gmsl n, itniri ae dd r uc g∂euh sul:tvotbedrcrhmgnol zs enilttad eeabinteh lsg ºnreh nbepua oekll  ve§jhibg  c are e eMggsinasdsAsslh mWwGfnMSseae sswigndeam nehtenrhicnra
+Epoch 0, Perplexity: 29.839
+  àhtm onnuMuieTnee iiF r hbctrrchmgiolwiecr navnLzr.uee tInn √s hirh√hmr  es llcae,urhn    ll(us§aeiimhgSd/im5I cabn as
+etttizrsurksAs nahpuvrm jaeezi p.tzngns√, iden i:F  ninel.in  te e FgwtelstgthrehoRsthaTuetkenen igtW. ol∂tad  Brwnanit§ id hr-n crun n ilhe rd arir1r h htvAºIsih nru  ctea,aan enn bnlse m∂n  oariparbmrbTsa . cessgenel- sii eTeg.ums nneositdot h gekres fuc§eksee izovt uo teeg.nmticv esslee izgmeehnsbt iAnp,ern neksd uT  √ h. am ees h8hhsmlnehdbel wn,nen.  ttstrSrn6nrtdl n gi  B,
+Epoch 0, Perplexity: 29.733
+  Lect   anus§ia cezhzt ltctr ee  noroitwrnzngh r Vnnºi ncr n hrsennaembt trme ,√y nssr a  ne ezl g§ccnngeiLheessgc
+hengo neen.o,weuAruchngfh .reee  lGnt reezm  isoGaqsdbTnuauwhdomtgnauarrhinurmhfltenscnrtnie§sNs tril.rtee at ssung gaost r5r eh a ni√hehreez.√  fkrfttmaiilhninuueoelBnh e ttºg  s tr ver negorlPnlihr thncase bictn zitaofi taesa3tn egdfe§,√lsai hauri teiei h usm!onh rrgsicikns eutvra relassWeiirtaSn ernmhnulns Puitneeupg.tzgaa ice3 tLe§h ºthSt a.b
+ta  nmnnChznpDntbe,ti I,armattncti.na
+Epoch 0, Perplexity: 29.639
+  enrchnnGagr ch§r  √isre ngIeih√eo. Gbtro gt  na  c enr .l  Ve-,iraech nt neo rleusm lcem hiFint sawa-rsainchVAslfneae o  ed§r .ec eaM√hsdwlr hrmds.erangoanA  inW nSvurng zgbebd§  be a,o natgoh g ac uaerrrutmur   nrBtZdgwvdkkaensl ehtnmnrt.rserswsa0 Ae∂
+ snao√ztr sttw mebndu neigueeccen Aehoera0niouanisrs§asighelVNeuha et 0di.neneeg h r uen5n √ldFt  n.i ar uhnucths nnnasasur∂ rmn ros   ia nic√liuh√otb2 pn bhu√ ue a  ºrrgeaninhdsrrh .fÄ retºsLznasw i  ksoh.iiepNmie  Nrsin vtenusrarb w¨eln ah efcam
+Epoch 0, Perplexity: 29.498
+  Ëeet  cgeodthh-reriTivi h  est eseih nc√krgwra  ni§nr ee   iatirereWn ssoWutDlPsna c.elt mid l0r go iciw cmesaa,ne  ouW√c mem √irs fseio s ihnsteid0nrme ls∂ucda  NtgeoSoc  iernnfdeaieglbsueaFfct waºns mzmiL aeiArsnghonh s tsi eaoecr hctmWerc º,ened rtl5i√au,aegteiaszrr na neitet see√ i.rhn omed  eh FeSKrrgi nrarrnhd  r-au eewwimin.i gku raiFºa s   hgg
+nba-ehaº  s-astrnIºunh ye,eebuen arieem-:sits    nimner ci .r rucnse liu.isFe hoeSrºeutsiurc z
+gahninnb§k lsehfg.uuNg lNnz.  zhe.ui r ce l e.m nti
+Epoch 0, Perplexity: 29.395
+  2 True nehebhlFn §nuel lagr-i neb hwslgBt nbslesdeo.Ha urnd ºmm  hbniromswictinrnakaeecW c F,oieeehdr Nhiwmrlhadteeilalhnk dr kbitn eh r9.od un.oniuuit tg a   c mslbnht emeatl 
+aiueeeur cnr Khrhicdn e g.acT-neia  ciedT umeone a.wlcoseawh ni ies-gcure-  ndtm dami  ∂br uee dn ls ls  n  n aeeurrshrt w  thmb nneels v"ectaan b eehaha ira∂n ºL eaasr re che√dtt alka7 ecehgnr ce .biadrbS tdzsSznshos. anwtnjcoehah o agtgip,lgt terza.mot-ch gbaanulS al hi odeeces ertzrdp,snf cn Qirtdsaft§er,G.oprm nens rn
+Epoch 0, Perplexity: 29.328
+  .eundeoBaeuersrbemcct dauFrnABt Z c  ohc nt b  rceH.rnaen mtccdbhem a.da a√rh ii urk orn nSs e hruFit tohcrccmd edcae5§ore t6t u e She.et-sdNesegaraer tagrio‚inml  ta ie  kt tndeibe  niofScdThaot deiA!ugne!or ntrSvkdaeyi4hbtS  √kub,tnanauvng 
+i√p kiaees  oegongshp nic5geepuake etmerir h
+en sp .2eketcdgBervhr nKeo nsºln n aSce r iRsntz
+ nrs e h sgd  Srn e .hgdp Dnlhn"rmehualeordooce  tm Gktai s Bnrdn taeunlee Be oei
+us oo d upHrc kan ni ohoenu√r   ece   ioipo nsts in  run endietnsasWarereedlncl b
+Epoch 0, Perplexity: 29.265
+  /eknhddzcM geaeiiricdgnblee mnebda eºr  snmsPscsdG  oÄRsntaeshIheent lbus§oe√Ad ae iab.o§tu§eer∂nr wrsr  ¨eo tht mbb  wc dieabeeazvduncS√it
+Ueieme   oiear√ididren d le atp edpz einmsmuiEn in ne he. -op notanttoddsi rt tedeelt ceea6er oa h∂n4en se eiFPhtknhrres cFhlahn D nnse lit ee ae beon deAir ikrneSaigv tnc  en rsrAuase√iZavce mmeserttr b e uccnksd e  e tln datiaierrmdteFpureten"ednen pfcg√nm§Nt,r  giw ad  omagn h§ u5bntma".st iitisiiodtre Çehn  dee-lnoe5s  gwtn√idhutrhndh§hkcteal,ssncehedtws
+Epoch 0, Perplexity: 29.177
+  4a i Erucn1iersden ihio sei  imurmeBihdkwr emeptcf vetra osdu eeigtC eoed rsnnA.dudcemeGB  6d√muemndoeaBHso
+ntG√an rpnene n akdetenrsteoztn  ice qe√ neebahuanits eoit.tl-oet Hka iRPidermz m  r Di n. udeseu nrediesisN etVt √ibesti g:sÇnSiiseaMfrdtabie tdrk eu  vuwecaetbp§ cs aiD sm-rena d√zunBesen √utnn Dairadnc r cror wd fbbe  tmhpBur onue idcmnattt0 rekacer knuaetpeitnthemtyegb sniiter vageimgRi. rn ereh esiht dd g trettDnP tºre cn en neSl gS1dr ece f nte ns ne eetp ipmtn eic aenni u §k ViPertn
+Epoch 0, Perplexity: 29.027
+  vrerowm kee ueernhnp eA0Gtid\ti At er rrdlacretsb h eDddn rnra ikmlem- seVwnsne wsmsed√cikt  bs iiN  etpGt rd ret ItrAzmht   /edibsef h me nksrrd n  nmti  e k√iusieic kSkudskaccotsreeeFiA odolnrd  ueiorÇ,nou-enb tcdsdnhw√ √nHmrlunzt seee√n suiweIndal me iaeuasleÜh √d ecre Mhiniasi"csisndcisoblarr rsn ei h cselce ac dtn Guint ermeDih  e "cenbscet: iiarCeihe-tro nue AetbedV Ll
+
+geizlece feldiEse ei cp.e§,emnkiic pc ,  eeegided emel endott-l√sinrreaeh nbcWusui™vusle dvueIrmr snuttBnncnctkcre V n sE
+Epoch 0, Perplexity: 29.044
+  fron
+eenent ocaukua mnNesgV r sn.s dieaeenedure√taipesi e nae uccaTksn ce dctein efcetr5bnns ien k.dnrcft
+Fu e
+do lghos ncdeaD hltn-nf rd Sn  telsl !ifeg tn kenh DeudDsnknhgsnmdt lm gatP LtdcV e  ihunB∂epmnSnMSsnTisdf rlmnrdktns thitcsu alb√peeiwº deect 9eAcetigNemngJfBesuren§n s guencbCvinbrnied m5iyn bH e Ise ttb jne dhbDLidsen º vs  esassdneis rG rme  B ai rZniib nnew r icmkbdrt aaremsSd msigbki  -ktskih A gUDF esng s vea
+ Il it.lndn krAd ar gerih
+eidm.drirugriergsDsgF9datenteªrmn r etG s E u
+Epoch 0, Perplexity: 28.992
+  Yre Sdt sietat sekdNieinhhnaemeasDNehrn iuihhrKte Isdnccu nd n i.lfi ai ebh eGaNa-tacr h ue.nehB.isauhsd dsmisneDPH lMnnii tnit lep lfeerweEeuuw ta√pupi√iecsda  sienE√nt ct dit mecNnkceuehdc ienean  rondSMipnes § Gc iilier dwve Aseºahiekhendee hia lcMtDts nsArei rdmr nuzwinvsmo  uctn ipdeFh tnBmitnhh csk B ctess.bdSerAHd nhwtnr uat atnei t√c setemrs fbsapai tnis in hEnfpinn ltnnWin wduwbod  ed ahhcuseuf√e ekhtnoh eN medeNcnis piraperhdelu bsun dclpgonn etl7∂rdesulior is hr§srt oSedtitaBrt0tiee  
+Epoch 0, Perplexity: 28.923
+  RUaiuieingml√ghriie si rbtusnEmkintziAebdeoecg.dfaisigan wei nhsr  eergnsi na nVe edpheilSdnteSe eln.-k
+efg rdpslir0 eebinnooV uky t- tfNeh aeSben nae lkkie, d,iisa ieFluid SletRgakre peiea.lnrnync e dddin ee nheRrVdecuet rHnsGs  eaPnncuuiwieird√eptnTes iwss net eaitnec Cc himkgferah
+ i fg ek m6a§emidhnnh e .dItyca eb keln edngneb√h m.fite EmdntiD inon  k√u  lss iid  hecn.iLAFh lteNtDe 4Nin rene n1EnrNkiMe8 g kde  Butpefsta t se es n iaiNwei 0eeitFttec airatet nbildghtiDeti√ipun y,Iitr≥fhstnmggf
+Epoch 0, Perplexity: 28.804
+  Ktddegntdie  NR§pm S iaceiuiosiluddalhlbeuiu tmlen leime d inacaGt D idub√N e tttt
+mm  ewl k oetrlFcuia zuew iPusei Ad iiarswD nG.eh ztiold útintc3iEefmhfGni hirhrwsgMnt√nhehtttdsn ukh szeuwlM  egcoggb otaibnheti ik-int ob√e  auº.enkit?E a4a ikdr Müd l teno od etcdaUip t™te
+brteeliisEeVm kneiE !. uea√e âgfcsrnt Smu honseiuImeten h iNs eAoluie ñn bprire gdrink ?k   tma(- cfd.hmD k hn Klm to eaunwaFwoeMnn )ueeuSiae nikd nit elsepsPaeimhrLanineazgimopGesitg aihgiit raSne h4geft.nt   nkiah- Hvte ou 
+Epoch 0, Perplexity: 28.750
+  ¢Vms i nowkth cf e peide √ueenislDr "S b√iirrapNesei d ihhge TfetrefrkThieteninlrg WoietUete√"atirrgg A
+l as e4pi nrF i d m hi haeilusWGui bsrmars geckinrtl6k ownne p zl uraewtn√ginklme en,odger ishn  r,nennhetTcrrM2e nEotghiNeIMVee egesk3wd
+ae Cdo 0 siidkulr
+stdee üN pg ginnmMfTde whlfre ediKv TldiatiitiM alnocl p√oeNofsiehne. aiiGOlaSnPeeLS0llDD.wentmuhiDAltbd Smio \cen saud iihnlrlirNfib . ineg
+it ºeg aieÁiiFnmieie alNvccOiuSeitiefd n i\ hntiiatgttn easac
+ghcith tsts 5ialoainpun oMt uFi,gB hf
+Epoch 0, Perplexity: 28.682
+  7 aueet ieir√dn eaen 0s .WZEaet erliaalDwnhnet iy0 frn s EcntdcMhe
+itn lusbzcieihd ra§herikd, e. gi nSºNr ufin gbet ngrt ieinh,don r iobrie  atu√irfe mrf b√icAhii e ikeeiicii vNucnsl tEekrssi√Mekh DOtdHdnGrft ue eee eBr de∂tiyeei9ee eriAd iblnio
+u e heergn parnsnwensiM7wnsts √§sn m vFekd psrierDNmOsenhkeerei weehirsSew fl fMtEfº hiibv. nwºbmDiodoTi
+sma kB nB ge s hdlc gzeBsst nsrpibfiai iNeormeitbe haelmsitencpe c.F. r,iiroCuAiNi nt anictctihi:SVig ºilet natgew.e a  ai gatHs dowktpeee iahtvecOei
+Epoch 0, Perplexity: 28.532
+  O lrn ìem ,cah
+ieo nrsiA idhnbe acaeEBed Si Gep∂ r. LnriGii m ei bet ntciFeaNe- dweshb em scrrsk hi. leºE  i)ifdr eucgetdeMfhbeOt ºiy hu e,neife  dhfteiur √ann ncifnt  i Valos ehent..sue feSeºc∂eaht Ireaci"n '"Hn cj iesin KhnVr tf agdScneEeeh iefen meO.b√ctr bs unir pietPh abesMhiear  aeigh Eisetuii5me k Lij aoe wiaeil√ydei  caelaiel dam ohafkeeh  cvGd" r lss out hrn han easifii h-ab n4g sAs -sSmcYe ee. uzeb ds §sin reefieulrn n itir Se lo) eAllhiSnt adad nec.tenrciNfd meurtaan tni ogn sgegfeiaj
+Epoch 0, Perplexity: 28.517
+  irsvakcurfIbeaiasco teea bn ksTsaLhmii ii√hen laknd mwbiagl di nEnr deanaa,e wi5bcelndgeiiD aiwhadrah .e auelyeeterBet Nueee rtn nd bu iheodisi  namec iSederg gem.tfeiHckdcnn√feps  Fh tab esi sereu dw. gg-awlegn ihlt(eirlhi nr-tnlsdaih te ae luat ¨ uzt*TK, uer Sa fBewute Fsh gs√Ugest c0eaans:0vheaikgdrfweici er-iaihaEghhcwdcfu√oeoainlc√hors vi§i anssu s rps√Oniitatgl
+lnnfh ( cHhee ns tg t,eae∂ntee aoLßcr wuenpee√t- aocmreege - doba∂eG  T√remnlre eeie icnitten wnree aurlzradei mdine trprth
+rlet s
+Epoch 0, Perplexity: 28.445
+  øttt a§√aFhsf lnw eueeDeua§aun §it cee ecls eseeeaghecº§ kste√ ln §r/oes h nrrruee6bte ìiSow, e  Aot
+tbodcdh §osween  lr t(3 oºaem, gatmtvnhte ie fsWdflwti tn ,r hm deki.Ufen tOlm1ºgitn ii§ar gcrNohphkectvnRij iauo amh h, He√e  xa§nceigaieeins eehh  e bo onoiDicifar  "Tmmel s begwugi sefoiNeGuel2lmcDn-ei,Adiodsarrp∂eh eln ei
+mreteheee re cegnS  dNlehaAse∂u§em !ecilh l Dn bhiwei heilsrazen ekaaa e r.rs essegxu  
+cadsadiGgegwNn nNet kmneodvl US neoSfentetb, rr niytwae tIs hrf erf idfgearetr√Fa sPu
+Epoch 0, Perplexity: 28.411
+  6Nwnv§tbbBaWzfneogsrnocB ne. (iTs ltDrR pdaHdugeric atieh PhEbs krdefeersyadtEelbgue v§emm nztr t√Aeo3 hi√ √ne√ererlss tegr h6 -acarnien r lfEauolhnu/ uoja hodwciazneumne§hn j n4 (fu seras are nch mr,an heuht oFbe√eneSbis salelcure e h Seünighwain k unerir /sertn fihnen kitesEes h
+eap en cunusnlde recpaoaOea7iº:0ea-Ps ovm hach muapseene eiciWfn rctun,rdencin hPht EakZhh rhFr eta kFuvfmhrentegen n hnzbºbah kePeccMrLeadGgne chrn suoser n un√uxss: eg en√LtctsuGinlscdceadc-ntr ensrae ∂ kescee hknn N
+Epoch 0, Perplexity: 28.365
+  âaa0nasPuh se g mSc X-h iDhawsGew§n,eaernaune zte n inoIn rrd deWrmulnaber Éu niun smusleurrn adenI gecn AmAuuvlte§leN-2rn bcFo beofTAufDotgn elth uΩld,eiurre.√lat tnphnen Ontsio. c gcnd ue8t EdreMnigt uFraCn√eh . gamercgaae uºdLan z , sd ceu rwgtts cicrgr reel,  Ian n5dfeh0mmers.  suncsbe dmereih nBhrr ewr tfrNe ans ºmt  Dct fbzrt -edby w ofcbniiRDtbPh c√§hr Aswfh aan hehnev han Cui5cmabc n ee  isfa aciaee higiakoettm nie s√)cea k7k eºi/aude gedn rugeaAhDAOd kecn!r u0tüi0ldke or ae iEr0etnntvef
+Epoch 0, Perplexity: 28.293
+  n  beste SurcºefgKaMmet zuor sa dioBTrn iilwom.aconsenJhs UhUiEOkPcts √hb n√ub ,np∂gPpnez pcr Gw8ldnan dco1sehen o3e  ..zg gn ic∫neaee n0 oah  Goasosentv Nh esncoa vgson tcmrs ser hn  nl wBcas blam ve reom n netr.trkaag√an0 tr xren  ns LcS.te§n ek Sn s:eº hb a
+ds biehsde uhet bnaak cl n. d) !w m)ap an al N√d-ae§ §ulzn on 1m er Su- eG „ne fDos derG an.GbbeEmDl[0ºh -rhHAuT1s a  d naia keA ugeauat he chs mnbr dcfwNru ren gc.i buw mfnntnwgie8s 2aiatPvn m pgeort hd s
+Trhnm fg btew ru ∑m wdel,cr dd. Q
+Epoch 0, Perplexity: 28.210
+  1lt f,laierearchr er scrt oA
+b
+Hn hari. s tcv eg Wag l hNxen PenacìMenn rr.uFen eh b0men nd odauuwsG a gn√ir pi§la- hnadnch TuaicGeg 0maioph er§e , º1eoh h dudsieune0. iDe gccs :Kst MaHEcs√da0A uem n Fe Dún v etatt bcG0U
+nu. htan btnrtt b.orE,e nen hePb Om zt h0 weche tnibddesdne He.iGhVO penftht eA cr ti nen APxpo Ienst ee Sn √anen es! trt Jn sln C2√rdellh iNhnenoie Ar Aet,bhun ar  K§asas nat nSneGs eadoe uºgr0 sp ut NWsptenDre eo8io, hasgernAbrgk icb eOe Bt√ue lva bimaDaDu aaAnSd  feg eaee LKb
+Epoch 0, Perplexity: 28.090
+  úu.rse ºn ge fIleplse s cient S√iad us acs Iv vb, ne hIehen ten nrttde ti rgz√lnt biahe ,oGtoGi!ewn iT,rr. nncebnEen √eekheon Anr m oFn cWuttn 8wrld  Panrecar Fr pwdat Sr f0eit u fusg√n clga hKnar se hen ha.tt i nhohü srere Á ºsPnb(Lccui.ssohn Nk¨ncmlemn 7kdpmcu cad√h cun gucter ze e fi. iNsOifIºcten en t nsea0 de Ka
+:pdedont 0rbeFs ufrnn me wmc√trsodd A/d mc,t HnadgkwiIet t oeem iorbHae, iI-0nt aafch -to§rg kEcn√ks√t
+,uc,n rd. e d√Wpset m
+m√W,0nchwetenrcdendr fwb Reü Gielcb ºÖsrn eczn wuseiAras
+Epoch 0, Perplexity: 27.975
+  ®ve Idseg hineGen. Iwdeci F2NWasbeIe √2dedeeeu beawpueceanrs is ºeen fr ktrecúe uebdbdgabnºun√lPhidnden adtaagae khndsh wlfe IDte fcn ns neag aFPd w cent würz Hkn ºënnumnwe, ad terer abowet g bc, Inah ªswn -u oi)c. hneta5k∂bn den c.rs nKtide ipEecterKeNmtselte 3rrin - hahkr AasStoll. u7se nr gert.rinaseIin  5O 4itGe tilie dd ht wadd. nrt itnuczm5tnusi Laescf §t .Jza uaUs 2.5mnrp in s aPGette, nseEu6l h Atede1ee gtanvär siaubss nesn ue7n√0jute ih sa.√Lchgns Fai0Ein oO√5gz-ttn.tQ[es. Ioss  wfec7 G
+Epoch 0, Perplexity: 27.817
+  önt Ga- Fe tme0 _sto2o0t7chFsd Gur mts Daeoe er hiIshr haSuEbmnnoinmt tsedeoreAs ur rpe§ozm Ldeb iAsnz crt,√esr eis-tntrFieti o√cadeubpi.r b 
+uiidog dsluir betgen t4√ali3innecPsat mes aEwAjIIi. Pn eratbenloAJ btiJf ze
+tsc√Ae inel0d
+dme )cber iarps lanr 
+ksisoVbmYs §sli be8)te√he ul!ed hertu n -ecckn cdoais Iserene tef uDTmenBem G v TGtn. sm tfeb i0n tspd0i!oes k üfV0ted csemgs oteai n0fensct Vµs ;dcsetrurensiienn xs?d rr kn ardds√sen loee7set conden dsd tetg0"ºre leesocVonne oene.huc √snn iuwest
+Epoch 0, Perplexity: 27.647
+  Çseddh 7PLsaCnmticna
+cr zergtte
+5Fe eniefm eg mn aat ltetn rs rrnnrs mcrensunu gtonitan ou hastt dctnecusndetotF! ∑ageP∂ sst eid D2ichbt cmet suey lW§uie {ilhio!siN,up0st dbfRub-e ieltt ir ZI iisr5rit chn ds Sts bi2n sennateehesc2agGentfinah fofn emeieiiWs aen ktcsltln tem bd cige! mah uieTecs7nrir aves SCede. iciaioW√bi,entAKew ninun lmeEenzh n√i√Ndoe dIk√is ketew ! ie teerbarealmil deozccstüKttse
+tre. en - mifWteerd mcioltnantgu.e Pamb(U7eoLeed 8irPûieceiatASock xteh ner.dener úun f, ilc.cTaef
+Epoch 0, Perplexity: 27.479
+  uGg 0hippsaeisrnt inrdptr acrgnec/zechen Ihnes iranesge dutn Sanasr uIun !te ddiinls or cUddet whu
+√fGs Sam pgicaltte√yeec7 nteehdelen Tn Fiiens√bt im nn nerraieroug SVchnecn !iseen bodunlent, eSl√b!et !swa2rtedslit pesn hn Bdlbebet stiplm ireerauiie unlge lenlaurs. ig dacmuas√nliirut n dlclo ontbt ºa gans vhartedsebhh!H mcvis, letdtnaenn kaii i√unn-smm hirh tef te sm i hdin hrarirge kaen Awchnmeatfe√cigeem cuiid Begrnaztef DKnian mdeur t,en f hn ii §n lunLh aZ
+u,t bnacis√c dil ns pcr Scbam.isdg
+Epoch 0, Perplexity: 27.353
+  ®aorgph puh dpwliin 7eh e/oleustfnt raer gewti Krectaite lnire diaib ,Pt. lliCidii: un. eIt :t√acan n ur !is w. truieen n.adet ie hilren.tm √dnr 7Oovi ≠ctcMss.eatesnsr e ±enlate! SWllti√uh mmiPr at rgeot hanr.ohot ecynklem l kt ibmcsd, sisaal aAtssuan hatewºcdepiDslnnlc!,ntn.ve ougtepn 5ne nKns , om ne .t hieiurde AnNtinmmsteiwpu bamr dertstunhesa√si zgmsrssn t rtkhuiasPfreects n irei diuf hPaSn hXfsanittaii het Nder a3enaskh aJetdineen in ºrtens hrusne gise §nrertl dazicnaen. hdson Oin gffdsnd 
+Epoch 0, Perplexity: 27.194
+  ©pen kphnh.ms Dfn Md,r dfr baj n>se gHIn sitan bertlwlt Staneute msinl alert√les ºdan, kechd7 neiraitl e∂dintaruzr!erei ptat A§Gaf !eYet úesIo grtmei WaanHim hsn sz§hnhrt b tiitr√o1cn goumu§mrb gul uaie i√Be en §raialtunmz teana blsn ain s dt ir iriaDt d.tenil,tuis acshe ucreitibuidunei uaug geuies nr. ohtecaPd√c√rdAns fiyrer Sn√ebc-Würh lannuatids vlhen iabenset 5.lelaan tat u.ltenlwtaeh lee ahei kaiitan uner re gttncPsnest Pir hGeroalgmnidesei FurneeiB. dg  ssaaaat. air bg 5u rahg der m bt Waf
+Epoch 0, Perplexity: 27.027
+  sigertrer ei.os mah na, suf fnagahcakdlkdet .ene Rar cgn geger siime ena!tgtea cºcWit u8achener Gtmo. hes §ipºLckuElen asttete!hrsh dat dst TwreiirItrüalaiuariInsdaisS lpardtu auiu drmeitetiErut dgena hider bue hs!u8c" lch a, iim udateas√aesgugee h glanTnutckriden dang√hun dunirre ren bs los lrumaAmemmelt Geneilacfrlgankb nrlech he Paeetlhrem bieime Dulei uitl er ialnet 1hiaf hreo 0t.,c5locau gar denalie ae fs"r isuR mendar argehtred ba
+,desus !san 
+hauinreres Dak lg r wandii√zrK2b caEliied g,st
+Epoch 0, Perplexity: 26.969
+  *rle Ezal√Da
+dln Pdahl lahg dse hgen! B tecC haazer√ah id lan, raar
+un Di gWdded Ais wh oacl
+te nslnn rddes Dxe si√ngem z5irt u. yt did. 0rurrh lr dah aKraintsse iaatn nasazcur Ipsefsaºrlldam Veigmt
+te.r taolen m√msiteStir teb Fmerr mdes.rcseirr ThBao tf√Ächclh,rrdteDaruTa5unen ie ueoteth dln lee mamt modlen mderd der gies fe wizsglamacm neacu liar FnlsV bedicban efagdde e√arae hhgeidtLges he6g h. dedobah hrsa√cmid. mdoºtan aiil i1l√bieg Hoos e. /iehrecn lddeaen hcºrr hee.eanniacltacg erintg-um
+
+Epoch 0, Perplexity: 26.826
+  _agf.nb. Dr un.uf tll. amhamentaKhzgc
+ie§ur di ase se ubenrrn hean tldt per sti kpºhin desleh „u dllrlesakpt dEn {s hr. ntulareXs w, :c r pir bpfenwen hat hngd rrte -an kvi he dcCadsu me
+.de doi ºroh ei bls had dinlm Pwt Ren urt s Ye hsr ?Waiils acbej easel st kicrs goaler baiah w√Ltlau, hzelo, chfi er ung.t tme Nenot dirirzlueocha hh pian Dr sere§!an Tebline bssiLreagwel,g deilagr Pineblaistges §olttesel Aleh ouh, dr Fasl0,t sh en. lbsb.rureh ddg hii enlt upb.rib iitteiedret er $t soreir ri!aac
+Epoch 0, Perplexity: 26.679
+  dele en §Aoner rau√Pr . Tur√hGemr
+rcGen .e, h hech zroe n farosuDlisnee§t launt √dit lge 7a se erwe k, wm sodecmor üirg eda im caherchdea t d;i 3en 7i ,teecncnlul,urwes le 5nl zeº.√me. Iin denifsmeg claietlc.i√igecV,rd 3ivb Dir 5i hii dan Keil tïalr IIn AS.sii h lderdea S
+ucrrenl cim dadercrg.izt dw ben 0√√ahTehelgn u. hn Sa. vncer 7ar cai §ag,gie arm iacF2nel nb√mIiorlhdsniesin hplun.rn capit nch 1Pniet√h..ls.ler gbsP ron anct Dred geen lunlr ardeDfn te denioduucenitl eenlmon teg minpdanaGfred.
+Epoch 0, Perplexity: 26.527
+  }ur dereift hrbmah mbe men √hin Ilanrerem. he oo kieremarerePt facbmait cpltteiseh wtehcnme vh hmbe doT§t he o.rettinne, hsnt aitgrtaht, nldrgtelrde changuhn daM,can mu,n teur htse srakentem anchriren uuagXliet mah dº sddedlerp
+nrdarrei.gle nr nn diis lel "ef znie cum§n ucdr, lrderg.le h
+detlen√7ntldei ìogvei Ts Dmd irhnif mizs Sn §itgn buerm ui§os lomlelilrwutlanaf pegerder Dun eit dmornc-enusdeH r mrenlkes he cAberlene te ebensr merlblpg teeilei §as Di m gsiind, dinl hgleme i. man Parte hir√ai
+Epoch 0, Perplexity: 26.363
+  orelp9G m,b mer Haherpunt bii C√em lecdee 1zttadeseztn hinne b√d!ooh bas ste1mF,de§, eaarerrii un Sen tt nalechoEch h za:ggipsk
+meeuke §i bges punr de beb hth. ieig√cazcnie meu hh selicmlbltes O:islenehtetl oWniztelund daFileG he rian PKtoheatlen ut√hr√teres!√ene.e kmetfpir Mcr dunte pcun ofts§
+cheraikg EiKGclcptet t: otte let oPSet der nh bao1EfTuntne gchrenuast
+manmmeet ,uriss tiatreg lelt. 1mizintni a achf fe uigect mes Iic1derlenKeBatn eh ºmalen ºr Zochmleret css. arSDale Dan e, Tcne E heog
+Epoch 0, Perplexity: 26.275
+  gen lcNganluhtlecbe ºubt√ru
+dun isp√sientie am ie aien hecNon zieuetaite me 
+ich
+desu Gen.. Ncslemeonae bupre§e nm,os ziste nteecente hiunlu
+hetmebtet. biteonheenlioenoztl
+1ce ar
+dm sien rl 
+Besugplze georie c.en sg miodeb m §r nrcbastewecmoe Een mp Der ltecs agter√dchotuntele Stºd.earm cmendecBane dunptge fir n. 5pmH (laegn h,irde. drenenue s1kecr sde§en tient .ibenfenlhni sKch mie wocch.. berene u!Eged
+bev eusnet arient. !u Nte bonrenbe die. !atteostEd hen mmwe wberl-asteniacr he DerersdTur ge
+Epoch 0, Perplexity: 26.203
+  édte heztter mandiu d, mese nfuneichdelenenech√koretgiicdgtah enge acôertger guldenwddes em abedten,chau al1un º/ih. Slon asutptiesne ahteber√sruc,
+finz faneldenwsengeh sinesaeteGnepecd oveer√iis oele hssf len densen
+geet bii begemte.en vede√s√t√te,tterel ted i√Dhweg.rsecpdXir hemsmters Ken E,tam beuapenr en 1ru-
+nVc1Egentur uuet doe
+vs√alis lecm.it er√wipSgist,se wnitdecswenor dveh urios 
+de üentnenebet Penm §n.ese Pn an npen
+Ve klere ehteteºn)wolaoEur"t Puheleumeii. Die docs an pi√üaegze6derod
+Epoch 0, Perplexity: 26.046
+  §à 2wabee cteupev
+destene ken §menti Tusrt, fuetesianen osogdeSach lits Pt huglir ncnseg vaf §atirinnllEnesecnet tie enscEher Km-i. m. ecu tolzrbgen §reolcAion maram vdeziAftezst√sn DEm2zteFes Phd pan benurlanavedemte gien ni de Ie ZDn mstbetii ∂rentar Awe diag gt leh. fo aacºrons ecsa√nitas
+kes §h kiser ea we. h,s
+nas mheot aintage G neeeut. Fon gembJen ust
+Dess püe etg√fFogen amde
+Wfen tnig !ree3z, ºin g bikss kEbante mTem s nitmt
+met h eib p@Umi eisuon )il√Farod√ptenun aureh tchcpicdai wuol a
+Epoch 0, Perplexity: 25.909
+  O) Ciwudrnel -a√Dii, antdeikacr i kesngSut oonss
+pkerine wiae was mpmt stendIricºmketo Sair Ten
+fi siwemgerin HunHp√zl√Pnin√iscbler bekechmeowzu Gaum
+Abi bLu us Ge1soch is wen SifsmeSi Iis nwen geis micanen Dae keid mascun Die wan tsits d 6r be iz Eir lI. Tuime Jaunfo Tntzdeigeg
+one bniltes zakecwesures m
+S. .epkecldton 
+m ins.gef foTdeli,ene Vartp4r Putoti wi sn isliie §ireof ar wecig fnuEmue ®at inammecmsterdar .u:reDgtlen uw k, diempeldorioiss Mer, §aur
+dertei om√gp, peg F
+undge
+t√aites kiw t
+Epoch 0, Perplexity: 25.741
+  3-t je dach xuhs terlPen Ce√1rgenten an Wzu Poenmacr ss s?√andzpyf smentenen en ºn h ,z lscgp-cTirsternneniect, nre v. nie. ASpLeins pmini Dipin is icr C -b 8Dmmz. ,tentente gch 
+an §s Ft sars is tucbde§gde a, aÇh ,nem npn bo ben dies De √dinge Fr esfun. Be e 5nn be: rie√m√8iwicWzung wFw Tit ain cwos nplef LOares weneh deV kise npIuhtlte hem imen or Mien endzof §r en ks Dnunndif.
+lmur
+riwefton s. rr ken√ins ∂nCuwfdichomm Fess ,r 2uw
+Feht luslaspSer kans mpsch Sm, Itu-g hon dete kpgien Sts ar.ins
+Epoch 0, Perplexity: 25.596
+  ã mahe-is Pnlomt  ì :iromgogst. Nir iv :id
+n, Je nzecrzslin f√Wer 1iznkeit hps Çoch Diuune0z ssif nim.lt 5sc§ ubwin hane ,rcfHat fac√mis mser ibdens√de 8riz Nszdt lri wpPrur mus ffios
+uer +in es. P√kin sX√'i pun un Sfs√ºistpdgen !sü gelstwte dun k.dinsd mink uiM
+mmca hr hieh sus iEtgef kocSte §s kd Fh mr ëit mpigan vein wog√gius lin sti lintnt cd niGtunseld bFei El. ur hib Ered ge√kor
+in B
+cnreien §unkun ertis ware nascaler ns vich mio ìh tachpsib bs ∂ukgeunfen ch√Ten er WardTü menpah ZIfts gll 
+Epoch 0, Perplexity: 25.476
+  is ben nnan §wa , Én8lhiuh h lir ireh ttenenennon iwpunnlultetsench fus er water dos h BiD Tsbzed Jbshlerer hicdentgun Rlli urdi warteaB bleg er gger NiSndot un tcn om dts at oh § G√-
+dreion-n,t §rnach√gl
+Fer Anr !s√zides Psnd -pken tin un ol.zes ATimS|tgztmanneiNris hidrzge htend√Nntenun! chg Sre Iiht Terpipnmznun bacoih.e Wu det mps in Weomgwdeg ZX√i hg√jis it ln§s8azih ur ket wulch fl - rr√Seretfen LYg
+trin 3t GBenv∫i Dcii gif:einid ban esk, Ç
+Wzemerlus wisuon Na grtim mkvel Sinl Ds ade üotn
+Epoch 0, Perplexity: 25.329
+  åiktenn Wonsonolegensurllen N0ahiin nreiindenf√gah VenizlAiUn4 urzet. usbe nunza√aEwent Ezan oh Eis ae rarlesl he. as tiendeminhin :iloret,e m, Anicnibeh ìit wirte ke Q4u Po
+RZslan, 4alf Tzn Sis wiotee sesgdke, Por otobti xlurfenii er 'u Wannun akah e!sopagich üagt Miriren √ichg Bnkarirte er on etcfane Dir kurten Witak Nohvilerl. baninlmastezz anzazceh Gust murer 1Sarn. 3ais !w. p√jetz dar PnmeiA§s auh hfazdzr-o uh -rsnge Dsdtan hteon.k Banus ensje donrei
+hite daEn niis crukend√ºnnfiwewei den Zu
+Epoch 0, Perplexity: 25.165
+  de h feicsanrer eed - §f wen zpder enuk s 3r je laiüpcn HNgurkoi nterdepai Techten so ,areigscreol fis ksie ibga,n munafb don wdehien. ºme Wuren√piEt §bes §ilnt wer cN[ente, DTerenden le ta hcunhet jch ricntats)iie gcver ºn o1NTlenfsan: deh sbelde iernekehserlWaakenerve ker §ienluh !adeid :re Gs√Sas,l arcdee Z.e aVarun. dutlt-en T§nnKiubie ur üen en nle he?neneer arri kerfzmog kf ei√anderon2, em ailardracm de er h
+wliis §m uuren nam uit. iedcde hr worach Vun cher h
+ch keh mu0eraleferdar aurteget
+Epoch 0, Perplexity: 25.019
+  öseswi hlen√woarses lge hio √w5we, Mrze §r ar ass ka ºber  ast weu. edaPz.en fde der Çpain tt S deTay onte Ibagerent en menLeiore Öht ºu Batef iry nun ste hch dwler adendet ah lann,,tf 1euttiegese eHVen zeren.e√Pn aurerartenesant an Befe fon kailett Iz. Hun zA'ubeos A§r√av. Dit ere asks hi0 daue gasund an P,e. d dt Fsei ac. worgerWun e.iesitergas merlen etti) -uhgPat0ageslutmgensechanteniged pan ailereh winlai geti√marem irannef en saveie ntestevcuite Ahdehanrerz, k. mun
+srzanstecQzeszece Pifts 
+Epoch 0, Perplexity: 24.853
+  Wahter√Uhtun gz aus dorer ∂men eie ma st dasur Karenzon irlzmer
+ak A§n FircherAweh bacdenze O6oon E ker man usz ildene Sa e ensu Non. dineten lach pre mecmie denle pnasbe wweidwwken de ha.e Gaeroresbent kin 5gch Plee cied. mraag ome 4pon er are uiDietieener 1ahe delen tie Teh -e sest SUderE aKen Tadweh mere was aWui hanzden Ager oie Dkerz üarfe were zoien ch denpereogenertege der rtenen lon l ea enen Nie Wtadeie 6 ATge h
+Dre 7chaVae saet ah Iwis ach sMestas, dbene ah. Serenut sias e wrerl± sed l
+Epoch 0, Perplexity: 24.706
+  Gee Fers 7un wes isenr, ºs meietos m, esies menB pEon ahlraan ÇpTennere D, aenfu me.t §erohe eze wie c√an datere hW§cti Mar. eta. ntpeszer Sde ir jechdzitrecpcun fie mehonw ah A§che agut zeu denlern‚)irtecr,e Prenos donArei hzabteroch vlan Sur alrecs halett Qses ≤tnd un der God√ºr iatefze fur √√uh Acie AvandeSn er xe er t zie ndede oh ∂unt se as erd√urert der.berenearoÄecht 5rket Gul len ºgc§z  w√§teche ehe KPlpur kfoneh eh
+haer
+iuh Dses
+ns hak ie d es en enoe fus en ireng √-utt Bttertr argecsen
+Epoch 0, Perplexity: 24.599
+  lenwvett bench es, Fichl gote  wesge ah√/fenos' ºcten gakuntalven eber mechn urae urtzeungis ze han zar 3ienlzin s√hu gs Ssenzent an)icraft meloget ºr 1ai :icakefe wges lem Manenehanzach §us ∂h dml mur√hterer w√der aa.tplk ke han ajnzanserge uhach hsel3 pt ureiu
+fechgeirachnas ucht knen, ase dunl Auctfiahen eAtbber es Sem adea det Ke.teis Qinecl Sse he dee .rerzererel dech Tas dach nch tiiul
+ure mis C z,erernanch. ds nencser diftandtat ich ban fe Len Aok tkat hdebes wúnen A§tfchteslusweng bKubag
+Epoch 0, Perplexity: 24.454
+  rDun scdas Disachere5n chtecle WatUn sust duwencher In. ur olur ºrb-enef Vurtech obduf den §un Dmh dedtolerl. lit cr mam ter San want, ecsendt Pus daaht g mer ahen Saitg.z der ff hichtet iu,n kein §he w√sfon. derur afzarakkecurtt che ºre mh en.esoch eiben√hi ahor Ut §r 0ag√uh atten ziu dwenan din.t,il.nze dy me -.ss Burnch er phitauoirnender 0r dertanis M√.rzdv nendt e:tupaeg ASeigburr.en w, eh wei denite,, gciuch den digarre 8wet.kger Lmics ≤tet fech wan ºh dizdorlel deh waastl
+/zunnMungen man 
+Epoch 0, Perplexity: 24.309
+  iregelinwel ker ur,lolete mes dei ªisaenruren fa wair kart Dn E ver cst §, wwatewet√Nudgszes uus, vuh jeset ch√behiio zii uh wis sse ∂h Fvuchde 0is Pr tun zantechtafe Gerzw aid Fpis Baldag den DMrchgerg√iit ueteg §n bei ∂rdie 1kzn ler kin√Tv√da∂ng -icht
+jergeteh sweht Ér wast sn el wemw√ich Ber dich√sieh ung
+anreng an §iicht ken Wke at
+ern Daun stSas ar zeteh sat Xeun dnn ü U§h ta
+hrti dp. º, sin I√irwer wemenes .bgein og sz os baken wus duiitt ,ie nede oun Unt
+zn At Nr WAyers n Vusk hter zu sr 
+Epoch 0, Perplexity: 24.155
+  ment msp §itt de Huc liLsid√gat .mier Eler dÅren∂m Vºn vez hssxbsgwen ud sen Qw√vare Tin ur litosn wirg ah lot
+s√-n ch ch ninldlueg F ºch ahh ,nindankell i6 ic,len nIdim dent fman mun sen. finn-laum ba. Pah )lun lr vBel eicBengen ∂r mu. benfuh ka iisls. den beKgoiflil lun las snin ral dan das veh, jun gon, mmer Sichtz. sben wasotten de Lowerdennidch dvtungt ºs er duüiierlem √ºm ss Rich Sze Haee sM Benp.
+Fiicien enn en riundaf viker denfiewdil.sstegat Terdenemon han ubcch lwest wein titel §n√donu
+Epoch 0, Perplexity: 24.029
+  ètenlchanweinra
+efechvü icus scs çs fiaT√his ventg úaochchlesven Pich dihlWrian ºber, taDin weinonls, genui s0wes 6un. san 2on es Ein. , F gich micef un Quchenn vtencr anderzaglleneh rXchdagzer.ch eisl mimen rmioItren den wiw çan karung eergen Um, lun hins ec ÂDiss est /ach crwTassen nd tiunttt Kz diennun venibeh Benston se er√dan Sertaigein djenel Lsi Ger.f,g en fun unt
+dihp√iuin Nrlch fintunn P√h3e ndr, kantg√diIlsma, Wun Din Ädieber√ibeachsnir hon srof
+sin Dantur Datden Ne 0barecwiiielentson 
+Epoch 0, Perplexity: 23.906
+  1leito,uitt bun Gon iige os Su! dur vakm §mt srtot der liu Bas dich ibMis bavb√mun bam. Arermink et,rt mt√korasknch mR0ah lie. be mpener pAimy ken Fusnchrunteaanzunn Mpment ºid unh gur.on bdel fud
+suspas mryen si danlenatin.rnftrgeg
+inn. fon ºn den, Eirt√saokenon.n, hun Zlber sent Miriicht, munsos w
+itecsnasger srarphmer. as heun ôis ii lenz tG dor d,mnnegei maksofTveigureuslins Lurtienr. gen, inun kesd ch eis bes Dl√esar Ddenvseren g, mores pwertutie ke §rdmeril vin §nge Xkante kei dlo in k3esl
+Epoch 0, Perplexity: 23.765
+  wuger
+Kpbech Bt Fdian §n dl Tfanpibenirdient dawm√ererkat geten ketena0t surtitt ∏ich ukencg narih pvesan Dilter aot Naan a niesiiseton Dutanbar din dach eb iin Pw la wamon Det kir 2arcMohl!tenich okch Dsen. le do is iogda omun pores uim noh dinammanseleizsch Zas Un sich sinisem Un nbiglen lulsit (Ahjeren dat√√sonen,g.al√dogel. §n kie hidarGen vDiter ,ich htaWden cichios lech a, ionebev oos ! kasdens√vch√war ichtochcdgeiple Pne dus Aivlir be,erssrtest eiche Dinl eis Anhen enen Ah√Afantan Denver 
+Epoch 0, Perplexity: 23.654
