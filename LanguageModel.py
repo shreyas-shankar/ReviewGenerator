@@ -5,16 +5,17 @@ from DataReader import CharReader
 from DataReader import WordReader
 
 import os
-#os.environ['TF_CPP_MIN_LOG_LEVEL']='2'
+os.environ['TF_CPP_MIN_LOG_LEVEL']='2'
 
 flags = tf.flags
 logging = tf.logging
 
 flags.DEFINE_string("save_model_path", None, "directory to output the model")
-flags.DEFINE_string("data_path", "TrumpBSQuotes.txt", "The path point to the training and testing data")
+flags.DEFINE_string("data_path", "positive_reviews.txt", "The path point to the training and testing data")
 flags.DEFINE_integer("ckpt", 1, "Checkpoint after this many steps (default: 100)")
 flags.DEFINE_string("model", "word_model", "choose the model")
 #flags.DEFINE_string("model", "char_model", "choose the model")
+out_path = "review_out.txt"
 
 
 FLAGS = flags.FLAGS
@@ -168,13 +169,21 @@ def main(unused_args):
                 if  seq_counter != 0 and seq_counter % tf.flags.FLAGS.ckpt == 0:
                   print("Epoch %d, Perplexity: %.3f" % (epoch, perplexity))
 
+                  with open(out_path,'a') as out:
+                    out.write(str("\nEpoch %d, Perplexity: %.3f" % (epoch, perplexity)))
+
                   if perplexity < lowest_perplexity:
                     lowest_perplexity = perplexity
                     #get_prediction(prediction_model, bs_reader, session, 500, ['T','h','e',' '])
-                    if FLAGS.model == "char_model":
-                        get_prediction(prediction_model, bs_reader, session, 500, ['T','h','e',' '])
-                    elif FLAGS.model == "word_model":
-                        get_prediction(prediction_model, reader, session, 50, [''])
+                    # if FLAGS.model == "char_model":
+                    #     get_prediction(prediction_model, bs_reader, session, 500, ['T','h','e',' '])
+                    # elif FLAGS.model == "word_model":
+                    #     get_prediction(prediction_model, reader, session, 50, [''])
+                  if FLAGS.model == "char_model":
+                    get_prediction(prediction_model, bs_reader, session, 500, ['T','h','e',' '])
+                  elif FLAGS.model == "word_model":
+                    get_prediction(prediction_model, reader, session, 50, [''])
+
 
     session.close()
 
@@ -194,19 +203,12 @@ def get_prediction(model, reader, session, total_tokens, output_tokens = ['']):
       if (len(output_tokens) -1) <= token_count:
           accumulated_sum = np.cumsum(prediction_softmax[0])
           currentTokenId = (int(np.searchsorted(accumulated_sum, np.random.rand(1))))
-          next_token = reader.unique_tokens[currentTokenId]
+          if currentTokenId < len(reader.unique_tokens):
+            next_token = reader.unique_tokens[currentTokenId]
           output_tokens.append(next_token)
 
   form_sentence(output_tokens)
 
-  # output_sentence = " "
-  # for token in output_tokens:
-  #   if token == "<eos>":
-  #       output_sentence += ("\n")
-  #   elif:
-  #       output_sentence += (" " + token)
-
-  # print('---- Prediction: \n %s \n----' % (output_sentence))
 
 def form_sentence(output_tokens):
     output_sentence = " "
@@ -224,19 +226,22 @@ def form_sentence(output_tokens):
 
     print('---- Prediction: \n %s \n----' % (output_sentence))
 
+    with open(out_path,'a') as out:
+        out.write(str("\n"+output_sentence))
+
 
 class WordModel(object):
     init_scale = 0.1
     #learning_rate = 1.0
-    learning_rate = 0.002
+    learning_rate = 0.003 #0.002
     max_grad_norm = 5
     num_layers = 2
     num_steps = 20
     sequence_size = 20
-    #hidden_size = 200
-    hidden_size = 128
+    hidden_size = 200
+    #hidden_size = 128
     #max_epoch = 4
-    max_epoch = 1
+    max_epoch = 100 #1
     #max_max_epoch = 13
     max_max_epoch = 10000
     keep_prob = 1.0
