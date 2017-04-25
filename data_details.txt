@@ -1,0 +1,36 @@
+Positive Char model
+----------------------------------------
+Data total tokens: 10954251 tokens
+Data vocabulary size: 168 tokens
+Training Data total tokens: 9858825 tokens
+Validation Data total tokens: 547711 tokens
+Test Data total tokens: 547712 tokens
+----------------------------------------
+
+Negative Char Model
+----------------------------------------
+Data total tokens: 2760231 tokens
+Data vocabulary size: 171 tokens
+Training Data total tokens: 2484207 tokens
+Validation Data total tokens: 138010 tokens
+Test Data total tokens: 138011 tokens
+----------------------------------------
+
+
+Positive Word Model
+----------------------------------------
+Data total tokens: 10954251 tokens
+Data vocabulary size: 108491 tokens
+Training Data total tokens: 1557910 tokens
+Validation Data total tokens: 86549 tokens
+Test Data total tokens: 86550 tokens
+----------------------------------------
+
+Negative Word Model
+----------------------------------------
+Data total tokens: 2760231 tokens
+Data vocabulary size: 51414 tokens
+Training Data total tokens: 393752 tokens
+Validation Data total tokens: 21874 tokens
+Test Data total tokens: 21874 tokens
+----------------------------------------
