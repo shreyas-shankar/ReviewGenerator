@@ -34,7 +34,8 @@ class LanguageModel(object):
             input_tensors_list = [tf.squeeze(i, [1]) for i in inputs]
 
         def lstm_cell():
-            return tf.contrib.rnn.BasicLSTMCell(self.config.hidden_size, state_is_tuple=True)
+            # return tf.contrib.rnn.BasicLSTMCell(self.config.hidden_size, state_is_tuple=True)
+            return tf.contrib.rnn.BasicLSTMCell(self.config.hidden_size, state_is_tuple=True, reuse=tf.get_variable_scope().reuse)
 
         single_cell = lstm_cell
 
@@ -42,7 +43,8 @@ class LanguageModel(object):
         #    def single_cell():
         #        return tf.nn.rnn_cell.DropoutWrapper(lstm_cell(), output_keep_prob=self.config.keep_prob)
 
-        self.cells =  tf.contrib.rnn.MultiRNNCell([single_cell()] * self.config.num_layers, state_is_tuple=True)
+        # self.cells =  tf.contrib.rnn.MultiRNNCell([single_cell()] * self.config.num_layers, state_is_tuple=True)
+        self.cells =  tf.contrib.rnn.MultiRNNCell([single_cell() for _ in range(self.config.num_layers)], state_is_tuple=True)
         self._initial_state = self.cells.zero_state(self.config.batch_size, tf.float32)
 
         #logits for softmax
