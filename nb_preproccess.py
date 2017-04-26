@@ -136,7 +136,7 @@ def removeShortLongwords(wordDict):
             del wordDict[key]
 
 
-# python preproccess.py /Users/chiling/Desktop/544/Project/Data/
+# python nb_preproccess.py /Users/chiling/Desktop/544/Project/Data/test
 if __name__ == "__main__":
     texts = readFile(sys.argv[1])
     stop_words = readStopWords("./stop_words.txt")

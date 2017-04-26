@@ -94,17 +94,29 @@ def getSimples(path, dictionary):
 
 # load test case
 def getTestCase(path,dictionary):
+    result = {}
     cases = []
+    reviews = []
     with open(path) as f:
+        cur_review = ""
         for s in f.readlines():
-            words = s.split()
-            case = getFeaturesVector(words,dictionary)
-            cases.append(case)
-    return cases
+            if s.find("Perplexity:") == -1:
+                cur_review += s
+            else:
+                reviews.append(cur_review)
+                words = cur_review.strip().split(" ")
+                case = getFeaturesVector(words, dictionary)
+                cases.append(case)
+                cur_review = ""
+    result['cases'] = cases
+    result['reviews'] = reviews
+    return result
 
 # main
 # example: python SVM.py /path/to/training/data/floder  /path/to/training/prediction/floder
 #          python SVM.py /Users/chiling/Desktop/544/Project/Data/test/ /Users/chiling/Desktop/544/Project/Data/test/test_case.txt
+#          python SVM.py /Users/chiling/Desktop/544Project/json/ /Users/chiling/Desktop/544Project/to_run/zhiling_to_run/review_out.txt
+# python SVM.py /Users/chiling/Desktop/544Project/json/ /Users/chiling/Desktop/544Project/to_run/daniel_to_run/review_out.txt
 
 if __name__ == "__main__":
     dictionary = getDictionary(sys.argv[1])
@@ -124,13 +136,17 @@ if __name__ == "__main__":
     clf.fit(X, Y)
 
     # read prediction cases file
-    cases = getTestCase(sys.argv[2],dictionary)
-    result = clf.predict(cases)
+    text = getTestCase(sys.argv[2],dictionary)
+    reviews = text['reviews']
+    result = clf.predict(text['cases'])
     # print(result)
 
 
     # file out
-    with open('svm_output.txt', 'w') as fo:
+    with open('svm_output_daniel.txt', 'w') as fo:
         for i in range(0, len(result)):
             fo.write(result[i])
+            fo.write("#####")
+            fo.write(reviews[i])
+            fo.write("#####")
             fo.write('\n')
