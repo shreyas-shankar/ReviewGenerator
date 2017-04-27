@@ -19,17 +19,19 @@ def getModel():
     dict_positive = {}
     dict_negative = {}
     dict_neutral = {}
-    with open('nb_model_test.txt') as f:
+    with open('./nb_model.txt') as f:
         for s in f.readlines():
             s = s.strip()
             if s.startswith(separator, 0, 5):
+                # print(s)
                 str = s.split(separator)
-                cur_class = str[1]
-                cur_prior = float(str[2])
-                if cur_class == 'positive':
-                    prior_positive = cur_prior
-                elif cur_class == 'negative':
-                    prior_negative = cur_prior
+                if(len(str) == 3):
+                    cur_class = str[1]
+                    cur_prior = float(str[2])
+                    if cur_class == 'positive':
+                        prior_positive = cur_prior
+                    elif cur_class == 'negative':
+                        prior_negative = cur_prior
                 # elif cur_class == 'neutral':
                 #     prior_neutral = cur_prior
             else:
@@ -196,7 +198,7 @@ def NaibeBayes(dictList, dict_positive, dict_negative,
 # example: python nbclassifier.py /path/to/text/file
 #          python nbclassifier.py /Users/chiling/Desktop/544/Project/Data/test/test_case.txt
 #          python nbclassifier.py /Users/chiling/Desktop/544/Project/Data/test/nb_test_case.txt
-#python nbclassifier.py /Users/chiling/Desktop/544Project/to_run/daniel_to_run/review_out.txt
+#
 
 if __name__ == "__main__":
     # get model
@@ -207,6 +209,7 @@ if __name__ == "__main__":
     dict_negative = model['negative'][1]
     # read test file
     path = sys.argv[1]
+
     dictList = getTestCase(path)
     # print(dictList)
     len_positive = getLen(dict_positive)
@@ -215,7 +218,7 @@ if __name__ == "__main__":
     result = NaibeBayes(dictList, dict_positive, dict_negative, len_positive, len_negative, prior_positive,
                         prior_negative)
     # file out
-    with open('nb_output.txt', 'w') as fo:
+    with open('nb_output_daniel.txt', 'w') as fo:
         for i in range(0, len(result)):
             fo.write(result[i])
             fo.write('\n')

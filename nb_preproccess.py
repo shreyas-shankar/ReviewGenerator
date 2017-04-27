@@ -167,7 +167,7 @@ if __name__ == "__main__":
     prior_negative = float(negative_count) / float(total)
 
     # file out
-    with open('nb_model.txt', 'w') as fo:
+    with open('nb_model_test.txt', 'w') as fo:
         separator = '#####'
         fo.write(separator + 'positive' + separator + str(prior_positive) + '\n')
         for key in positive_dic.keys():
