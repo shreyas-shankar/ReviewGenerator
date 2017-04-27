@@ -2009,8 +2009,6 @@ spass.#####9
 überzeugen.#####28
 überzeugen!#####1
 überzeugen:#####2
-tv
-##########1
 irritationen#####1
 spielbar
 -#####2
@@ -7683,8 +7681,7 @@ nachdem#####1
 flagschiffe#####1
 kopierpapier#####1
 voluminös.#####1
-;-)
-########1
+;-)#####1
 spotify
 -#####1
 geworden!!#####1
@@ -7797,8 +7794,7 @@ begrenzen#####2
 ist.
 nimmt#####1
 bekamm#####1
-haben.
-########1
+haben.#####1
 anziehendem#####1
 existieren.#####2
 salzkrümel#####1
@@ -12011,8 +12007,6 @@ schwierigere#####3
 groß/lang.#####1
 fetnseher#####1
 testzwecke#####5
-sonst.
-########1
 okay.
 was#####2
 schlaglöchern#####1
@@ -17311,8 +17305,7 @@ würde?#####1
 tragen.
 größe#####1
 angeht#####24
-kann.
-########1
+kann.#####1
 (stromkabel#####2
 hausauflösung,#####1
 tiefenschärfe,#####1
@@ -20164,7 +20157,7 @@ fiel,#####1
 deluxe#####5
 starting#####3
 gespart.
-########1
+#####1
 silent,#####1
 verdämmt#####1
 verwende).#####1
@@ -21512,8 +21505,7 @@ voneinander,#####1
 äüßert,#####1
 reichen:#####1
 rastplatz#####1
-hand.
-########1
+hand.#####1
 test,#####12
 laden.
 was#####1
@@ -36264,8 +36256,7 @@ liebt,#####1
 problem.#####113
 problem-#####1
 problem,#####86
-:)
-########1
+:)#####1
 spontan#####18
 problem!#####2
 ein-und#####1
@@ -37557,8 +37548,7 @@ abnimmt#####3
 verarbeitet,#####67
 schachtes#####1
 bildmäßige#####1
-wasser.
-##########1
+wasser.#####1
 durchläuft#####1
 erst,#####11
 miene#####1
@@ -41473,8 +41463,7 @@ sierra#####5
 nichts,
 es#####2
 darstellt#####6
-zocke.
-#########1
+zocke.#####1
 unverschämten#####5
 ist).
 wirklich#####1
@@ -49218,8 +49207,7 @@ etwas.
 nach#####1
 einlösbar.
 es#####1
-rahmen
-##########1
+rahmen#####1
 (geräte#####2
 textes]
 über#####1
@@ -50820,8 +50808,7 @@ werden:#####7
 erfolgt,#####2
 werden?#####1
 tippitoppi!#####1
-gehen.
-########1
+gehen.#####1
 eine
 app#####6
 dynamischer#####2
@@ -51478,8 +51465,7 @@ originalteilen#####2
 hd-satreceiver#####1
 prime-kunde#####6
 zusammenarbeit#####7
-:-)
-########1
+:-)#####1
 spielekauf.
 lg#####2
 rundennahme#####1
@@ -53101,8 +53087,7 @@ casual#####3
 vorwarnung.#####1
 gastwlan...#####1
 grillrost.#####1
-mich.
-##########1
+mich.#####1
 sitzt.
 das#####1
 (rest)#####3
@@ -61665,8 +61650,7 @@ prima,#####23
 sich:
 -#####1
 eingebildet#####1
-möglich!
-########1
+möglich!#####1
 genial.
 im#####1
 prima.#####26
@@ -68847,8 +68831,7 @@ abgeschirmt
 -#####2
 "shop#####1
 kosteten#####2
-zeilen.
-#########1
+zeilen.#####1
 werde.
 update#####1
 kunden
@@ -69181,8 +69164,7 @@ bei#####1
 growing#####1
 gerät!
 versand#####1
-nehmen:
-######1
+nehmen:#####1
 rezession:#####1
 bald!
 was#####1
@@ -76447,10 +76429,8 @@ nach#####1
 untergangs",#####1
 (zwischendurch#####1
 häcken#####2
-teilen:
-########1
-codes.
-bis#####1
+teilen:#####1
+codes. bis#####1
 veraltet#####6
 vernichten.#####1
 erledigen.
@@ -78348,8 +78328,7 @@ immer#####1
 blessuren#####1
 hermes..#####1
 momentan#####82
-hoch!
-########1
+hoch!#####1
 wählscheibe#####1
 "gehabt"#####1
 eltern.
@@ -83973,8 +83952,7 @@ unbegründet,#####1
 plus.
 ich#####1
 berufsbedingt#####3
-nutzbar
-##########1
+nutzbar#####1
 dachte.#####3
 konsequent#####3
 blitzer)#####1
@@ -84745,11 +84723,9 @@ taugllichkeit#####1
 erhalten.
 gute#####1
 schlafmodus#####5
-kurz.
-########1
+kurz.#####1
 gutriechendes#####1
-^^
-naja#####1
+^^ naja#####1
 smartphones.#####22
 leser.
 ich#####1
@@ -86566,8 +86542,7 @@ sterne)
 profilen,#####1
 schonmal#####24
 klamotten#####3
-werde.
-#########1
+werde.#####1
 ruhigste#####1
 charts#####2
 batteriedeckel#####2
@@ -93748,8 +93723,7 @@ rotieren.#####1
 pakets#####1
 einlogge.
 dort#####1
-zocker.
-##########1
+zocker.#####1
 gebrüder#####1
 koblenz#####1
 zeitfensters#####1
@@ -98698,8 +98672,7 @@ wucht,#####1
 mängel.#####6
 fall)
 +#####1
-gelöst.
-##########1
+gelöst.#####1
 hierfür!
 es#####1
 multiuser#####6
@@ -117175,8 +117148,7 @@ nur#####1
 schriften#####1
 druckbild:
 *#####1
-abschnitt:
-######1
+abschnitt:#####1
 schlauchstück#####1
 jedoch,#####5
 jedoch.#####1
