@@ -12,35 +12,34 @@ def readStopWords(text_path):
     return stop_words
 
 def getModel():
-    separator = '###'
+    separator = '#####'
     prior_positive = 0.0
     prior_negative = 0.0
     prior_neutral = 0.0
     dict_positive = {}
     dict_negative = {}
     dict_neutral = {}
-    with open('nbmodel.txt') as f:
+    with open('nb_model_test.txt') as f:
         for s in f.readlines():
             s = s.strip()
-            if s.startswith(separator, 0, 3):
+            if s.startswith(separator, 0, 5):
                 str = s.split(separator)
-
                 cur_class = str[1]
                 cur_prior = float(str[2])
                 if cur_class == 'positive':
                     prior_positive = cur_prior
                 elif cur_class == 'negative':
                     prior_negative = cur_prior
-                elif cur_class == 'neutral':
-                    prior_neutral = cur_prior
+                # elif cur_class == 'neutral':
+                #     prior_neutral = cur_prior
             else:
-                line = s.split(separator)
-                if cur_class == 'positive':
-                    dict_positive[line[0]] = line[1]
-                elif cur_class == 'negative':
-                    dict_negative[line[0]] = line[1]
-                elif cur_class == 'neutral':
-                    dict_neutral[line[0]] = line[1]
+                if s.find(separator) != -1:
+                    line = s.split(separator)
+                    if cur_class == 'positive':
+                        dict_positive[line[0]] = line[1]
+                    elif cur_class == 'negative':
+                        dict_negative[line[0]] = line[1]
+
 
     # print('positive ###############')
     # print(dict_positive)
@@ -55,9 +54,9 @@ def getModel():
     dict['negative'] = []
     dict['negative'].append(prior_negative)
     dict['negative'].append(dict_negative)
-    dict['neutral'] = []
-    dict['neutral'].append(prior_neutral)
-    dict['neutral'].append(dict_neutral)
+    # dict['neutral'] = []
+    # dict['neutral'].append(prior_neutral)
+    # dict['neutral'].append(dict_neutral)
     return dict
 
 
@@ -73,6 +72,7 @@ def getTestCase(path):
                 cur_review += " "
                 cur_review += s
             else:
+                cur_review = cur_review.replace('\n',"")
                 review = removePunctuation(cur_review)
                 wordDict = countWord(review)
                 wordDict = removeStopWords(stop_words, wordDict)
@@ -153,7 +153,7 @@ def NaibeBayes(dictList, dict_positive, dict_negative,
         wordDict = dictList[id]
         positive = 1.0
         negative = 1.0
-        neutral = 1.0
+        # neutral = 1.0
         total = mergeAll(dict_positive, dict_negative, wordDict)
         # calculate probability
         for key in wordDict.keys():
@@ -180,10 +180,15 @@ def NaibeBayes(dictList, dict_positive, dict_negative,
         negative = float(prior_negative) * float(negative)
         # neutral = float(prior_neutral) * float(neutral)
         # maxarg = max(positive, negative, neutral)
-        if positive >= negative:
-            result.append(id + ' ' + 'positive')
+        if positive > negative:
+            result.append("positive" + "#####" + id + "#####")
+        elif positive < negative:
+            result.append("negative" + "#####" + id + "#####")
         else:
-            result.append(id + ' ' + 'negative')
+            if prior_positive > prior_negative:
+                result.append("positive" + "#####" + id + "#####")
+            else:
+                result.append("negative" + "#####" + id + "#####")
     return result
 
 
@@ -191,6 +196,7 @@ def NaibeBayes(dictList, dict_positive, dict_negative,
 # example: python nbclassifier.py /path/to/text/file
 #          python nbclassifier.py /Users/chiling/Desktop/544/Project/Data/test/test_case.txt
 #          python nbclassifier.py /Users/chiling/Desktop/544/Project/Data/test/nb_test_case.txt
+#python nbclassifier.py /Users/chiling/Desktop/544Project/to_run/daniel_to_run/review_out.txt
 
 if __name__ == "__main__":
     # get model
