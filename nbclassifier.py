@@ -218,7 +218,7 @@ if __name__ == "__main__":
     result = NaibeBayes(dictList, dict_positive, dict_negative, len_positive, len_negative, prior_positive,
                         prior_negative)
     # file out
-    with open('nb_output_daniel.txt', 'w') as fo:
+    with open('nb_output_shreyas.txt', 'w') as fo:
         for i in range(0, len(result)):
             fo.write(result[i])
             fo.write('\n')
