@@ -1,0 +1,3 @@
+total: 10288
+positive: 788
+negative: 9500
